@@ -1,0 +1,110 @@
+[
+  {
+    "source": "Anticipate total snow accumulations in the Highway 20 corridor of 5 to 8 inches, with 3 to 6 inches near Highway 30, and 2 to 4 inches along Interstate 80. Stay informed about local road conditions and avoid travel if conditions worsen. Clear snow safely to prevent overexertion.",
+    "target": "D\u1ef1 ki\u1ebfn t\u1ed5ng l\u01b0\u1ee3ng tuy\u1ebft t\u00edch t\u1ee5 d\u1ecdc theo h\u00e0nh lang Qu\u1ed1c l\u1ed9 20 (Highway 20) l\u00e0 t\u1eeb 5 \u0111\u1ebfn 8 inch, g\u1ea7n Qu\u1ed1c l\u1ed9 30 (Highway 30) l\u00e0 t\u1eeb 3 \u0111\u1ebfn 6 inch v\u00e0 d\u1ecdc theo Xa l\u1ed9 Li\u00ean ti\u1ec3u bang 80 (Interstate 80) l\u00e0 t\u1eeb 2 \u0111\u1ebfn 4 inch. H\u00e3y theo d\u00f5i th\u00f4ng tin v\u1ec1 t\u00ecnh h\u00ecnh \u0111\u01b0\u1eddng s\u00e1 t\u1ea1i \u0111\u1ecba ph\u01b0\u01a1ng v\u00e0 tr\u00e1nh \u0111i l\u1ea1i n\u1ebfu \u0111i\u1ec1u ki\u1ec7n tr\u1edf n\u00ean t\u1ed3i t\u1ec7 h\u01a1n. D\u1ecdn tuy\u1ebft an to\u00e0n \u0111\u1ec3 tr\u00e1nh ki\u1ec7t s\u1ee9c v\u00ec l\u00e0m vi\u1ec7c qu\u00e1 s\u1ee9c.",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17629-2"
+    },
+    "id": 1
+  },
+  {
+    "source": "Anticipate total snow accumulations in the Highway 20 corridor of 5 to 8 inches, with 3 to 6 inches near Highway 30, and 2 to 4 inches along Interstate 80. Stay informed about local road conditions and avoid travel if conditions worsen. Clear snow safely to prevent overexertion.",
+    "target": "D\u1ef1 b\u00e1o l\u01b0\u1ee3ng tuy\u1ebft t\u00edch t\u1ee5 t\u1ed5ng c\u1ed9ng t\u1ea1i h\u00e0nh lang Xa l\u1ed9 20 l\u00e0 5 \u0111\u1ebfn 8 inch, 3 \u0111\u1ebfn 6 inch g\u1ea7n Xa l\u1ed9 30 v\u00e0 2 \u0111\u1ebfn 4 inch d\u1ecdc theo Xa l\u1ed9 Li\u00ean ti\u1ec3u bang 80. H\u00e3y c\u1eadp nh\u1eadt th\u00f4ng tin v\u1ec1 t\u00ecnh tr\u1ea1ng \u0111\u01b0\u1eddng s\u00e1 \u0111\u1ecba ph\u01b0\u01a1ng v\u00e0 tr\u00e1nh \u0111i l\u1ea1i n\u1ebfu \u0111i\u1ec1u ki\u1ec7n x\u1ea5u \u0111i. D\u1ecdn tuy\u1ebft m\u1ed9t c\u00e1ch an to\u00e0n \u0111\u1ec3 tr\u00e1nh qu\u00e1 s\u1ee9c.",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17629-2"
+    },
+    "id": 2
+  },
+  {
+    "source": "**Flood Warning:** Over the past 48 hours, rainfall amounts of 2 to 5 inches have led to rapid rises in local waterways in Central Indiana. Ensure you have emergency supplies ready. If you are in low-lying areas, consider evacuating to higher ground. ",
+    "target": "**C\u1ea3nh b\u00e1o l\u0169 l\u1ee5t:** Trong 48 gi\u1edd qua, l\u01b0\u1ee3ng m\u01b0a t\u1eeb 2 \u0111\u1ebfn 5 inch \u0111\u00e3 khi\u1ebfn m\u1ef1c n\u01b0\u1edbc tr\u00ean c\u00e1c s\u00f4ng su\u1ed1i \u0111\u1ecba ph\u01b0\u01a1ng \u1edf mi\u1ec1n Trung Indiana d\u00e2ng nhanh. H\u00e3y chu\u1ea9n b\u1ecb s\u1eb5n s\u00e0ng c\u00e1c v\u1eadt ph\u1ea9m c\u1ee9u h\u1ed9 kh\u1ea9n c\u1ea5p. N\u1ebfu b\u1ea1n \u0111ang \u1edf v\u00f9ng tr\u0169ng th\u1ea5p, h\u00e3y c\u00e2n nh\u1eafc s\u01a1 t\u00e1n \u0111\u1ebfn n\u01a1i \u0111\u1ea5t cao h\u01a1n.",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-16181-1"
+    },
+    "id": 3
+  },
+  {
+    "source": "Anticipate total snow accumulations in the Highway 20 corridor of 5 to 8 inches, with 3 to 6 inches near Highway 30, and 2 to 4 inches along Interstate 80. Stay informed about local road conditions and avoid travel if conditions worsen. Clear snow safely to prevent overexertion.",
+    "target": "D\u1ef1 \u0111o\u00e1n l\u01b0\u1ee3ng tuy\u1ebft t\u00edch t\u1ee5 t\u1ed5ng th\u1ec3 trong h\u00e0nh lang Xa l\u1ed9 20 t\u1eeb 5 \u0111\u1ebfn 8 inch, v\u1edbi 3 \u0111\u1ebfn 6 inch g\u1ea7n Xa l\u1ed9 30, v\u00e0 2 \u0111\u1ebfn 4 inch d\u1ecdc theo Xa l\u1ed9 Li\u00ean bang 80.",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17629-2"
+    },
+    "id": 4
+  },
+  {
+    "source": "**Snow Accumulation Warning for Yellowstone National Park and Absaroka Mountains**: Expect total snow accumulation between 6 and 9 inches. Limit your time outdoors and dress in warm layers. If caught outside, be mindful of frostbite and hypothermia symptoms.",
+    "target": "**C\u1ea3nh b\u00e1o t\u00edch tuy\u1ebft t\u1ea1i V\u01b0\u1eddn qu\u1ed1c gia Yellowstone v\u00e0 D\u00e3y n\u00fai Absaroka**: D\u1ef1 b\u00e1o t\u1ed5ng l\u01b0\u1ee3ng tuy\u1ebft t\u00edch t\u1ee5 t\u1eeb 6 \u0111\u1ebfn 9 inch. H\u00e3y h\u1ea1n ch\u1ebf th\u1eddi gian \u1edf ngo\u00e0i tr\u1eddi v\u00e0 m\u1eb7c nhi\u1ec1u l\u1edbp qu\u1ea7n \u00e1o \u1ea5m. N\u1ebfu ph\u1ea3i \u1edf ngo\u00e0i tr\u1eddi, h\u00e3y l\u01b0u \u00fd c\u00e1c tri\u1ec7u ch\u1ee9ng t\u00ea c\u00f3ng v\u00e0 h\u1ea1 th\u00e2n nhi\u1ec7t.",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17672-1"
+    },
+    "id": 5
+  },
+  {
+    "source": "**Snow Accumulation Warning for Yellowstone National Park and Absaroka Mountains**: Expect total snow accumulation between 6 and 9 inches. Limit your time outdoors and dress in warm layers. If caught outside, be mindful of frostbite and hypothermia symptoms.",
+    "target": "**C\u1ea3nh b\u00e1o Tuy\u1ebft t\u00edch t\u1ee5 cho V\u01b0\u1eddn Qu\u1ed1c gia Yellowstone v\u00e0 D\u00e3y n\u00fai Absaroka**: D\u1ef1 ki\u1ebfn t\u1ed5ng l\u01b0\u1ee3ng tuy\u1ebft t\u00edch t\u1ee5 t\u1eeb 6 \u0111\u1ebfn 9 inch. H\u00e3y h\u1ea1n ch\u1ebf th\u1eddi gian \u1edf ngo\u00e0i tr\u1eddi v\u00e0 m\u1eb7c \u1ea5m nhi\u1ec1u l\u1edbp. N\u1ebfu ph\u1ea3i \u1edf ngo\u00e0i tr\u1eddi, h\u00e3y l\u01b0u \u00fd c\u00e1c tri\u1ec7u ch\u1ee9ng c\u00f3ng l\u1ea1nh v\u00e0 h\u1ea1 th\u00e2n nhi\u1ec7t.",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17672-1"
+    },
+    "id": 6
+  },
+  {
+    "source": "Minor flooding is impacting bottomland and low-lying areas in Paducah. If you are in these regions, please exercise caution and be prepared to evacuate if conditions worsen. Ensure your emergency supplies are ready and stay away from floodwaters.",
+    "target": "T\u00ecnh tr\u1ea1ng ng\u1eadp l\u1ee5t nh\u1eb9 \u0111ang \u1ea3nh h\u01b0\u1edfng \u0111\u1ebfn c\u00e1c v\u00f9ng tr\u0169ng v\u00e0 khu v\u1ef1c th\u1ea5p t\u1ea1i Paducah. N\u1ebfu b\u1ea1n \u0111ang \u1edf nh\u1eefng khu v\u1ef1c n\u00e0y, vui l\u00f2ng c\u1ea9n tr\u1ecdng v\u00e0 chu\u1ea9n b\u1ecb s\u1eb5n s\u00e0ng s\u01a1 t\u00e1n n\u1ebfu t\u00ecnh h\u00ecnh x\u1ea5u \u0111i. H\u00e3y \u0111\u1ea3m b\u1ea3o c\u00e1c v\u1eadt d\u1ee5ng kh\u1ea9n c\u1ea5p c\u1ee7a b\u1ea1n \u0111\u00e3 s\u1eb5n s\u00e0ng v\u00e0 tr\u00e1nh xa n\u01b0\u1edbc l\u0169.",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-16281-5"
+    },
+    "id": 7
+  },
+  {
+    "source": "Minor flooding is impacting bottomland and low-lying areas in Paducah. If you are in these regions, please exercise caution and be prepared to evacuate if conditions worsen. Ensure your emergency supplies are ready and stay away from floodwaters.",
+    "target": "L\u0169 l\u1ee5t nh\u1ecf \u0111ang \u1ea3nh h\u01b0\u1edfng \u0111\u1ebfn v\u00f9ng \u0111\u1ea5t th\u1ea5p v\u00e0 v\u00f9ng th\u1ea5p \u1edf Paducah. N\u1ebfu b\u1ea1n \u0111ang \u1edf trong c\u00e1c khu v\u1ef1c n\u00e0y, vui l\u00f2ng th\u1eadn tr\u1ecdng v\u00e0 chu\u1ea9n b\u1ecb s\u01a1 t\u00e1n n\u1ebfu t\u00ecnh h\u00ecnh x\u1ea5u \u0111i. H\u00e3y \u0111\u1ea3m b\u1ea3o c\u00e1c ngu\u1ed3n cung c\u1ea5p kh\u1ea9n c\u1ea5p c\u1ee7a b\u1ea1n \u0111\u00e3 s\u1eb5n s\u00e0ng v\u00e0 tr\u00e1nh xa n\u01b0\u1edbc l\u0169.",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-16281-5"
+    },
+    "id": 8
+  },
+  {
+    "source": "**Flood Warning:** Over the past 48 hours, rainfall amounts of 2 to 5 inches have led to rapid rises in local waterways in Central Indiana. Ensure you have emergency supplies ready. If you are in low-lying areas, consider evacuating to higher ground. ",
+    "target": "** C\u1ea3nh b\u00e1o l\u0169 l\u1ee5t:** Trong 48 gi\u1edd qua, l\u01b0\u1ee3ng m\u01b0a t\u1eeb 2 \u0111\u1ebfn 5 inch \u0111\u00e3 d\u1eabn \u0111\u1ebfn s\u1ef1 gia t\u0103ng nhanh ch\u00f3ng trong c\u00e1c \u0111\u01b0\u1eddng th\u1ee7y \u0111\u1ecba ph\u01b0\u01a1ng \u1edf mi\u1ec1n Trung Indiana. H\u00e3y \u0111\u1ea3m b\u1ea3o b\u1ea1n c\u00f3 c\u00e1c ngu\u1ed3n cung c\u1ea5p kh\u1ea9n c\u1ea5p s\u1eb5n s\u00e0ng. N\u1ebfu b\u1ea1n \u1edf khu v\u1ef1c th\u1ea5p, h\u00e3y xem x\u00e9t s\u01a1 t\u00e1n \u0111\u1ebfn v\u00f9ng cao h\u01a1n. ",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-16181-1"
+    },
+    "id": 9
+  },
+  {
+    "source": "**Flood Warning:** Over the past 48 hours, rainfall amounts of 2 to 5 inches have led to rapid rises in local waterways in Central Indiana. Ensure you have emergency supplies ready. If you are in low-lying areas, consider evacuating to higher ground. ",
+    "target": "**C\u1ea3nh b\u00e1o L\u0169 l\u1ee5t:** Trong 48 gi\u1edd qua, l\u01b0\u1ee3ng m\u01b0a t\u1eeb 2 \u0111\u1ebfn 5 inch \u0111\u00e3 khi\u1ebfn m\u1ef1c n\u01b0\u1edbc t\u1ea1i c\u00e1c s\u00f4ng su\u1ed1i \u0111\u1ecba ph\u01b0\u01a1ng \u1edf mi\u1ec1n Trung Indiana d\u00e2ng cao nhanh ch\u00f3ng. H\u00e3y \u0111\u1ea3m b\u1ea3o b\u1ea1n \u0111\u00e3 chu\u1ea9n b\u1ecb s\u1eb5n c\u00e1c nhu y\u1ebfu ph\u1ea9m kh\u1ea9n c\u1ea5p. N\u1ebfu \u0111ang \u1edf c\u00e1c khu v\u1ef1c tr\u0169ng th\u1ea5p, h\u00e3y c\u00e2n nh\u1eafc vi\u1ec7c s\u01a1 t\u00e1n \u0111\u1ebfn nh\u1eefng n\u01a1i cao h\u01a1n.",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-16181-1"
+    },
+    "id": 10
+  },
+  {
+    "source": "Minor flooding is impacting bottomland and low-lying areas in Paducah. If you are in these regions, please exercise caution and be prepared to evacuate if conditions worsen. Ensure your emergency supplies are ready and stay away from floodwaters.",
+    "target": "Ng\u1eadp l\u1ee5t nh\u1eb9 \u0111ang \u1ea3nh h\u01b0\u1edfng \u0111\u1ebfn c\u00e1c v\u00f9ng \u0111\u1ea5t tr\u0169ng v\u00e0 khu v\u1ef1c tr\u0169ng th\u1ea5p \u1edf Paducah. N\u1ebfu b\u1ea1n \u0111ang \u1edf nh\u1eefng khu v\u1ef1c n\u00e0y, h\u00e3y th\u1eadn tr\u1ecdng v\u00e0 s\u1eb5n s\u00e0ng s\u01a1 t\u00e1n n\u1ebfu t\u00ecnh h\u00ecnh x\u1ea5u \u0111i. H\u00e3y \u0111\u1ea3m b\u1ea3o \u0111\u00e3 chu\u1ea9n b\u1ecb s\u1eb5n \u0111\u1ed3 d\u00f9ng kh\u1ea9n c\u1ea5p v\u00e0 tr\u00e1nh xa v\u00f9ng n\u01b0\u1edbc ng\u1eadp.",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-16281-5"
+    },
+    "id": 11
+  },
+  {
+    "source": "**Snow Accumulation Warning for Yellowstone National Park and Absaroka Mountains**: Expect total snow accumulation between 6 and 9 inches. Limit your time outdoors and dress in warm layers. If caught outside, be mindful of frostbite and hypothermia symptoms.",
+    "target": "** C\u1ea3nh b\u00e1o t\u00edch l\u0169y tuy\u1ebft cho V\u01b0\u1eddn Qu\u1ed1c gia Yellowstone v\u00e0 N\u00fai Absaroka**: Mong \u0111\u1ee3i l\u01b0\u1ee3ng tuy\u1ebft t\u00edch t\u1ee5 t\u1ed5ng c\u1ed9ng t\u1eeb 6 \u0111\u1ebfn 9 inch. H\u1ea1n ch\u1ebf th\u1eddi gian ngo\u00e0i tr\u1eddi v\u00e0 m\u1eb7c qu\u1ea7n \u00e1o \u1ea5m. N\u1ebfu b\u1ecb b\u1eaft ngo\u00e0i tr\u1eddi, h\u00e3y l\u01b0u \u00fd \u0111\u1ebfn c\u00e1c tri\u1ec7u ch\u1ee9ng b\u1ecb \u0111\u00f4ng l\u1ea1nh v\u00e0 h\u1ea1 th\u00e2n nhi\u1ec7t.",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17672-1"
+    },
+    "id": 12
+  }
+]

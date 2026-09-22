@@ -1,0 +1,337 @@
+template_name: mqm_warn_msg_ur
+template_label: MQM for Urdu Warning Messages
+template_description: Multidimensional Quality Metrics (Core) version 2 adapted for
+  Urdu warning messages
+interface_text:
+  typology:
+    source_label: English warning message
+    target_label: Urdu translation
+tokenization: char
+edits:
+- name: term
+  label: Terminology
+  color: '#B00100'
+  icon: fa-flask
+  type: single_span
+  enable_output: true
+  enable_input: true
+  annotation:
+  - name: term_type
+    question: Select the terminology problem.
+    options:
+    - name: term
+      label: Inconsistent use of terminology
+      question: Rate the severity
+      options: likert-3
+    - name: wrong_term
+      label: Wrong terminology
+      question: Rate the severity
+      options: likert-3
+- name: omission
+  label: Accuracy - Omission
+  color: '#006149'
+  icon: fa-square-minus
+  type: single_span
+  enable_output: false
+  enable_input: true
+  annotation:
+  - name: omission_type
+    question: Select the accuracy - omission problem.
+    options:
+    - name: omission
+      label: Omission
+      question: Rate the severity
+      options: likert-3
+- name: addition
+  label: Accuracy - Addition
+  color: '#006149'
+  icon: fa-square-plus
+  type: single_span
+  enable_output: true
+  enable_input: false
+  annotation:
+  - name: addition_type
+    question: Select the accuracy - addition problem.
+    options:
+    - name: addition
+      label: Addition
+      question: Rate the severity
+      options: likert-3
+- name: accuracy
+  label: Accuracy - Others
+  color: '#006149'
+  icon: fa-language
+  type: single_span
+  enable_output: true
+  enable_input: true
+  annotation:
+  - name: accuracy_type
+    question: Select the accuracy - others problem.
+    options:
+    - name: mistranslation
+      label: Mistranslation
+      question: Rate the severity
+      options: likert-3
+    - name: overtranslation
+      label: Overtranslation
+      question: Rate the severity
+      options: likert-3
+    - name: undertranslation
+      label: Undertranslation
+      question: Rate the severity
+      options: likert-3
+    - name: dnt
+      label: Do not translate
+      question: Rate the severity
+      options: likert-3
+    - name: untranslated
+      label: Untranslated
+      question: Rate the severity
+      options: likert-3
+- name: ling_conv
+  label: Linguistic convention
+  color: '#755001'
+  icon: fa-comment-slash
+  type: single_span
+  enable_output: true
+  enable_input: true
+  annotation:
+  - name: ling_conv_type
+    question: Select the linguistic convention problem.
+    options:
+    - name: grammar
+      label: Grammar
+      question: Rate the severity
+      options: likert-3
+    - name: punctuation
+      label: Punctuation
+      question: Rate the severity
+      options: likert-3
+    - name: spelling
+      label: Spelling
+      question: Rate the severity
+      options: likert-3
+    - name: unintelligible
+      label: Unintelligible
+      question: Rate the severity
+      options: likert-3
+    - name: encoding
+      label: Character encoding
+      question: Rate the severity
+      options: likert-3
+    - name: text_conv
+      label: Textual convention
+      question: Rate the severity
+      options: likert-3
+- name: style
+  label: Style
+  color: '#285A78'
+  icon: fa-person-drowning
+  type: single_span
+  enable_output: true
+  enable_input: true
+  annotation:
+  - name: style_type
+    question: Select the style problem.
+    options:
+    - name: register
+      label: Language register
+      question: Rate the severity
+      options: likert-3
+    - name: awkward
+      label: Awkward style
+      question: Rate the severity
+      options: likert-3
+    - name: unidiomatic
+      label: Unidiomatic style
+      question: Rate the severity
+      options: likert-3
+    - name: inconsistent
+      label: Inconsistent style
+      question: Rate the severity
+      options: likert-3
+- name: locale
+  label: Locale convention
+  color: '#4F4D00'
+  icon: fa-people-arrows
+  type: single_span
+  enable_output: true
+  enable_input: true
+  annotation:
+  - name: locale_type
+    question: Select the locale convention problem.
+    options:
+    - name: number
+      label: Number format
+      question: Rate the severity
+      options: likert-3
+    - name: currency
+      label: Currency format
+      question: Rate the severity
+      options: likert-3
+    - name: measurement
+      label: Measurement format
+      question: Rate the severity
+      options: likert-3
+    - name: time
+      label: Time format
+      question: Rate the severity
+      options: likert-3
+    - name: date
+      label: Date format
+      question: Rate the severity
+      options: likert-3
+    - name: address
+      label: Address format
+      question: Rate the severity
+      options: likert-3
+    - name: telephone
+      label: Telephone format
+      question: Rate the severity
+      options: likert-3
+- name: audience
+  label: Audience appropriateness
+  color: '#AB0067'
+  icon: fa-people-line
+  type: single_span
+  enable_output: true
+  enable_input: true
+  annotation:
+  - name: audience_type
+    question: Select the audience appropriateness problem.
+    options:
+    - name: culture
+      label: Culture-specific reference
+      question: Rate the severity
+      options: likert-3
+    - name: offensive
+      label: Offensive
+      question: Rate the severity
+      options: likert-3
+- name: design_markup
+  label: Design and markup
+  color: '#0001CC'
+  icon: fa-code
+  type: multi_span
+  enable_output: true
+  enable_input: true
+  annotation:
+  - name: design_markup_type
+    question: Select the design and markup problem.
+    options:
+    - name: markup
+      label: Markup
+      question: Rate the severity
+      options: likert-3
+instructions: '# Translation error annotation
+
+
+  ## Prerequisite
+
+
+  Please familiarise yourself with the [Multidimensional Quality Metrics (MQM) Core
+  Typology](https://www.themqm.org/mqm-pillars/the-mqm-core-typology/). Familiarity
+  with this typology is **essential** to perform the annotation task. When you are
+  ready, please continue.
+
+
+  ## Task instructions
+
+
+  You will be shown a warning message in English and its translation in your language,
+  i.e. a hit. For each hit, your task is to:
+
+
+  1. **identify** any errors in the translation;
+
+  1. for each error, **highlight** text span(s) that correspond to the error; and
+
+  1. **rate** the severity of the error.
+
+
+  ### Identifying errors
+
+
+  If you spot an error with the translation, click "Add Edit". You will then be shown
+  a bunch of error types adapted from the MQM typology. Select the appropriate type
+  for the error you''ve identified.
+
+
+  ### Highlighting spans
+
+
+  Once you selected the error type, highlight the erroneous text span in the translation
+  and, for most error types, the corresponding text span in the English message. There
+  are two exceptions to this. First, error type "Accuracy - Omission" requires you
+  to highlight only the text span in the English message that is omitted in the translation.
+  Second, error type "Accuracy - Addition" requires you to highlight only the text
+  span in the translation that doesn''t exist in the English message.
+
+
+  A few things to note:
+
+
+  1. You cannot highlight words that are part of a text span that is already highlighted
+  (e.g., for another error type). Put simply, highlights cannot overlap. If this happens,
+  keep only the error type that you think is more severe.
+
+  1. Error type "Design and markup" allows you to highlight multiple, disjoint text
+  spans. This means that you can highlight, say, only the tags `<p>` and `</p>` in
+  "`<p>` foo bar `</p>`" without including the words "foo bar".
+
+  1. Highlighting may not work on Firefox. If this issue affects you, please use a
+  different browser.
+
+
+  Click "Save" once you finished highlighting.
+
+
+  ### Rating severity
+
+
+  Click the pencil icon corresponding to the error in the list of "EDIT ANNOTATIONS".
+  You will be shown a bunch of error subtypes again adapted from the MQM typology.
+  Select the appropriate subtype for the error, then rate its severity. To decide
+  the right severity level, it may be helpful to know that emergency warnings are
+  intended to (a) *inform* the community of an impending or current threat and/or
+  (2) *promote* appropriate responsive actions. The definition of each severity level
+  is as follows:
+
+
+  1. **minor**: differs from your preferred translation but is an acceptable translation
+
+  1. **somewhat**: does not seriously impede the usability, understandability, or
+  reliability of the content for its intended purpose, but has a limited impact on,
+  for example, accuracy, stylistic quality, consistency, fluency, clarity, or general
+  appeal of the content
+
+  1. **a lot**: seriously affects the understandability, reliability, or usability
+  of the content for its intended purpose
+
+
+  Note that you can only select one error subtype. If multiple subtypes apply, select
+  the most severe one in your opinion. Click "Save" once you finished rating.
+
+
+  ## Saving and resuming your work
+
+
+  Your work will **NOT** be saved automatically. You must **save your work yourself**
+  by downloading your annotations by clicking the downward arrow icon on the top-right
+  corner. Failure to do so may risk **losing all of your annotations**. Your annotations
+  will be downloaded as a single JSON file. You can then close your browser window
+  and resume the task another time.
+
+
+  To continue where you left off, open the annotation page and upload your annotation
+  data that you downloaded in the previous step by clicking the upward arrow on the
+  top-right corner. You can then proceed with the annotation task as normal.
+
+
+  ## Finishing the task
+
+
+  Once you annotated all hits, download your annotation data and send it to Kemal
+  via [kemal.kurniawan@unsw.edu.au](mailto:kemal.kurniawan@unsw.edu.au) or Teams.
+
+  '
