@@ -1,109 +1,109 @@
 [
   {
-    "source": "Anticipate total snow accumulations in the Highway 20 corridor of 5 to 8 inches, with 3 to 6 inches near Highway 30, and 2 to 4 inches along Interstate 80. Stay informed about local road conditions and avoid travel if conditions worsen. Clear snow safely to prevent overexertion.",
-    "target": "D\u1ef1 ki\u1ebfn t\u1ed5ng l\u01b0\u1ee3ng tuy\u1ebft t\u00edch t\u1ee5 d\u1ecdc theo h\u00e0nh lang Qu\u1ed1c l\u1ed9 20 (Highway 20) l\u00e0 t\u1eeb 5 \u0111\u1ebfn 8 inch, g\u1ea7n Qu\u1ed1c l\u1ed9 30 (Highway 30) l\u00e0 t\u1eeb 3 \u0111\u1ebfn 6 inch v\u00e0 d\u1ecdc theo Xa l\u1ed9 Li\u00ean ti\u1ec3u bang 80 (Interstate 80) l\u00e0 t\u1eeb 2 \u0111\u1ebfn 4 inch. H\u00e3y theo d\u00f5i th\u00f4ng tin v\u1ec1 t\u00ecnh h\u00ecnh \u0111\u01b0\u1eddng s\u00e1 t\u1ea1i \u0111\u1ecba ph\u01b0\u01a1ng v\u00e0 tr\u00e1nh \u0111i l\u1ea1i n\u1ebfu \u0111i\u1ec1u ki\u1ec7n tr\u1edf n\u00ean t\u1ed3i t\u1ec7 h\u01a1n. D\u1ecdn tuy\u1ebft an to\u00e0n \u0111\u1ec3 tr\u00e1nh ki\u1ec7t s\u1ee9c v\u00ec l\u00e0m vi\u1ec7c qu\u00e1 s\u1ee9c.",
+    "source": "**Storm Movement:** The thunderstorm is moving northeast at 15 mph. Keep indoors and away from windows as conditions can evolve quickly. Make sure you have access to a battery-powered weather radio for timely updates.",
+    "target": "**H\u01b0\u1edbng di chuy\u1ec3n c\u1ee7a b\u00e3o:** C\u01a1n d\u00f4ng \u0111ang di chuy\u1ec3n v\u1ec1 h\u01b0\u1edbng \u0111\u00f4ng b\u1eafc v\u1edbi t\u1ed1c \u0111\u1ed9 15 d\u1eb7m/gi\u1edd. H\u00e3y \u1edf trong nh\u00e0 v\u00e0 tr\u00e1nh xa c\u1eeda s\u1ed5 v\u00ec t\u00ecnh h\u00ecnh c\u00f3 th\u1ec3 di\u1ec5n bi\u1ebfn nhanh ch\u00f3ng. \u0110\u1ea3m b\u1ea3o b\u1ea1n c\u00f3 s\u1eb5n \u0111\u00e0i ph\u00e1t thanh th\u1eddi ti\u1ebft ch\u1ea1y b\u1eb1ng pin \u0111\u1ec3 c\u1eadp nh\u1eadt th\u00f4ng tin k\u1ecbp th\u1eddi.",
     "edits": [],
     "metadata": {
-      "event_id": "test-17629-2"
+      "event_id": "train-11479-3"
     },
     "id": 1
   },
   {
-    "source": "Anticipate total snow accumulations in the Highway 20 corridor of 5 to 8 inches, with 3 to 6 inches near Highway 30, and 2 to 4 inches along Interstate 80. Stay informed about local road conditions and avoid travel if conditions worsen. Clear snow safely to prevent overexertion.",
-    "target": "D\u1ef1 b\u00e1o l\u01b0\u1ee3ng tuy\u1ebft t\u00edch t\u1ee5 t\u1ed5ng c\u1ed9ng t\u1ea1i h\u00e0nh lang Xa l\u1ed9 20 l\u00e0 5 \u0111\u1ebfn 8 inch, 3 \u0111\u1ebfn 6 inch g\u1ea7n Xa l\u1ed9 30 v\u00e0 2 \u0111\u1ebfn 4 inch d\u1ecdc theo Xa l\u1ed9 Li\u00ean ti\u1ec3u bang 80. H\u00e3y c\u1eadp nh\u1eadt th\u00f4ng tin v\u1ec1 t\u00ecnh tr\u1ea1ng \u0111\u01b0\u1eddng s\u00e1 \u0111\u1ecba ph\u01b0\u01a1ng v\u00e0 tr\u00e1nh \u0111i l\u1ea1i n\u1ebfu \u0111i\u1ec1u ki\u1ec7n x\u1ea5u \u0111i. D\u1ecdn tuy\u1ebft m\u1ed9t c\u00e1ch an to\u00e0n \u0111\u1ec3 tr\u00e1nh qu\u00e1 s\u1ee9c.",
+    "source": "**Storm Movement:** The thunderstorm is moving northeast at 15 mph. Keep indoors and away from windows as conditions can evolve quickly. Make sure you have access to a battery-powered weather radio for timely updates.",
+    "target": "**H\u01b0\u1edbng di chuy\u1ec3n c\u1ee7a c\u01a1n gi\u00f4ng:** C\u01a1n gi\u00f4ng \u0111ang di chuy\u1ec3n v\u1ec1 ph\u00eda \u0111\u00f4ng b\u1eafc v\u1edbi t\u1ed1c \u0111\u1ed9 15 d\u1eb7m/gi\u1edd. H\u00e3y \u1edf trong nh\u00e0 v\u00e0 tr\u00e1nh xa c\u1eeda s\u1ed5 v\u00ec t\u00ecnh h\u00ecnh th\u1eddi ti\u1ebft c\u00f3 th\u1ec3 bi\u1ebfn \u0111\u1ed5i nhanh ch\u00f3ng. H\u00e3y \u0111\u1ea3m b\u1ea3o b\u1ea1n c\u00f3 m\u1ed9t \u0111\u00e0i th\u1eddi ti\u1ebft ch\u1ea1y b\u1eb1ng pin \u0111\u1ec3 c\u1eadp nh\u1eadt th\u00f4ng tin k\u1ecbp th\u1eddi.",
     "edits": [],
     "metadata": {
-      "event_id": "test-17629-2"
+      "event_id": "train-11479-3"
     },
     "id": 2
   },
   {
-    "source": "**Flood Warning:** Over the past 48 hours, rainfall amounts of 2 to 5 inches have led to rapid rises in local waterways in Central Indiana. Ensure you have emergency supplies ready. If you are in low-lying areas, consider evacuating to higher ground. ",
-    "target": "**C\u1ea3nh b\u00e1o l\u0169 l\u1ee5t:** Trong 48 gi\u1edd qua, l\u01b0\u1ee3ng m\u01b0a t\u1eeb 2 \u0111\u1ebfn 5 inch \u0111\u00e3 khi\u1ebfn m\u1ef1c n\u01b0\u1edbc tr\u00ean c\u00e1c s\u00f4ng su\u1ed1i \u0111\u1ecba ph\u01b0\u01a1ng \u1edf mi\u1ec1n Trung Indiana d\u00e2ng nhanh. H\u00e3y chu\u1ea9n b\u1ecb s\u1eb5n s\u00e0ng c\u00e1c v\u1eadt ph\u1ea9m c\u1ee9u h\u1ed9 kh\u1ea9n c\u1ea5p. N\u1ebfu b\u1ea1n \u0111ang \u1edf v\u00f9ng tr\u0169ng th\u1ea5p, h\u00e3y c\u00e2n nh\u1eafc s\u01a1 t\u00e1n \u0111\u1ebfn n\u01a1i \u0111\u1ea5t cao h\u01a1n.",
+    "source": "**Attention residents of Avocado and Orange:** An Evacuation Warning has been issued due to an active wildfire in your area. Please stay alert and monitor local updates regarding the situation. ",
+    "target": "**Ch\u00fa \u00fd c\u01b0 d\u00e2n Avocado v\u00e0 Orange:** C\u1ea3nh b\u00e1o s\u01a1 t\u00e1n \u0111\u00e3 \u0111\u01b0\u1ee3c ban h\u00e0nh do \u0111\u00e1m ch\u00e1y r\u1eebng \u0111ang di\u1ec5n ra trong khu v\u1ef1c c\u1ee7a b\u1ea1n. Vui l\u00f2ng n\u00e2ng cao c\u1ea3nh gi\u00e1c v\u00e0 theo d\u00f5i c\u00e1c b\u1ea3n tin c\u1eadp nh\u1eadt \u0111\u1ecba ph\u01b0\u01a1ng li\u00ean quan \u0111\u1ebfn t\u00ecnh h\u00ecnh.",
     "edits": [],
     "metadata": {
-      "event_id": "test-16181-1"
+      "event_id": "train-12501-0"
     },
     "id": 3
   },
   {
-    "source": "Anticipate total snow accumulations in the Highway 20 corridor of 5 to 8 inches, with 3 to 6 inches near Highway 30, and 2 to 4 inches along Interstate 80. Stay informed about local road conditions and avoid travel if conditions worsen. Clear snow safely to prevent overexertion.",
-    "target": "D\u1ef1 \u0111o\u00e1n l\u01b0\u1ee3ng tuy\u1ebft t\u00edch t\u1ee5 t\u1ed5ng th\u1ec3 trong h\u00e0nh lang Xa l\u1ed9 20 t\u1eeb 5 \u0111\u1ebfn 8 inch, v\u1edbi 3 \u0111\u1ebfn 6 inch g\u1ea7n Xa l\u1ed9 30, v\u00e0 2 \u0111\u1ebfn 4 inch d\u1ecdc theo Xa l\u1ed9 Li\u00ean bang 80.",
+    "source": "**Storm Movement:** The thunderstorm is moving northeast at 15 mph. Keep indoors and away from windows as conditions can evolve quickly. Make sure you have access to a battery-powered weather radio for timely updates.",
+    "target": "** Di chuy\u1ec3n b\u00e3o:** B\u00e3o \u0111ang di chuy\u1ec3n v\u1ec1 ph\u00eda \u0111\u00f4ng b\u1eafc v\u1edbi t\u1ed1c \u0111\u1ed9 15 d\u1eb7m/gi\u1edd. H\u00e3y \u1edf trong nh\u00e0 v\u00e0 tr\u00e1nh xa c\u1eeda s\u1ed5 v\u00ec \u0111i\u1ec1u ki\u1ec7n c\u00f3 th\u1ec3 ph\u00e1t tri\u1ec3n nhanh ch\u00f3ng. H\u00e3y ch\u1eafc ch\u1eafn r\u1eb1ng b\u1ea1n c\u00f3 th\u1ec3 truy c\u1eadp v\u00e0o m\u1ed9t \u0111\u00e0i ph\u00e1t thanh th\u1eddi ti\u1ebft ch\u1ea1y b\u1eb1ng pin \u0111\u1ec3 c\u1eadp nh\u1eadt k\u1ecbp th\u1eddi.",
     "edits": [],
     "metadata": {
-      "event_id": "test-17629-2"
+      "event_id": "train-11479-3"
     },
     "id": 4
   },
   {
-    "source": "**Snow Accumulation Warning for Yellowstone National Park and Absaroka Mountains**: Expect total snow accumulation between 6 and 9 inches. Limit your time outdoors and dress in warm layers. If caught outside, be mindful of frostbite and hypothermia symptoms.",
-    "target": "**C\u1ea3nh b\u00e1o t\u00edch tuy\u1ebft t\u1ea1i V\u01b0\u1eddn qu\u1ed1c gia Yellowstone v\u00e0 D\u00e3y n\u00fai Absaroka**: D\u1ef1 b\u00e1o t\u1ed5ng l\u01b0\u1ee3ng tuy\u1ebft t\u00edch t\u1ee5 t\u1eeb 6 \u0111\u1ebfn 9 inch. H\u00e3y h\u1ea1n ch\u1ebf th\u1eddi gian \u1edf ngo\u00e0i tr\u1eddi v\u00e0 m\u1eb7c nhi\u1ec1u l\u1edbp qu\u1ea7n \u00e1o \u1ea5m. N\u1ebfu ph\u1ea3i \u1edf ngo\u00e0i tr\u1eddi, h\u00e3y l\u01b0u \u00fd c\u00e1c tri\u1ec7u ch\u1ee9ng t\u00ea c\u00f3ng v\u00e0 h\u1ea1 th\u00e2n nhi\u1ec7t.",
+    "source": "Winds in Cottonwood, Nobles, and Jackson Counties are gusting as high as 35 mph. If you are outdoors, seek shelter if possible. Remember to secure any items that could be blown away and be cautious of falling debris.",
+    "target": "Gi\u00f3 t\u1ea1i c\u00e1c h\u1ea1t Cottonwood, Nobles v\u00e0 Jackson \u0111ang gi\u1eadt m\u1ea1nh t\u1edbi 35 d\u1eb7m/gi\u1edd. N\u1ebfu b\u1ea1n \u0111ang \u1edf ngo\u00e0i tr\u1eddi, h\u00e3y t\u00ecm n\u01a1i tr\u00fa \u1ea9n n\u1ebfu c\u00f3 th\u1ec3. H\u00e3y nh\u1edb c\u1ed1 \u0111\u1ecbnh c\u00e1c v\u1eadt d\u1ee5ng c\u00f3 th\u1ec3 b\u1ecb th\u1ed5i bay v\u00e0 th\u1eadn tr\u1ecdng v\u1edbi c\u00e1c m\u1ea3nh v\u1ee1 r\u01a1i.",
     "edits": [],
     "metadata": {
-      "event_id": "test-17672-1"
+      "event_id": "train-13288-2"
     },
     "id": 5
   },
   {
-    "source": "**Snow Accumulation Warning for Yellowstone National Park and Absaroka Mountains**: Expect total snow accumulation between 6 and 9 inches. Limit your time outdoors and dress in warm layers. If caught outside, be mindful of frostbite and hypothermia symptoms.",
-    "target": "**C\u1ea3nh b\u00e1o Tuy\u1ebft t\u00edch t\u1ee5 cho V\u01b0\u1eddn Qu\u1ed1c gia Yellowstone v\u00e0 D\u00e3y n\u00fai Absaroka**: D\u1ef1 ki\u1ebfn t\u1ed5ng l\u01b0\u1ee3ng tuy\u1ebft t\u00edch t\u1ee5 t\u1eeb 6 \u0111\u1ebfn 9 inch. H\u00e3y h\u1ea1n ch\u1ebf th\u1eddi gian \u1edf ngo\u00e0i tr\u1eddi v\u00e0 m\u1eb7c \u1ea5m nhi\u1ec1u l\u1edbp. N\u1ebfu ph\u1ea3i \u1edf ngo\u00e0i tr\u1eddi, h\u00e3y l\u01b0u \u00fd c\u00e1c tri\u1ec7u ch\u1ee9ng c\u00f3ng l\u1ea1nh v\u00e0 h\u1ea1 th\u00e2n nhi\u1ec7t.",
+    "source": "Winds in Cottonwood, Nobles, and Jackson Counties are gusting as high as 35 mph. If you are outdoors, seek shelter if possible. Remember to secure any items that could be blown away and be cautious of falling debris.",
+    "target": "Gi\u00f3 t\u1ea1i c\u00e1c h\u1ea1t Cottonwood, Nobles v\u00e0 Jackson \u0111ang gi\u1eadt m\u1ea1nh l\u00ean \u0111\u1ebfn 35 d\u1eb7m/gi\u1edd. N\u1ebfu b\u1ea1n \u0111ang \u1edf ngo\u00e0i tr\u1eddi, h\u00e3y t\u00ecm n\u01a1i tr\u00fa \u1ea9n n\u1ebfu c\u00f3 th\u1ec3. H\u00e3y nh\u1edb c\u1ed1 \u0111\u1ecbnh b\u1ea5t k\u1ef3 \u0111\u1ed3 v\u1eadt n\u00e0o c\u00f3 th\u1ec3 b\u1ecb gi\u00f3 th\u1ed5i bay v\u00e0 c\u1ea9n gi\u00e1c v\u1edbi c\u00e1c m\u1ea3nh v\u1ee5n r\u01a1i xu\u1ed1ng.",
     "edits": [],
     "metadata": {
-      "event_id": "test-17672-1"
+      "event_id": "train-13288-2"
     },
     "id": 6
   },
   {
-    "source": "Minor flooding is impacting bottomland and low-lying areas in Paducah. If you are in these regions, please exercise caution and be prepared to evacuate if conditions worsen. Ensure your emergency supplies are ready and stay away from floodwaters.",
-    "target": "T\u00ecnh tr\u1ea1ng ng\u1eadp l\u1ee5t nh\u1eb9 \u0111ang \u1ea3nh h\u01b0\u1edfng \u0111\u1ebfn c\u00e1c v\u00f9ng tr\u0169ng v\u00e0 khu v\u1ef1c th\u1ea5p t\u1ea1i Paducah. N\u1ebfu b\u1ea1n \u0111ang \u1edf nh\u1eefng khu v\u1ef1c n\u00e0y, vui l\u00f2ng c\u1ea9n tr\u1ecdng v\u00e0 chu\u1ea9n b\u1ecb s\u1eb5n s\u00e0ng s\u01a1 t\u00e1n n\u1ebfu t\u00ecnh h\u00ecnh x\u1ea5u \u0111i. H\u00e3y \u0111\u1ea3m b\u1ea3o c\u00e1c v\u1eadt d\u1ee5ng kh\u1ea9n c\u1ea5p c\u1ee7a b\u1ea1n \u0111\u00e3 s\u1eb5n s\u00e0ng v\u00e0 tr\u00e1nh xa n\u01b0\u1edbc l\u0169.",
+    "source": "**Safety Reminder:** The threat of flying debris is heightened in this warning area. Mobile homes may face severe risks. Please secure or move to a stronger shelter. Consider gathering supplies like food, water, and health essentials to prepare for any outcomes.",
+    "target": "**Nh\u1eafc nh\u1edf an to\u00e0n:** Nguy c\u01a1 t\u1eeb c\u00e1c m\u1ea3nh v\u1ee1 bay \u0111ang t\u0103ng cao trong khu v\u1ef1c c\u1ea3nh b\u00e1o n\u00e0y. Nh\u00e0 di \u0111\u1ed9ng c\u00f3 th\u1ec3 \u0111\u1ed1i m\u1eb7t v\u1edbi r\u1ee7i ro nghi\u00eam tr\u1ecdng. Vui l\u00f2ng gia c\u1ed1 ho\u1eb7c di chuy\u1ec3n \u0111\u1ebfn n\u01a1i tr\u00fa \u1ea9n ki\u00ean c\u1ed1 h\u01a1n. H\u00e3y c\u00e2n nh\u1eafc chu\u1ea9n b\u1ecb c\u00e1c nhu y\u1ebfu ph\u1ea9m nh\u01b0 th\u1ef1c ph\u1ea9m, n\u01b0\u1edbc u\u1ed1ng v\u00e0 \u0111\u1ed3 d\u00f9ng y t\u1ebf thi\u1ebft y\u1ebfu \u0111\u1ec3 s\u1eb5n s\u00e0ng cho m\u1ecdi t\u00ecnh hu\u1ed1ng.",
     "edits": [],
     "metadata": {
-      "event_id": "test-16281-5"
+      "event_id": "test-17440-4"
     },
     "id": 7
   },
   {
-    "source": "Minor flooding is impacting bottomland and low-lying areas in Paducah. If you are in these regions, please exercise caution and be prepared to evacuate if conditions worsen. Ensure your emergency supplies are ready and stay away from floodwaters.",
-    "target": "L\u0169 l\u1ee5t nh\u1ecf \u0111ang \u1ea3nh h\u01b0\u1edfng \u0111\u1ebfn v\u00f9ng \u0111\u1ea5t th\u1ea5p v\u00e0 v\u00f9ng th\u1ea5p \u1edf Paducah. N\u1ebfu b\u1ea1n \u0111ang \u1edf trong c\u00e1c khu v\u1ef1c n\u00e0y, vui l\u00f2ng th\u1eadn tr\u1ecdng v\u00e0 chu\u1ea9n b\u1ecb s\u01a1 t\u00e1n n\u1ebfu t\u00ecnh h\u00ecnh x\u1ea5u \u0111i. H\u00e3y \u0111\u1ea3m b\u1ea3o c\u00e1c ngu\u1ed3n cung c\u1ea5p kh\u1ea9n c\u1ea5p c\u1ee7a b\u1ea1n \u0111\u00e3 s\u1eb5n s\u00e0ng v\u00e0 tr\u00e1nh xa n\u01b0\u1edbc l\u0169.",
+    "source": "**Safety Reminder:** The threat of flying debris is heightened in this warning area. Mobile homes may face severe risks. Please secure or move to a stronger shelter. Consider gathering supplies like food, water, and health essentials to prepare for any outcomes.",
+    "target": "** L\u01b0u \u00fd an to\u00e0n:** M\u1ed1i \u0111e d\u1ecda c\u1ee7a m\u1ea3nh v\u1ee1 bay t\u0103ng cao trong khu v\u1ef1c c\u1ea3nh b\u00e1o n\u00e0y. C\u00e1c ng\u00f4i nh\u00e0 di \u0111\u1ed9ng c\u00f3 th\u1ec3 g\u1eb7p r\u1ee7i ro nghi\u00eam tr\u1ecdng. Xin \u0111\u1ea3m b\u1ea3o an to\u00e0n ho\u1eb7c di chuy\u1ec3n \u0111\u1ebfn n\u01a1i tr\u00fa \u1ea9n m\u1ea1nh h\u01a1n. H\u00e3y xem x\u00e9t thu th\u1eadp c\u00e1c ngu\u1ed3n cung c\u1ea5p nh\u01b0 th\u1ef1c ph\u1ea9m, n\u01b0\u1edbc v\u00e0 c\u00e1c v\u1eadt ph\u1ea9m y t\u1ebf thi\u1ebft y\u1ebfu \u0111\u1ec3 chu\u1ea9n b\u1ecb cho b\u1ea5t k\u1ef3 k\u1ebft qu\u1ea3 n\u00e0o.",
     "edits": [],
     "metadata": {
-      "event_id": "test-16281-5"
+      "event_id": "test-17440-4"
     },
     "id": 8
   },
   {
-    "source": "**Flood Warning:** Over the past 48 hours, rainfall amounts of 2 to 5 inches have led to rapid rises in local waterways in Central Indiana. Ensure you have emergency supplies ready. If you are in low-lying areas, consider evacuating to higher ground. ",
-    "target": "** C\u1ea3nh b\u00e1o l\u0169 l\u1ee5t:** Trong 48 gi\u1edd qua, l\u01b0\u1ee3ng m\u01b0a t\u1eeb 2 \u0111\u1ebfn 5 inch \u0111\u00e3 d\u1eabn \u0111\u1ebfn s\u1ef1 gia t\u0103ng nhanh ch\u00f3ng trong c\u00e1c \u0111\u01b0\u1eddng th\u1ee7y \u0111\u1ecba ph\u01b0\u01a1ng \u1edf mi\u1ec1n Trung Indiana. H\u00e3y \u0111\u1ea3m b\u1ea3o b\u1ea1n c\u00f3 c\u00e1c ngu\u1ed3n cung c\u1ea5p kh\u1ea9n c\u1ea5p s\u1eb5n s\u00e0ng. N\u1ebfu b\u1ea1n \u1edf khu v\u1ef1c th\u1ea5p, h\u00e3y xem x\u00e9t s\u01a1 t\u00e1n \u0111\u1ebfn v\u00f9ng cao h\u01a1n. ",
+    "source": "**Attention residents of Avocado and Orange:** An Evacuation Warning has been issued due to an active wildfire in your area. Please stay alert and monitor local updates regarding the situation. ",
+    "target": "**Ch\u00fa \u00fd c\u01b0 d\u00e2n c\u1ee7a Avocado v\u00e0 Orange:** M\u1ed9t c\u1ea3nh b\u00e1o s\u01a1 t\u00e1n \u0111\u00e3 \u0111\u01b0\u1ee3c ban h\u00e0nh do m\u1ed9t \u0111\u00e1m ch\u00e1y r\u1eebng \u0111ang ho\u1ea1t \u0111\u1ed9ng trong khu v\u1ef1c c\u1ee7a b\u1ea1n. Xin h\u00e3y c\u1ea3nh gi\u00e1c v\u00e0 theo d\u00f5i c\u00e1c c\u1eadp nh\u1eadt \u0111\u1ecba ph\u01b0\u01a1ng v\u1ec1 t\u00ecnh h\u00ecnh. ",
     "edits": [],
     "metadata": {
-      "event_id": "test-16181-1"
+      "event_id": "train-12501-0"
     },
     "id": 9
   },
   {
-    "source": "**Flood Warning:** Over the past 48 hours, rainfall amounts of 2 to 5 inches have led to rapid rises in local waterways in Central Indiana. Ensure you have emergency supplies ready. If you are in low-lying areas, consider evacuating to higher ground. ",
-    "target": "**C\u1ea3nh b\u00e1o L\u0169 l\u1ee5t:** Trong 48 gi\u1edd qua, l\u01b0\u1ee3ng m\u01b0a t\u1eeb 2 \u0111\u1ebfn 5 inch \u0111\u00e3 khi\u1ebfn m\u1ef1c n\u01b0\u1edbc t\u1ea1i c\u00e1c s\u00f4ng su\u1ed1i \u0111\u1ecba ph\u01b0\u01a1ng \u1edf mi\u1ec1n Trung Indiana d\u00e2ng cao nhanh ch\u00f3ng. H\u00e3y \u0111\u1ea3m b\u1ea3o b\u1ea1n \u0111\u00e3 chu\u1ea9n b\u1ecb s\u1eb5n c\u00e1c nhu y\u1ebfu ph\u1ea9m kh\u1ea9n c\u1ea5p. N\u1ebfu \u0111ang \u1edf c\u00e1c khu v\u1ef1c tr\u0169ng th\u1ea5p, h\u00e3y c\u00e2n nh\u1eafc vi\u1ec7c s\u01a1 t\u00e1n \u0111\u1ebfn nh\u1eefng n\u01a1i cao h\u01a1n.",
+    "source": "**Attention residents of Avocado and Orange:** An Evacuation Warning has been issued due to an active wildfire in your area. Please stay alert and monitor local updates regarding the situation. ",
+    "target": "**Xin l\u01b0u \u00fd c\u01b0 d\u00e2n Avocado v\u00e0 Orange:** C\u1ea3nh b\u00e1o S\u01a1 t\u00e1n \u0111\u00e3 \u0111\u01b0\u1ee3c ban h\u00e0nh do c\u00f3 m\u1ed9t \u0111\u00e1m ch\u00e1y r\u1eebng \u0111ang ho\u1ea1t \u0111\u1ed9ng trong khu v\u1ef1c c\u1ee7a qu\u00fd v\u1ecb. Vui l\u00f2ng lu\u00f4n c\u1ea3nh gi\u00e1c v\u00e0 theo d\u00f5i c\u00e1c c\u1eadp nh\u1eadt t\u1ea1i \u0111\u1ecba ph\u01b0\u01a1ng v\u1ec1 t\u00ecnh h\u00ecnh n\u00e0y.",
     "edits": [],
     "metadata": {
-      "event_id": "test-16181-1"
+      "event_id": "train-12501-0"
     },
     "id": 10
   },
   {
-    "source": "Minor flooding is impacting bottomland and low-lying areas in Paducah. If you are in these regions, please exercise caution and be prepared to evacuate if conditions worsen. Ensure your emergency supplies are ready and stay away from floodwaters.",
-    "target": "Ng\u1eadp l\u1ee5t nh\u1eb9 \u0111ang \u1ea3nh h\u01b0\u1edfng \u0111\u1ebfn c\u00e1c v\u00f9ng \u0111\u1ea5t tr\u0169ng v\u00e0 khu v\u1ef1c tr\u0169ng th\u1ea5p \u1edf Paducah. N\u1ebfu b\u1ea1n \u0111ang \u1edf nh\u1eefng khu v\u1ef1c n\u00e0y, h\u00e3y th\u1eadn tr\u1ecdng v\u00e0 s\u1eb5n s\u00e0ng s\u01a1 t\u00e1n n\u1ebfu t\u00ecnh h\u00ecnh x\u1ea5u \u0111i. H\u00e3y \u0111\u1ea3m b\u1ea3o \u0111\u00e3 chu\u1ea9n b\u1ecb s\u1eb5n \u0111\u1ed3 d\u00f9ng kh\u1ea9n c\u1ea5p v\u00e0 tr\u00e1nh xa v\u00f9ng n\u01b0\u1edbc ng\u1eadp.",
+    "source": "**Safety Reminder:** The threat of flying debris is heightened in this warning area. Mobile homes may face severe risks. Please secure or move to a stronger shelter. Consider gathering supplies like food, water, and health essentials to prepare for any outcomes.",
+    "target": "**Nh\u1eafc nh\u1edf an to\u00e0n:** M\u1ed1i \u0111e d\u1ecda t\u1eeb m\u1ea3nh v\u1ee5n bay trong khu v\u1ef1c c\u1ea3nh b\u00e1o n\u00e0y \u0111ang gia t\u0103ng. Nh\u00e0 di \u0111\u1ed9ng c\u00f3 th\u1ec3 \u0111\u1ed1i m\u1eb7t v\u1edbi r\u1ee7i ro nghi\u00eam tr\u1ecdng. Vui l\u00f2ng gia c\u1ed1 ho\u1eb7c di chuy\u1ec3n \u0111\u1ebfn n\u01a1i tr\u00fa \u1ea9n ki\u00ean c\u1ed1 h\u01a1n. H\u00e3y chu\u1ea9n b\u1ecb \u0111\u1ed3 d\u00f9ng nh\u01b0 th\u1ef1c ph\u1ea9m, n\u01b0\u1edbc u\u1ed1ng v\u00e0 v\u1eadt d\u1ee5ng thi\u1ebft y\u1ebfu cho s\u1ee9c kh\u1ecfe \u0111\u1ec3 s\u1eb5n s\u00e0ng \u1ee9ng ph\u00f3 v\u1edbi m\u1ecdi t\u00ecnh hu\u1ed1ng.",
     "edits": [],
     "metadata": {
-      "event_id": "test-16281-5"
+      "event_id": "test-17440-4"
     },
     "id": 11
   },
   {
-    "source": "**Snow Accumulation Warning for Yellowstone National Park and Absaroka Mountains**: Expect total snow accumulation between 6 and 9 inches. Limit your time outdoors and dress in warm layers. If caught outside, be mindful of frostbite and hypothermia symptoms.",
-    "target": "** C\u1ea3nh b\u00e1o t\u00edch l\u0169y tuy\u1ebft cho V\u01b0\u1eddn Qu\u1ed1c gia Yellowstone v\u00e0 N\u00fai Absaroka**: Mong \u0111\u1ee3i l\u01b0\u1ee3ng tuy\u1ebft t\u00edch t\u1ee5 t\u1ed5ng c\u1ed9ng t\u1eeb 6 \u0111\u1ebfn 9 inch. H\u1ea1n ch\u1ebf th\u1eddi gian ngo\u00e0i tr\u1eddi v\u00e0 m\u1eb7c qu\u1ea7n \u00e1o \u1ea5m. N\u1ebfu b\u1ecb b\u1eaft ngo\u00e0i tr\u1eddi, h\u00e3y l\u01b0u \u00fd \u0111\u1ebfn c\u00e1c tri\u1ec7u ch\u1ee9ng b\u1ecb \u0111\u00f4ng l\u1ea1nh v\u00e0 h\u1ea1 th\u00e2n nhi\u1ec7t.",
+    "source": "Winds in Cottonwood, Nobles, and Jackson Counties are gusting as high as 35 mph. If you are outdoors, seek shelter if possible. Remember to secure any items that could be blown away and be cautious of falling debris.",
+    "target": "Gi\u00f3 \u1edf Cottonwood, Nobles v\u00e0 Jackson c\u00f3 s\u1ee9c m\u1ea1nh t\u1edbi 35 d\u1eb7m/gi\u1edd. N\u1ebfu b\u1ea1n \u0111ang \u1edf ngo\u00e0i tr\u1eddi, h\u00e3y t\u00ecm n\u01a1i tr\u00fa \u1ea9n n\u1ebfu c\u00f3 th\u1ec3. H\u00e3y nh\u1edb b\u1ea3o v\u1ec7 m\u1ecdi v\u1eadt c\u00f3 th\u1ec3 b\u1ecb th\u1ed5i bay v\u00e0 c\u1ea9n th\u1eadn v\u1edbi nh\u1eefng m\u1ea3nh v\u1ee1 r\u01a1i xu\u1ed1ng.",
     "edits": [],
     "metadata": {
-      "event_id": "test-17672-1"
+      "event_id": "train-13288-2"
     },
     "id": 12
   }
