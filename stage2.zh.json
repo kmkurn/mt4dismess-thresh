@@ -1,0 +1,326 @@
+[
+  {
+    "source": "**As of 2:57 PM CDT, a severe thunderstorm is brewing near Irby**, approximately 16 miles southeast of Munday. It is moving eastward at a speed of 30 mph. Please ensure you are indoors and secure.",
+    "target": "**\u622a\u81f3\u7f8e\u56fd\u4e2d\u90e8\u590f\u4ee4\u65f6\u95f4\u4e0b\u5348 2:57\uff0c\u5384\u6bd4\uff08Irby\uff09\u9644\u8fd1\u6b63\u5728\u915d\u917f\u5f3a\u96f7\u66b4**\uff0c\u4f4d\u4e8e\u66fc\u8fea\uff08Munday\uff09\u4e1c\u5357\u7ea6 16 \u82f1\u91cc\u5904\u3002\u8be5\u96f7\u66b4\u6b63\u4ee5\u6bcf\u5c0f\u65f6 30 \u82f1\u91cc\u7684\u901f\u5ea6\u5411\u4e1c\u79fb\u52a8\u3002\u8bf7\u786e\u4fdd\u60a8\u5904\u4e8e\u5ba4\u5185\u5e76\u6ce8\u610f\u5b89\u5168\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10590-2"
+    },
+    "id": 1
+  },
+  {
+    "source": "**As of 2:57 PM CDT, a severe thunderstorm is brewing near Irby**, approximately 16 miles southeast of Munday. It is moving eastward at a speed of 30 mph. Please ensure you are indoors and secure.",
+    "target": "\u622a\u81f3\u4e0b\u53482:57 (CDT),\u4f0a\u5c14\u6bd4\u9644\u8fd1\u6b63\u5728\u53d1\u751f\u5f3a\u70c8\u7684\u96f7\u66b4,\u8ddd\u79bb\u8499\u8fea\u4e1c\u5357\u7ea616\u82f1\u91cc.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10590-2"
+    },
+    "id": 31
+  },
+  {
+    "source": "**As of 2:57 PM CDT, a severe thunderstorm is brewing near Irby**, approximately 16 miles southeast of Munday. It is moving eastward at a speed of 30 mph. Please ensure you are indoors and secure.",
+    "target": "**\u622a\u81f3\u4e2d\u90e8\u590f\u4ee4\u65f6\u95f4\u4e0b\u53482:57\uff0c\u4e00\u573a\u5f3a\u96f7\u66b4\u6b63\u5728\u4f0a\u6bd4\u9644\u8fd1\u915d\u917f**\uff0c\u8ddd\u79bb\u8292\u8fea\u4e1c\u5357\u7ea616\u82f1\u91cc\u3002\u5b83\u6b63\u4ee530\u82f1\u91cc/\u5c0f\u65f6\u7684\u901f\u5ea6\u5411\u4e1c\u79fb\u52a8\u3002\u8bf7\u786e\u4fdd\u5f85\u5728\u5ba4\u5185\u5e76\u6ce8\u610f\u5b89\u5168\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10590-2"
+    },
+    "id": 36
+  },
+  {
+    "source": "**Flood Watch for Palatka:** A flood watch is now active due to expected rainfall of 1-3 inches. Be vigilant for rising water levels. Prepare to move to higher ground if advised. Stay updated on weather reports and avoid flood-prone areas.",
+    "target": "\u5e15\u62c9\u7279\u5361\u5730\u533a\u7684\u6d2a\u6c34\u8b66\u62a5:\u7531\u4e8e\u9884\u8ba1\u5c06\u4e0b\u964d1\u81f33\u82f1\u5bf8,\u6d2a\u6c34\u8b66\u5df2\u7ecf\u5f00\u59cb. \u8b66\u6c34\u4f4d\u4e0a\u5347. \u5982\u679c\u6709\u5efa\u8bae,\u51c6\u5907\u524d\u5f80\u66f4\u9ad8\u7684\u5730\u65b9. \u4fdd\u6301\u5929\u6c14\u9884\u62a5\u7684\u6700\u65b0\u60c5\u51b5,\u907f\u514d\u5bb9\u6613\u53d1\u751f\u6d2a\u6c34\u7684\u5730\u533a.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-4167-4"
+    },
+    "id": 3
+  },
+  {
+    "source": "**Flood Watch for Palatka:** A flood watch is now active due to expected rainfall of 1-3 inches. Be vigilant for rising water levels. Prepare to move to higher ground if advised. Stay updated on weather reports and avoid flood-prone areas.",
+    "target": "**\u5e15\u62c9\u7279\u5361\uff08Palatka\uff09\u6d2a\u6c34\u9884\u8b66\uff1a** \u7531\u4e8e\u9884\u8ba1\u964d\u96e8\u91cf\u5c06\u8fbe1\u81f33\u82f1\u5bf8\uff0c\u6d2a\u6c34\u9884\u8b66\u73b0\u5df2\u751f\u6548\u3002\u8bf7\u8b66\u60d5\u6c34\u4f4d\u4e0a\u6da8\u3002\u5982\u6536\u5230\u5efa\u8bae\uff0c\u8bf7\u505a\u597d\u8f6c\u79fb\u81f3\u9ad8\u5904\u7684\u51c6\u5907\u3002\u8bf7\u968f\u65f6\u5173\u6ce8\u6700\u65b0\u5929\u6c14\u9884\u62a5\uff0c\u5e76\u907f\u5f00\u6613\u53d1\u751f\u6d2a\u6d9d\u7684\u533a\u57df\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-4167-4"
+    },
+    "id": 34
+  },
+  {
+    "source": "**Flood Watch for Palatka:** A flood watch is now active due to expected rainfall of 1-3 inches. Be vigilant for rising water levels. Prepare to move to higher ground if advised. Stay updated on weather reports and avoid flood-prone areas.",
+    "target": "**\u5e15\u62c9\u7279\u5361\u6d2a\u6c34\u8b66\u6212\uff1a** \u7531\u4e8e\u9884\u8ba1\u964d\u96e8\u91cf\u4e3a1\u81f33\u82f1\u5bf8\uff0c\u76ee\u524d\u53d1\u5e03\u6d2a\u6c34\u8b66\u6212\u3002\u8bf7\u5bc6\u5207\u5173\u6ce8\u6c34\u4f4d\u4e0a\u6da8\u60c5\u51b5\u3002\u5982\u63a5\u83b7\u6307\u793a\uff0c\u8bf7\u51c6\u5907\u8f6c\u79fb\u5230\u5730\u52bf\u8f83\u9ad8\u5904\u3002\u6301\u7eed\u5173\u6ce8\u5929\u6c14\u62a5\u544a\uff0c\u907f\u514d\u8fdb\u5165\u6613\u53d1\u751f\u6d2a\u6c34\u7684\u533a\u57df\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-4167-4"
+    },
+    "id": 35
+  },
+  {
+    "source": "**Update for Albertville Community:** Authorities have found several milk jugs containing gasoline on the roof of the Nike shoe outlet. Please remain vigilant and alert local authorities if you notice any suspicious activity. Stay indoors if you are near the area until further notice.",
+    "target": "\u827e\u4f2f\u7279\u7ef4\u5c14\u793e\u533a\u7684\u6700\u65b0\u6d88\u606f:\u5f53\u5c40\u5728\u8010\u514b\u978b\u5e97\u5c4b\u9876\u4e0a\u53d1\u73b0\u4e86\u542b\u6709\u6c7d\u6cb9\u7684\u51e0\u74f6\u5976. \u8bf7\u4fdd\u6301\u8b66,\u5982\u679c\u53d1\u73b0\u4efb\u4f55\u53ef\u7591\u6d3b\u52a8,\u8bf7\u63d0\u9192\u5f53\u5730\u5f53\u5c40.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-8440-1"
+    },
+    "id": 5
+  },
+  {
+    "source": "**Update for Albertville Community:** Authorities have found several milk jugs containing gasoline on the roof of the Nike shoe outlet. Please remain vigilant and alert local authorities if you notice any suspicious activity. Stay indoors if you are near the area until further notice.",
+    "target": "**\u963f\u5c14\u4f2f\u7279\u7ef4\u5c14\u793e\u533a\u6700\u65b0\u901a\u62a5\uff1a** \u5f53\u5c40\u5728\u8010\u514b\u978b\u7c7b\u5965\u7279\u83b1\u65af\u5e97\u7684\u5c4b\u9876\u4e0a\u53d1\u73b0\u4e86\u51e0\u4e2a\u88c5\u6709\u6c7d\u6cb9\u7684\u725b\u5976\u6876\u3002\u8bf7\u4fdd\u6301\u8b66\u60d5\uff0c\u5982\u53d1\u73b0\u4efb\u4f55\u53ef\u7591\u6d3b\u52a8\uff0c\u8bf7\u53ca\u65f6\u5411\u5f53\u5730\u6709\u5173\u90e8\u95e8\u62a5\u544a\u3002\u5982\u679c\u60a8\u5728\u4e8b\u53d1\u533a\u57df\u9644\u8fd1\uff0c\u5728\u6536\u5230\u8fdb\u4e00\u6b65\u901a\u77e5\u524d\u8bf7\u7559\u5728\u5ba4\u5185\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-8440-1"
+    },
+    "id": 11
+  },
+  {
+    "source": "**Update for Albertville Community:** Authorities have found several milk jugs containing gasoline on the roof of the Nike shoe outlet. Please remain vigilant and alert local authorities if you notice any suspicious activity. Stay indoors if you are near the area until further notice.",
+    "target": "**\u963f\u5c14\u4f2f\u7279\u7ef4\u5c14\u793e\u533a\u901a\u544a\uff1a** \u5f53\u5c40\u5728\u8010\u514b\u978b\u5e97\u5c4b\u9876\u53d1\u73b0\u6570\u4e2a\u88c5\u6709\u6c7d\u6cb9\u7684\u725b\u5976\u6876\u3002\u8bf7\u4fdd\u6301\u8b66\u60d5\uff0c\u5982\u53d1\u73b0\u4efb\u4f55\u53ef\u7591\u6d3b\u52a8\uff0c\u8bf7\u7acb\u5373\u901a\u77e5\u5f53\u5730\u5f53\u5c40\u3002\u5728\u8fdb\u4e00\u6b65\u901a\u77e5\u4e4b\u524d\uff0c\u5982\u60a8\u5728\u9644\u8fd1\u533a\u57df\uff0c\u8bf7\u7559\u5728\u5ba4\u5185\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-8440-1"
+    },
+    "id": 28
+  },
+  {
+    "source": "**Warning: Incident at Whole Foods, University Heights, Ohio**. A situation has developed inside the store. Please prioritize your safety by leaving the area if possible. Avoid the vicinity and call 9-1-1 once you are safe to report your observations.",
+    "target": "**\u8b66\u544a:\u5728\u4fc4\u4fc4\u5dde\u5927\u5b66\u9ad8\u5730\u5168\u98df\u5e97\u53d1\u751f\u4e8b\u4ef6**. \u5546\u5e97\u5185\u90e8\u53d1\u751f\u4e86\u60c5\u51b5. \u8bf7\u4f18\u5148\u8003\u8651\u60a8\u7684\u5b89\u5168,\u5c3d\u53ef\u80fd\u79bb\u5f00\u8be5\u5730\u533a. \u907f\u514d\u9644\u8fd1,\u4e00\u65e6\u60a8\u5b89\u5168,\u8bf7\u62e8\u6253911\u62a5\u544a\u60a8\u7684\u89c2\u5bdf.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-6647-0"
+    },
+    "id": 2
+  },
+  {
+    "source": "**Warning: Incident at Whole Foods, University Heights, Ohio**. A situation has developed inside the store. Please prioritize your safety by leaving the area if possible. Avoid the vicinity and call 9-1-1 once you are safe to report your observations.",
+    "target": "**\u8b66\u544a\uff1a\u4fc4\u4ea5\u4fc4\u5dde\u5927\u5b66\u9ad8\u5730\u5e02 Whole Foods \u53d1\u751f\u7a81\u53d1\u4e8b\u4ef6**\u3002\u5e97\u5185\u51fa\u73b0\u7d27\u6025\u72b6\u51b5\u3002\u8bf7\u5c06\u81ea\u8eab\u5b89\u5168\u653e\u5728\u9996\u4f4d\uff0c\u5982\u6709\u53ef\u80fd\u8bf7\u5c3d\u5feb\u64a4\u79bb\u8be5\u533a\u57df\u3002\u8bf7\u907f\u5f00\u9644\u8fd1\u5468\u8fb9\u5730\u533a\uff0c\u5e76\u5728\u786e\u4fdd\u81ea\u8eab\u5b89\u5168\u540e\u62e8\u6253 9-1-1 \u62a5\u544a\u60a8\u6240\u89c2\u5bdf\u5230\u7684\u60c5\u51b5\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-6647-0"
+    },
+    "id": 9
+  },
+  {
+    "source": "**Warning: Incident at Whole Foods, University Heights, Ohio**. A situation has developed inside the store. Please prioritize your safety by leaving the area if possible. Avoid the vicinity and call 9-1-1 once you are safe to report your observations.",
+    "target": "**\u8b66\u544a\uff1a\u4fc4\u4ea5\u4fc4\u5dde University Heights \u7684 Whole Foods \u53d1\u751f\u7a81\u53d1\u4e8b\u4ef6**\u3002\u5e97\u5185\u5df2\u51fa\u73b0\u5f02\u5e38\u60c5\u51b5\u3002\u8bf7\u4f18\u5148\u786e\u4fdd\u81ea\u8eab\u5b89\u5168\uff0c\u5982\u679c\u53ef\u80fd\uff0c\u8bf7\u7acb\u5373\u79bb\u5f00\u8be5\u533a\u57df\u3002\u8bf7\u907f\u5f00\u9644\u8fd1\u533a\u57df\uff0c\u5e76\u5728\u786e\u4fdd\u5b89\u5168\u540e\u62e8\u6253 911\uff0c\u62a5\u544a\u60a8\u6240\u89c2\u5bdf\u5230\u7684\u60c5\u51b5\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-6647-0"
+    },
+    "id": 32
+  },
+  {
+    "source": "Attention: Highway 101 near Milepost 334 in Curry County is currently experiencing a rock fall caused by ongoing rainfall. Please avoid this area and follow local road guidance. If you are near the location, seek higher ground immediately and stay informed through local emergency services.",
+    "target": "\u8bf7\u6ce8\u610f\uff1a\u5e93\u91cc\u53bf\uff08Curry County\uff09101\u53f7\u516c\u8def\u91cc\u7a0b\u6807334\u9644\u8fd1\u76ee\u524d\u56e0\u6301\u7eed\u964d\u96e8\u53d1\u751f\u843d\u77f3\u3002\u8bf7\u907f\u5f00\u8be5\u533a\u57df\u5e76\u9075\u5faa\u5f53\u5730\u9053\u8def\u6307\u5f15\u3002\u5982\u679c\u60a8\u5728\u4e8b\u53d1\u5730\u70b9\u9644\u8fd1\uff0c\u8bf7\u7acb\u5373\u524d\u5f80\u5730\u52bf\u8f83\u9ad8\u5904\uff0c\u5e76\u901a\u8fc7\u5f53\u5730\u5e94\u6025\u670d\u52a1\u673a\u6784\u83b7\u53d6\u6700\u65b0\u4fe1\u606f\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-5526-0"
+    },
+    "id": 18
+  },
+  {
+    "source": "Attention: Highway 101 near Milepost 334 in Curry County is currently experiencing a rock fall caused by ongoing rainfall. Please avoid this area and follow local road guidance. If you are near the location, seek higher ground immediately and stay informed through local emergency services.",
+    "target": "\u6ce8\u610f\uff1a\u67ef\u91cc\u53bf 101 \u53f7\u516c\u8def 334 \u82f1\u91cc\u6807\u9644\u8fd1\u56e0\u6301\u7eed\u964d\u96e8\u6b63\u53d1\u751f\u843d\u77f3\u3002\u8bf7\u907f\u5f00\u8be5\u533a\u57df\uff0c\u5e76\u9075\u5faa\u5f53\u5730\u9053\u8def\u6307\u5f15\u3002\u5982\u679c\u60a8\u5728\u9644\u8fd1\uff0c\u8bf7\u7acb\u5373\u524d\u5f80\u9ad8\u5904\uff0c\u5e76\u901a\u8fc7\u5f53\u5730\u5e94\u6025\u670d\u52a1\u90e8\u95e8\u83b7\u53d6\u6700\u65b0\u4fe1\u606f\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-5526-0"
+    },
+    "id": 20
+  },
+  {
+    "source": "Attention: Highway 101 near Milepost 334 in Curry County is currently experiencing a rock fall caused by ongoing rainfall. Please avoid this area and follow local road guidance. If you are near the location, seek higher ground immediately and stay informed through local emergency services.",
+    "target": "\u6ce8\u610f:\u5e93\u91cc\u53bf334\u516c\u91cc\u7ad9\u9644\u8fd1\u7684101\u516c\u8def\u76ee\u524d\u6b63\u5728\u7ecf\u5386\u6301\u7eed\u964d\u96e8\u9020\u6210\u7684\u5ca9\u77f3\u5d29.\u8bf7\u907f\u514d\u8be5\u5730\u533a\u5e76\u9075\u5faa\u5f53\u5730\u9053\u8def\u6307\u5bfc.\u5982\u679c\u60a8\u5728\u9644\u8fd1,\u8bf7\u7acb\u5373\u5bfb\u627e\u66f4\u9ad8\u7684\u5730\u65b9,\u5e76\u901a\u8fc7\u5f53\u5730\u7d27\u6025\u670d\u52a1\u4fdd\u6301\u901a\u8baf.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-5526-0"
+    },
+    "id": 26
+  },
+  {
+    "source": "Please take note that hazardous wind chills may lead to frostbite on exposed skin within just 10 minutes. If going outdoors, ensure you wear warm, layered clothing and cover exposed skin to stay protected from the cold.",
+    "target": "\u8bf7\u6ce8\u610f\uff0c\u5371\u9669\u7684\u98ce\u5bd2\u6548\u5e94\u53ef\u80fd\u5bfc\u81f4\u66b4\u9732\u5728\u5916\u7684\u76ae\u80a4\u4ec5\u572810\u5206\u949f\u5185\u53d1\u751f\u51bb\u4f24\u3002\u5982\u679c\u5916\u51fa\uff0c\u8bf7\u786e\u4fdd\u7a7f\u7740\u4fdd\u6696\u3001\u5206\u5c42\u7684\u8863\u7269\uff0c\u5e76\u906e\u76d6\u66b4\u9732\u7684\u76ae\u80a4\uff0c\u4ee5\u62b5\u5fa1\u5bd2\u51b7\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-15961-6"
+    },
+    "id": 15
+  },
+  {
+    "source": "Please take note that hazardous wind chills may lead to frostbite on exposed skin within just 10 minutes. If going outdoors, ensure you wear warm, layered clothing and cover exposed skin to stay protected from the cold.",
+    "target": "\u8bf7\u6ce8\u610f\uff0c\u5371\u9669\u7684\u98ce\u5bd2\u53ef\u80fd\u5728\u77ed\u77ed10\u5206\u949f\u5185\u5bfc\u81f4\u66b4\u9732\u7684\u76ae\u80a4\u51bb\u4f24\u3002\u5982\u9700\u5916\u51fa\uff0c\u8bf7\u786e\u4fdd\u7a7f\u7740\u4fdd\u6696\u7684\u591a\u5c42\u8863\u7269\uff0c\u5e76\u906e\u76d6\u66b4\u9732\u5728\u5916\u7684\u76ae\u80a4\uff0c\u4ee5\u9632\u5bd2\u4fdd\u6696\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-15961-6"
+    },
+    "id": 21
+  },
+  {
+    "source": "Please take note that hazardous wind chills may lead to frostbite on exposed skin within just 10 minutes. If going outdoors, ensure you wear warm, layered clothing and cover exposed skin to stay protected from the cold.",
+    "target": "\u8bf7\u6ce8\u610f,\u98ce\u7684\u5371\u9669\u5bd2\u51b7\u4f1a\u572810\u5206\u949f\u5185\u5bfc\u81f4\u66b4\u9732\u7684\u76ae\u80a4\u7ed3.\u5982\u679c\u51fa\u95e8,\u8bf7\u786e\u4fdd\u7a7f\u7740\u6e29\u6696\u7684,\u5c42\u6b21\u7684\u8863\u670d,\u5e76\u906e\u76d6\u66b4\u9732\u7684\u808c\u80a4,\u4ee5\u4fdd\u62a4\u81ea\u5df1\u514d\u53d7\u5bd2\u51b7.",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-15961-6"
+    },
+    "id": 33
+  },
+  {
+    "source": "Radar confirms the storm's intensity is significant. Please remain indoors, avoiding all electronic devices connected to outlets, as a precaution during this active weather event.",
+    "target": "\u96f7\u8fbe\u5df2\u786e\u8ba4\u6b64\u6b21\u98ce\u66b4\u5f3a\u5ea6\u8f83\u5927\u3002\u5728\u6b64\u6076\u52a3\u5929\u6c14\u8fc7\u7a0b\u4e2d\uff0c\u8bf7\u7559\u5728\u5ba4\u5185\uff0c\u5e76\u4f5c\u4e3a\u9884\u9632\u63aa\u65bd\u907f\u514d\u63a5\u89e6\u6240\u6709\u8fde\u63a5\u7535\u6e90\u7684\u7535\u5b50\u8bbe\u5907\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10292-4"
+    },
+    "id": 8
+  },
+  {
+    "source": "Radar confirms the storm's intensity is significant. Please remain indoors, avoiding all electronic devices connected to outlets, as a precaution during this active weather event.",
+    "target": "\u96f7\u8fbe\u76d1\u6d4b\u786e\u8ba4\u98ce\u66b4\u5f3a\u5ea6\u5f88\u5927\u3002\u5728\u6b64\u6076\u52a3\u5929\u6c14\u671f\u95f4\uff0c\u4f5c\u4e3a\u9884\u9632\u63aa\u65bd\uff0c\u8bf7\u7559\u5728\u5ba4\u5185\uff0c\u5e76\u907f\u514d\u4f7f\u7528\u6240\u6709\u8fde\u63a5\u7535\u6e90\u63d2\u5ea7\u7684\u7535\u5b50\u8bbe\u5907\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10292-4"
+    },
+    "id": 23
+  },
+  {
+    "source": "Radar confirms the storm's intensity is significant. Please remain indoors, avoiding all electronic devices connected to outlets, as a precaution during this active weather event.",
+    "target": "\u96f7\u8fbe\u786e\u8ba4\u98ce\u66b4\u5f3a\u5ea6\u5f88\u5927,\u8bf7\u5728\u6d3b\u52a8\u671f\u95f4\u4fdd\u6301\u5728\u5ba4\u5185,\u907f\u514d\u8fde\u63a5\u5230\u7535\u6e90\u7684\u7535\u5b50\u8bbe\u5907.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10292-4"
+    },
+    "id": 24
+  },
+  {
+    "source": "Radar indicates that this storm may cause hail damage to vehicles. If you are outside, please ensure you are in a sheltered area to avoid injury. It's advisable to keep your vehicle parked in a safe location away from falling debris until the storm passes.",
+    "target": "\u96f7\u8fbe\u663e\u793a\uff0c\u8fd9\u573a\u66b4\u98ce\u96e8\u53ef\u80fd\u9020\u6210\u51b0\u96f9\uff0c\u635f\u574f\u8f66\u8f86\u3002\u5982\u679c\u60a8\u5728\u5ba4\u5916\uff0c\u8bf7\u786e\u4fdd\u524d\u5f80\u6709\u906e\u853d\u7684\u5b89\u5168\u533a\u57df\uff0c\u4ee5\u907f\u514d\u53d7\u4f24\u3002\u5efa\u8bae\u5728\u66b4\u98ce\u96e8\u8fc7\u53bb\u524d\uff0c\u5c06\u8f66\u8f86\u505c\u653e\u5728\u8fdc\u79bb\u5760\u843d\u6742\u7269\u7684\u5b89\u5168\u5730\u70b9\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10244-2"
+    },
+    "id": 13
+  },
+  {
+    "source": "Radar indicates that this storm may cause hail damage to vehicles. If you are outside, please ensure you are in a sheltered area to avoid injury. It's advisable to keep your vehicle parked in a safe location away from falling debris until the storm passes.",
+    "target": "\u96f7\u8fbe\u663e\u793a,\u8fd9\u573a\u66b4\u98ce\u96e8\u53ef\u80fd\u4f1a\u5bf9\u8f66\u8f86\u9020\u6210\u51b0\u635f\u574f.\u5982\u679c\u4f60\u5728\u5916\u9762,\u8bf7\u786e\u4fdd\u4f60\u5728\u4e00\u4e2a\u53d7\u4fdd\u62a4\u7684\u533a\u57df,\u4ee5\u907f\u514d\u53d7\u4f24.\u5efa\u8bae\u628a\u8f66\u8f86\u505c\u5728\u5b89\u5168\u7684\u5730\u65b9,\u8fdc\u79bb\u843d\u4e0b\u7684\u788e\u7247,\u76f4\u5230\u66b4\u98ce\u96ea\u8fc7\u53bb.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10244-2"
+    },
+    "id": 16
+  },
+  {
+    "source": "Radar indicates that this storm may cause hail damage to vehicles. If you are outside, please ensure you are in a sheltered area to avoid injury. It's advisable to keep your vehicle parked in a safe location away from falling debris until the storm passes.",
+    "target": "\u96f7\u8fbe\u663e\u793a\uff0c\u6b64\u6b21\u98ce\u66b4\u53ef\u80fd\u5e26\u6765\u51b0\u96f9\u5e76\u5bf9\u8f66\u8f86\u9020\u6210\u635f\u574f\u3002\u5982\u679c\u60a8\u8eab\u5904\u5ba4\u5916\uff0c\u8bf7\u786e\u4fdd\u8fdb\u5165\u6709\u906e\u853d\u7684\u533a\u57df\u4ee5\u9632\u53d7\u4f24\u3002\u5efa\u8bae\u5728\u98ce\u66b4\u8fc7\u53bb\u4e4b\u524d\uff0c\u5c06\u8f66\u8f86\u505c\u653e\u5728\u8fdc\u79bb\u5760\u843d\u788e\u7247\u7684\u5b8c\u5168\u5b89\u5168\u4f4d\u7f6e\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10244-2"
+    },
+    "id": 25
+  },
+  {
+    "source": "Residents of Grand Isle should prepare for considerable wind damage as the hurricane approaches. Complete all storm preparations urgently. Gather emergency supplies and move to a safe shelter. Prioritize your safety and follow local officials' guidance.",
+    "target": "\u7531\u4e8e\u98ce\u7684\u4e34\u8fd1,\u5927\u5c9b\u5c45\u6c11\u5e94\u4e3a\u98ce\u707e\u505a\u597d\u51c6\u5907. \u5e94\u7d27\u6025\u5b8c\u6210\u6240\u6709\u98ce\u66b4\u51c6\u5907\u5de5\u4f5c. \u6536\u96c6\u5e94\u6025\u7528\u54c1\u5e76\u524d\u5f80\u5b89\u5168\u907f\u96be\u6240. \u4f18\u5148\u8003\u8651\u81ea\u5df1\u7684\u5b89\u5168,\u5e76\u9075\u5faa\u5f53\u5730\u5b98\u5458\u7684\u6307\u5bfc.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-4303-4"
+    },
+    "id": 6
+  },
+  {
+    "source": "Residents of Grand Isle should prepare for considerable wind damage as the hurricane approaches. Complete all storm preparations urgently. Gather emergency supplies and move to a safe shelter. Prioritize your safety and follow local officials' guidance.",
+    "target": "\u968f\u7740\u98d3\u98ce\u903c\u8fd1\uff0c\u683c\u5170\u5fb7\u827e\u5c14\uff08Grand Isle\uff09\u7684\u5c45\u6c11\u5e94\u505a\u597d\u5e94\u5bf9\u91cd\u5927\u98ce\u707e\u7684\u51c6\u5907\u3002\u8bf7\u7d27\u6025\u5b8c\u6210\u6240\u6709\u9632\u98ce\u66b4\u51c6\u5907\u5de5\u4f5c\u3002\u5907\u9f50\u5e94\u6025\u7269\u8d44\u5e76\u8f6c\u79fb\u81f3\u5b89\u5168\u7684\u907f\u96be\u573a\u6240\u3002\u8bf7\u52a1\u5fc5\u5c06\u81ea\u8eab\u5b89\u5168\u653e\u5728\u9996\u4f4d\uff0c\u5e76\u9075\u5faa\u5f53\u5730\u5b98\u65b9\u7684\u6307\u5f15\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-4303-4"
+    },
+    "id": 10
+  },
+  {
+    "source": "Residents of Grand Isle should prepare for considerable wind damage as the hurricane approaches. Complete all storm preparations urgently. Gather emergency supplies and move to a safe shelter. Prioritize your safety and follow local officials' guidance.",
+    "target": "\u5927\u5c9b\u5c45\u6c11\u5e94\u505a\u597d\u51c6\u5907\uff0c\u9632\u8303\u98d3\u98ce\u903c\u8fd1\u53ef\u80fd\u9020\u6210\u7684\u4e25\u91cd\u98ce\u635f\u3002\u8bf7\u7acb\u5373\u5b8c\u6210\u6240\u6709\u9632\u98ce\u66b4\u51c6\u5907\u5de5\u4f5c\uff0c\u5c3d\u5feb\u6536\u96c6\u5e94\u6025\u7269\u8d44\uff0c\u5e76\u8f6c\u79fb\u5230\u5b89\u5168\u7684\u907f\u96be\u573a\u6240\u3002\u52a1\u5fc5\u5c06\u4eba\u8eab\u5b89\u5168\u653e\u5728\u9996\u4f4d\uff0c\u5e76\u9075\u4ece\u5f53\u5730\u5b98\u65b9\u6307\u5bfc\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-4303-4"
+    },
+    "id": 30
+  },
+  {
+    "source": "There is an expectation of damage to roofs, windows, and vehicles in the vicinity of this tornado. Protect yourself by staying indoors and moving to a small, interior room. Remain alert for updates from authorities regarding safety measures.",
+    "target": "\u5468\u56f4\u7684\u5c4b\u9876,\u7a97\u6237\u548c\u8f66\u8f86\u53ef\u80fd\u4f1a\u53d7\u5230\u635f\u574f.\u8bf7\u4fdd\u6301\u5728\u5ba4\u5185,\u642c\u5230\u4e00\u4e2a\u5c0f\u7684\u5ba4\u5185\u623f\u95f4,\u4ee5\u4fdd\u62a4\u81ea\u5df1.\u4fdd\u6301\u8b66,\u4ee5\u4e86\u89e3\u6709\u5173\u5b89\u5168\u63aa\u65bd\u7684\u5f53\u5c40\u6700\u65b0\u6d88\u606f.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-11240-4"
+    },
+    "id": 12
+  },
+  {
+    "source": "There is an expectation of damage to roofs, windows, and vehicles in the vicinity of this tornado. Protect yourself by staying indoors and moving to a small, interior room. Remain alert for updates from authorities regarding safety measures.",
+    "target": "\u9884\u8ba1\u8be5\u9f99\u5377\u98ce\u5468\u8fb9\u533a\u57df\u7684\u5c4b\u9876\u3001\u7a97\u6237\u548c\u8f66\u8f86\u5c06\u53d7\u5230\u635f\u574f\u3002\u8bf7\u7559\u5728\u5ba4\u5185\u5e76\u8f6c\u79fb\u81f3\u9760\u5185\u7684\u72ed\u5c0f\u623f\u95f4\uff0c\u4ee5\u4fdd\u62a4\u81ea\u8eab\u5b89\u5168\u3002\u8bf7\u4fdd\u6301\u8b66\u60d5\uff0c\u5bc6\u5207\u5173\u6ce8\u5b98\u65b9\u53d1\u5e03\u7684\u6709\u5173\u5b89\u5168\u63aa\u65bd\u7684\u6700\u65b0\u6d88\u606f\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-11240-4"
+    },
+    "id": 14
+  },
+  {
+    "source": "There is an expectation of damage to roofs, windows, and vehicles in the vicinity of this tornado. Protect yourself by staying indoors and moving to a small, interior room. Remain alert for updates from authorities regarding safety measures.",
+    "target": "\u9884\u8ba1\u9f99\u5377\u98ce\u9644\u8fd1\u7684\u5c4b\u9876\u3001\u7a97\u6237\u548c\u8f66\u8f86\u53ef\u80fd\u53d7\u635f\u3002\u8bf7\u5f85\u5728\u5ba4\u5185\uff0c\u5e76\u79fb\u52a8\u5230\u8f83\u5c0f\u3001\u65e0\u7a97\u7684\u5185\u90e8\u623f\u95f4\u4ee5\u786e\u4fdd\u81ea\u8eab\u5b89\u5168\u3002\u8bf7\u4fdd\u6301\u8b66\u60d5\uff0c\u7559\u610f\u5f53\u5c40\u53d1\u5e03\u7684\u5b89\u5168\u63aa\u65bd\u6700\u65b0\u4fe1\u606f\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-11240-4"
+    },
+    "id": 29
+  },
+  {
+    "source": "Tree damage is anticipated in areas including Thrashers and surrounding communities. Be cautious of falling branches or uprooted trees. Stay indoors and report any hazards to local authorities.",
+    "target": "\u9884\u8ba1\u5305\u62ec\u8272\u62c9\u820d\u65af\uff08Thrashers\uff09\u53ca\u5468\u8fb9\u793e\u533a\u5728\u5185\u7684\u5730\u533a\u4f1a\u51fa\u73b0\u6811\u6728\u53d7\u635f\u60c5\u51b5\u3002\u8bf7\u9632\u8303\u6389\u843d\u7684\u6811\u679d\u6216\u8fde\u6839\u62d4\u8d77\u7684\u6811\u6728\u3002\u8bf7\u7559\u5728\u5ba4\u5185\uff0c\u5e76\u5c06\u4efb\u4f55\u5371\u9669\u60c5\u51b5\u62a5\u544a\u7ed9\u5f53\u5730\u90e8\u95e8\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-11650-6"
+    },
+    "id": 17
+  },
+  {
+    "source": "Tree damage is anticipated in areas including Thrashers and surrounding communities. Be cautious of falling branches or uprooted trees. Stay indoors and report any hazards to local authorities.",
+    "target": "\u9884\u8ba1\u5728\u5305\u62ec\u6811\u548c\u5468\u8fb9\u793e\u533a\u5728\u5185\u7684\u5730\u533a\u4f1a\u9020\u6210\u6811\u6728\u635f\u574f.\u8bf7\u6ce8\u610f\u843d\u53f6\u6216\u6839\u62d4\u6811.\u4fdd\u6301\u5728\u5ba4\u5185,\u5e76\u5411\u5f53\u5730\u5f53\u5c40\u62a5\u544a\u4efb\u4f55\u5371\u9669.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-11650-6"
+    },
+    "id": 19
+  },
+  {
+    "source": "Tree damage is anticipated in areas including Thrashers and surrounding communities. Be cautious of falling branches or uprooted trees. Stay indoors and report any hazards to local authorities.",
+    "target": "\u9884\u8ba1\u5305\u62ec\u745f\u62c9\u745f\u65af\uff08Thrashers\uff09\u53ca\u5176\u5468\u8fb9\u793e\u533a\u5728\u5185\u7684\u533a\u57df\u53ef\u80fd\u51fa\u73b0\u6811\u6728\u53d7\u635f\u3002\u8bf7\u8c28\u9632\u6389\u843d\u6811\u679d\u6216\u8fde\u6839\u62d4\u8d77\u7684\u6811\u6728\u3002\u8bf7\u7559\u5728\u5ba4\u5185\uff0c\u5e76\u5411\u5f53\u5730\u6709\u5173\u90e8\u95e8\u62a5\u544a\u4efb\u4f55\u5371\u9669\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-11650-6"
+    },
+    "id": 22
+  },
+  {
+    "source": "Update: The ignition system of the devices within the Caribe Hilton has malfunctioned; however, the situation remains serious. Remain calm and seek shelter away from windows and doors while awaiting further instructions. If you can safely evacuate, do so without delay to a secure location.",
+    "target": "\u66f4\u65b0:\u5361\u91cc\u6bd4\u5e0c\u5c14\u987f\u9152\u5e97\u5185\u7684\u8bbe\u5907\u7684\u70b9\u706b\u7cfb\u7edf\u5931\u6548; \u7136\u800c,\u60c5\u51b5\u4ecd\u7136\u4e25\u91cd. \u5728\u7b49\u5f85\u8fdb\u4e00\u6b65\u6307\u793a\u65f6\u4fdd\u6301\u51b7\u9759,\u907f\u5f00\u7a97\u6237\u548c\u95e8\u6237. \u5982\u679c\u60a8\u53ef\u4ee5\u5b89\u5168\u64a4\u79bb,\u8bf7\u7acb\u5373\u524d\u5f80\u5b89\u5168\u5730\u70b9.",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17076-2"
+    },
+    "id": 4
+  },
+  {
+    "source": "Update: The ignition system of the devices within the Caribe Hilton has malfunctioned; however, the situation remains serious. Remain calm and seek shelter away from windows and doors while awaiting further instructions. If you can safely evacuate, do so without delay to a secure location.",
+    "target": "\u66f4\u65b0\uff1a\u5361\u91cc\u5e03\u5e0c\u5c14\u987f\u9152\u5e97\u5185\u8bbe\u5907\u7684\u70b9\u706b\u7cfb\u7edf\u53d1\u751f\u6545\u969c\uff1b\u7136\u800c\uff0c\u60c5\u51b5\u4f9d\u7136\u4e25\u5cfb\u3002\u8bf7\u4fdd\u6301\u51b7\u9759\uff0c\u8fdc\u79bb\u95e8\u7a97\u5e76\u5c31\u5730\u8eb2\u907f\uff0c\u7b49\u5f85\u8fdb\u4e00\u6b65\u6307\u793a\u3002\u5982\u679c\u60a8\u80fd\u591f\u5b89\u5168\u64a4\u79bb\uff0c\u8bf7\u7acb\u5373\u524d\u5f80\u5b89\u5168\u5730\u70b9\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17076-2"
+    },
+    "id": 7
+  },
+  {
+    "source": "Update: The ignition system of the devices within the Caribe Hilton has malfunctioned; however, the situation remains serious. Remain calm and seek shelter away from windows and doors while awaiting further instructions. If you can safely evacuate, do so without delay to a secure location.",
+    "target": "\u66f4\u65b0\uff1a\u52a0\u52d2\u6bd4\u5e0c\u5c14\u987f\u9152\u5e97\uff08Caribe Hilton\uff09\u5185\u90e8\u88c5\u7f6e\u7684\u70b9\u706b\u7cfb\u7edf\u53d1\u751f\u6545\u969c\uff1b\u7136\u800c\uff0c\u60c5\u51b5\u4f9d\u7136\u4e25\u5cfb\u3002\u8bf7\u4fdd\u6301\u51b7\u9759\uff0c\u5728\u7b49\u5f85\u8fdb\u4e00\u6b65\u6307\u793a\u7684\u540c\u65f6\u8fdc\u79bb\u95e8\u7a97\u5bfb\u627e\u63a9\u62a4\u3002\u5982\u679c\u60a8\u80fd\u591f\u5b89\u5168\u64a4\u79bb\uff0c\u8bf7\u6beb\u4e0d\u62d6\u5ef6\u5730\u524d\u5f80\u5b89\u5168\u5730\u70b9\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17076-2"
+    },
+    "id": 27
+  }
+]
