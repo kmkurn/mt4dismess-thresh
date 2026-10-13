@@ -1,0 +1,434 @@
+[
+  {
+    "source": " - Radar data shows severe storm conditions in the area. Please pay attention to local weather updates for any changes in the situation. If you are outside, seek shelter immediately and avoid touching electrical equipment that could be affected by possible power outages.",
+    "target": "- \u96f7\u8fbe\u6570\u636e\u663e\u793a\uff0c\u8be5\u5730\u533a\u5b58\u5728\u6076\u52a3\u98ce\u66b4\u5929\u6c14\u3002\u8bf7\u5173\u6ce8\u5f53\u5730\u5929\u6c14\u66f4\u65b0\uff0c\u4e86\u89e3\u60c5\u51b5\u53d8\u5316\u3002\u5982\u679c\u60a8\u5728\u5ba4\u5916\uff0c\u8bf7\u7acb\u5373\u5bfb\u627e\u907f\u96be\u573a\u6240\uff0c\u5e76\u907f\u514d\u63a5\u89e6\u53ef\u80fd\u53d7\u505c\u7535\u5f71\u54cd\u7684\u7535\u6c14\u8bbe\u5907\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17177-3"
+    },
+    "id": 27
+  },
+  {
+    "source": " - Radar data shows severe storm conditions in the area. Please pay attention to local weather updates for any changes in the situation. If you are outside, seek shelter immediately and avoid touching electrical equipment that could be affected by possible power outages.",
+    "target": "- \u96f7\u8fbe\u6570\u636e\u663e\u793a\u8be5\u5730\u533a\u6709\u4e25\u91cd\u98ce\u66b4\u5929\u6c14\u3002\u8bf7\u5bc6\u5207\u5173\u6ce8\u5f53\u5730\u6700\u65b0\u5929\u6c14\u9884\u62a5\u4ee5\u4e86\u89e3\u60c5\u51b5\u53d8\u5316\u3002\u5982\u679c\u60a8\u5728\u5ba4\u5916\uff0c\u8bf7\u7acb\u5373\u5bfb\u627e\u5e87\u62a4\u6240\uff0c\u5e76\u907f\u514d\u63a5\u89e6\u53ef\u80fd\u53d7\u5230\u505c\u7535\u5f71\u54cd\u7684\u7535\u6c14\u8bbe\u5907\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17177-3"
+    },
+    "id": 32
+  },
+  {
+    "source": " - Radar data shows severe storm conditions in the area. Please pay attention to local weather updates for any changes in the situation. If you are outside, seek shelter immediately and avoid touching electrical equipment that could be affected by possible power outages.",
+    "target": "\u96f7\u8fbe\u6570\u636e\u663e\u793a\u8be5\u5730\u533a\u7684\u98ce\u66b4\u72b6\u51b5\u4e25\u91cd. \u8bf7\u6ce8\u610f\u5f53\u5730\u5929\u6c14\u66f4\u65b0\u60c5\u51b5\u7684\u4efb\u4f55\u53d8\u5316. \u5982\u679c\u60a8\u5728\u5916\u9762,\u8bf7\u7acb\u5373\u5bfb\u6c42\u5e87\u62a4,\u907f\u514d\u63a5\u89e6\u53ef\u80fd\u53d7\u5230\u53ef\u80fd\u505c\u7535\u5f71\u54cd\u7684\u7535\u6c14\u8bbe\u5907.",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17177-3"
+    },
+    "id": 39
+  },
+  {
+    "source": "**Attention Residents of Carlyle:** A Flood Warning is in effect for the Kaskaskia River due to recent heavy rainfall and more rain expected in the next 48 hours. Please prepare emergency supplies and find safe shelter immediately. Stay tuned for updates from local authorities.",
+    "target": "**\u5361\u83b1\u5c14\u5c45\u6c11\u8bf7\u6ce8\u610f\uff1a** \u7531\u4e8e\u8fd1\u671f\u5f3a\u964d\u96e8\u4ee5\u53ca\u672a\u676548\u5c0f\u65f6\u5185\u9884\u8ba1\u8fd8\u5c06\u6709\u66f4\u591a\u964d\u96e8\uff0c\u5361\u65af\u5361\u65af\u57fa\u4e9a\u6cb3\uff08Kaskaskia River\uff09\u73b0\u5df2\u53d1\u5e03\u6d2a\u6c34\u9884\u8b66\u3002\u8bf7\u7acb\u5373\u51c6\u5907\u5e94\u6025\u7269\u8d44\u5e76\u5bfb\u627e\u5b89\u5168\u907f\u96be\u6240\u3002\u8bf7\u5bc6\u5207\u5173\u6ce8\u5f53\u5730\u5b98\u65b9\u53d1\u5e03\u7684\u6700\u65b0\u52a8\u6001\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-14420-0"
+    },
+    "id": 23
+  },
+  {
+    "source": "**Attention Residents of Carlyle:** A Flood Warning is in effect for the Kaskaskia River due to recent heavy rainfall and more rain expected in the next 48 hours. Please prepare emergency supplies and find safe shelter immediately. Stay tuned for updates from local authorities.",
+    "target": "**\u5361\u83b1\u5c14\u5c45\u6c11\u8bf7\u6ce8\u610f\uff1a**\u7531\u4e8e\u8fd1\u671f\u51fa\u73b0\u5f3a\u964d\u96e8\uff0c\u5e76\u4e14\u672a\u676548\u5c0f\u65f6\u5185\u9884\u8ba1\u8fd8\u5c06\u6709\u66f4\u591a\u964d\u96e8\uff0c\u5361\u65af\u5361\u65af\u57fa\u4e9a\u6cb3\u5df2\u53d1\u5e03\u6d2a\u6c34\u8b66\u544a\u3002\u8bf7\u7acb\u5373\u51c6\u5907\u5e94\u6025\u7269\u8d44\u5e76\u5bfb\u627e\u5b89\u5168\u7684\u907f\u96be\u573a\u6240\u3002\u8bf7\u6301\u7eed\u5173\u6ce8\u5f53\u5730\u5f53\u5c40\u53d1\u5e03\u7684\u6700\u65b0\u6d88\u606f\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-14420-0"
+    },
+    "id": 30
+  },
+  {
+    "source": "**Attention Residents of Carlyle:** A Flood Warning is in effect for the Kaskaskia River due to recent heavy rainfall and more rain expected in the next 48 hours. Please prepare emergency supplies and find safe shelter immediately. Stay tuned for updates from local authorities.",
+    "target": "\u5361\u65af\u5361\u65af\u57fa\u4e9a\u6cb3\u4e0a\u6d77\u5730\u533a\u5df2\u53d7\u5230\u6d2a\u6c34\u8b66\u544a, \u7531\u4e8e\u8fd1\u671f\u7684\u66b4\u96e8, \u9884\u8ba1\u5728\u672a\u676548\u5c0f\u65f6\u5185\u5c06\u6709\u66f4\u591a\u7684\u964d\u96e8. \u8bf7\u51c6\u5907\u7d27\u6025\u7269\u8d44, \u7acb\u5373\u5bfb\u627e\u5b89\u5168\u7684\u907f\u96be\u6240. \u4fdd\u6301\u4e0e\u5f53\u5730\u5f53\u5c40\u7684\u6700\u65b0\u6d88\u606f\u8054\u7cfb.",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-14420-0"
+    },
+    "id": 42
+  },
+  {
+    "source": "**Cold Weather Caution:** Cold wind chills in Sierra Madre and Snowy Range Mountains could reach as low as 20 below zero. Exposed skin is at risk of frostbite within just 30 minutes. For your safety, wear adequate layers if you need to be outdoors.  ",
+    "target": "**\u4f4e\u6e29\u5929\u6c14\u63d0\u9192\uff1a** \u897f\u62c9\u9a6c\u5fb7\u96f7\u5c71\u8109\u548c\u96ea\u5cad\u5c71\u8109\u7684\u98ce\u5bd2\u6e29\u5ea6\u53ef\u80fd\u4f4e\u81f3\u96f6\u4e0b20\u5ea6\u3002\u88f8\u9732\u7684\u76ae\u80a4\u4ec5\u970030\u5206\u949f\u5c31\u53ef\u80fd\u51fa\u73b0\u51bb\u4f24\u3002\u4e3a\u786e\u4fdd\u5b89\u5168\uff0c\u5982\u9700\u5916\u51fa\uff0c\u8bf7\u7a7f\u7740\u8db3\u591f\u7684\u5206\u5c42\u4fdd\u6696\u8863\u7269\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-15911-4"
+    },
+    "id": 21
+  },
+  {
+    "source": "**Cold Weather Caution:** Cold wind chills in Sierra Madre and Snowy Range Mountains could reach as low as 20 below zero. Exposed skin is at risk of frostbite within just 30 minutes. For your safety, wear adequate layers if you need to be outdoors.  ",
+    "target": "**\u51b7\u5929\u6c14\u6ce8\u610f:**\u96ea\u5730\u5c71\u8109\u548c\u96ea\u5730\u5e26\u7684\u5bd2\u98ce\u53ef\u80fd\u4f4e\u81f3\u96f6\u4e0b20\u5ea6.\u66b4\u9732\u7684\u76ae\u80a4\u572830\u5206\u949f\u5185\u5c31\u4f1a\u53d7\u5230\u4f24\u7684\u98ce\u9669.\u4e3a\u4e86\u4fdd\u8bc1\u5b89\u5168,\u5982\u679c\u4f60\u9700\u8981\u5728\u6237\u5916,\u8bf7\u7a7f\u4e0a\u9002\u5f53\u7684\u5c42. ",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-15911-4"
+    },
+    "id": 26
+  },
+  {
+    "source": "**Cold Weather Caution:** Cold wind chills in Sierra Madre and Snowy Range Mountains could reach as low as 20 below zero. Exposed skin is at risk of frostbite within just 30 minutes. For your safety, wear adequate layers if you need to be outdoors.  ",
+    "target": "**\u5bd2\u51b7\u5929\u6c14\u8b66\u62a5\uff1a** \u9a6c\u5fb7\u96f7\u5c71\u8109\u548c\u65af\u8bfa\u4f0a\u5c71\u8109\u7684\u98ce\u5bd2\u6e29\u5ea6\u53ef\u80fd\u4f4e\u81f3\u96f6\u4e0b20\u5ea6\u3002\u66b4\u9732\u5728\u5916\u7684\u76ae\u80a4\u5728\u77ed\u77ed30\u5206\u949f\u5185\u5373\u6709\u51bb\u4f24\u98ce\u9669\u3002\u4e3a\u4e86\u60a8\u7684\u5b89\u5168\uff0c\u5982\u9700\u5916\u51fa\uff0c\u8bf7\u7a7f\u6234\u8db3\u591f\u4fdd\u6696\u7684\u8863\u7269\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-15911-4"
+    },
+    "id": 37
+  },
+  {
+    "source": "**Impacting Locations**: Areas including Haleyville, Lynn, Arley, Double Springs, Addison, and Nauvoo are currently facing severe weather conditions. Please avoid unnecessary travel and stay indoors until the storm passes. Keep an eye on local forecasts and alerts.",
+    "target": "**\u53d7\u5f71\u54cd\u533a\u57df**\uff1a\u5305\u62ec\u6d77\u5229\u7ef4\u5c14\uff08Haleyville\uff09\u3001\u6797\u6069\uff08Lynn\uff09\u3001\u963f\u5229\uff08Arley\uff09\u3001\u9053\u5e03\u5c14\u65af\u666e\u6797\u65af\uff08Double Springs\uff09\u3001\u963f\u8fea\u68ee\uff08Addison\uff09\u548c\u7eb3\u6c83\uff08Nauvoo\uff09\u5728\u5185\u7684\u5730\u533a\u76ee\u524d\u6b63\u9762\u4e34\u4e25\u91cd\u7684\u6076\u52a3\u5929\u6c14\u3002\u8bf7\u907f\u514d\u4e0d\u5fc5\u8981\u7684\u51fa\u884c\uff0c\u5e76\u5728\u98ce\u66b4\u8fc7\u53bb\u524d\u7559\u5728\u5ba4\u5185\u3002\u8bf7\u5bc6\u5207\u5173\u6ce8\u5f53\u5730\u7684\u5929\u6c14\u9884\u62a5\u548c\u9884\u8b66\u4fe1\u606f\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10681-3"
+    },
+    "id": 14
+  },
+  {
+    "source": "**Impacting Locations**: Areas including Haleyville, Lynn, Arley, Double Springs, Addison, and Nauvoo are currently facing severe weather conditions. Please avoid unnecessary travel and stay indoors until the storm passes. Keep an eye on local forecasts and alerts.",
+    "target": "\u5f71\u54cd\u5730\u533a:\u6d77\u5229\u7ef4\u5c14,\u6797\u6069,\u963f\u5229,\u53cc\u6cc9,\u4e9a\u8fea\u68ee\u548c\u7eb3\u7b49\u5730\u533a\u76ee\u524d\u9762\u4e34\u6076\u52a3\u5929\u6c14.\u8bf7\u907f\u514d\u4e0d\u5fc5\u8981\u7684\u65c5\u884c,\u5e76\u5728\u98ce\u66b4\u8fc7\u53bb\u4e4b\u524d\u4fdd\u6301\u5728\u5ba4\u5185. \u5173\u6ce8\u5f53\u5730\u9884\u62a5\u548c\u8b66\u62a5.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10681-3"
+    },
+    "id": 17
+  },
+  {
+    "source": "**Impacting Locations**: Areas including Haleyville, Lynn, Arley, Double Springs, Addison, and Nauvoo are currently facing severe weather conditions. Please avoid unnecessary travel and stay indoors until the storm passes. Keep an eye on local forecasts and alerts.",
+    "target": "**\u53d7\u5f71\u54cd\u5730\u533a**: \u5305\u62ec\u9ed1\u5229\u7ef4\u5c14\uff08Haleyville\uff09\u3001\u6797\u6069\uff08Lynn\uff09\u3001\u963f\u5229\uff08Arley\uff09\u3001\u53cc\u6cc9\uff08Double Springs\uff09\u3001\u963f\u4e01\u987f\uff08Addison\uff09\u548c\u7459\u6c83\uff08Nauvoo\uff09\u5728\u5185\u7684\u5730\u533a\u76ee\u524d\u6b63\u9762\u4e34\u6076\u52a3\u5929\u6c14\u3002\u8bf7\u907f\u514d\u4e0d\u5fc5\u8981\u7684\u51fa\u884c\uff0c\u5f85\u5728\u5ba4\u5185\u76f4\u81f3\u98ce\u66b4\u8fc7\u53bb\u3002\u8bf7\u5173\u6ce8\u5f53\u5730\u5929\u6c14\u9884\u62a5\u548c\u8b66\u62a5\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10681-3"
+    },
+    "id": 38
+  },
+  {
+    "source": "**Keep Safe:** As conditions develop in Lake Alan Henry and surrounding areas, your safety is paramount. Stay indoors, monitor updates from local authorities, and prepare for potential long-term sheltering if necessary. Follow all safety recommendations to protect yourself and others.",
+    "target": "**\u6ce8\u610f\u5b89\u5168\uff1a**\u968f\u7740\u827e\u4f26\u00b7\u4ea8\u5229\u6e56\uff08Lake Alan Henry\uff09\u53ca\u5468\u8fb9\u5730\u533a\u60c5\u51b5\u7684\u53d1\u5c55\uff0c\u60a8\u7684\u5b89\u5168\u81f3\u5173\u91cd\u8981\u3002\u8bf7\u7559\u5728\u5ba4\u5185\uff0c\u5bc6\u5207\u5173\u6ce8\u5730\u65b9\u5f53\u5c40\u53d1\u5e03\u7684\u6700\u65b0\u52a8\u6001\uff0c\u5e76\u5728\u5fc5\u8981\u65f6\u505a\u597d\u957f\u671f\u907f\u96be\u7684\u51c6\u5907\u3002\u8bf7\u9075\u5faa\u6240\u6709\u5b89\u5168\u5efa\u8bae\uff0c\u4ee5\u4fdd\u62a4\u81ea\u5df1\u548c\u4ed6\u4eba\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-12235-9"
+    },
+    "id": 1
+  },
+  {
+    "source": "**Keep Safe:** As conditions develop in Lake Alan Henry and surrounding areas, your safety is paramount. Stay indoors, monitor updates from local authorities, and prepare for potential long-term sheltering if necessary. Follow all safety recommendations to protect yourself and others.",
+    "target": "**\u4fdd\u6301\u5b89\u5168\uff1a** \u968f\u7740\u827e\u4f26\u4ea8\u5229\u6e56\u53ca\u5468\u8fb9\u5730\u533a\u7684\u60c5\u51b5\u53d1\u5c55\uff0c\u60a8\u7684\u5b89\u5168\u81f3\u5173\u91cd\u8981\u3002\u8bf7\u7559\u5728\u5ba4\u5185\uff0c\u5173\u6ce8\u5f53\u5730\u4e3b\u7ba1\u90e8\u95e8\u53d1\u5e03\u7684\u6700\u65b0\u4fe1\u606f\uff0c\u5e76\u5728\u5fc5\u8981\u65f6\u505a\u597d\u957f\u671f\u907f\u96be\u51c6\u5907\u3002\u9075\u5faa\u6240\u6709\u5b89\u5168\u5efa\u8bae\uff0c\u4fdd\u62a4\u60a8\u548c\u4ed6\u4eba\u7684\u5b89\u5168\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-12235-9"
+    },
+    "id": 2
+  },
+  {
+    "source": "**Keep Safe:** As conditions develop in Lake Alan Henry and surrounding areas, your safety is paramount. Stay indoors, monitor updates from local authorities, and prepare for potential long-term sheltering if necessary. Follow all safety recommendations to protect yourself and others.",
+    "target": "**\u4fdd\u6301\u5b89\u5168:**\u968f\u7740\u827e\u4f26\u00b7\u4ea8\u5229\u6e56\u548c\u5468\u8fb9\u5730\u533a\u7684\u60c5\u51b5\u7684\u53d1\u5c55,\u60a8\u7684\u5b89\u5168\u81f3\u5173\u91cd\u8981.\u8bf7\u4fdd\u6301\u5728\u5ba4\u5185,\u76d1\u89c6\u5f53\u5730\u5f53\u5c40\u7684\u6700\u65b0\u6d88\u606f,\u5e76\u5728\u5fc5\u8981\u65f6\u51c6\u5907\u53ef\u80fd\u7684\u957f\u671f\u907f\u96be\u6240.\u9075\u5b88\u6240\u6709\u5b89\u5168\u5efa\u8bae\u4ee5\u4fdd\u62a4\u81ea\u5df1\u548c\u5176\u4ed6\u4eba.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-12235-9"
+    },
+    "id": 28
+  },
+  {
+    "source": "**Tree Damage Alert:** This storm may cause significant tree damage. Be cautious of falling trees and limbs. Stay indoors and monitor local authorities for updates regarding road safety and any obstructed pathways.",
+    "target": "\u6811\u6728\u635f\u574f\u8b66\u62a5:** \u8fd9\u573a\u98ce\u66b4\u53ef\u80fd\u9020\u6210\u5927\u91cf\u6811\u6728\u7834\u574f.\u8bf7\u6ce8\u610f\u6811\u6728\u548c\u6811\u679d\u4e0b\u964d. \u4fdd\u6301\u5728\u5ba4\u5185,\u5e76\u76d1\u89c6\u5f53\u5730\u5f53\u5c40\u5173\u4e8e\u9053\u8def\u5b89\u5168\u548c\u4efb\u4f55\u53d7\u963b\u8def\u5f84\u7684\u6700\u65b0\u4fe1\u606f.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10966-6"
+    },
+    "id": 6
+  },
+  {
+    "source": "**Tree Damage Alert:** This storm may cause significant tree damage. Be cautious of falling trees and limbs. Stay indoors and monitor local authorities for updates regarding road safety and any obstructed pathways.",
+    "target": "**\u6811\u6728\u635f\u6bc1\u8b66\u62a5\uff1a** \u8fd9\u573a\u98ce\u66b4\u53ef\u80fd\u4f1a\u9020\u6210\u4e25\u91cd\u7684\u6811\u6728\u635f\u574f\u3002\u8bf7\u63d0\u9632\u5012\u4f0f\u7684\u6811\u6728\u548c\u6389\u843d\u7684\u6811\u679d\u3002\u8bf7\u7559\u5728\u5ba4\u5185\uff0c\u5e76\u5173\u6ce8\u5730\u65b9\u5f53\u5c40\u53d1\u5e03\u7684\u5173\u4e8e\u9053\u8def\u5b89\u5168\u548c\u4efb\u4f55\u53d7\u963b\u8def\u6bb5\u7684\u6700\u65b0\u4fe1\u606f\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10966-6"
+    },
+    "id": 9
+  },
+  {
+    "source": "**Tree Damage Alert:** This storm may cause significant tree damage. Be cautious of falling trees and limbs. Stay indoors and monitor local authorities for updates regarding road safety and any obstructed pathways.",
+    "target": "**\u6811\u6728\u635f\u6bc1\u8b66\u62a5\uff1a** \u6b64\u98ce\u66b4\u53ef\u80fd\u5bfc\u81f4\u4e25\u91cd\u7684\u6811\u6728\u635f\u6bc1\u3002\u8bf7\u5f53\u5fc3\u5012\u4e0b\u7684\u6811\u6728\u548c\u6811\u679d\u3002\u8bf7\u7559\u5728\u5ba4\u5185\uff0c\u5e76\u5173\u6ce8\u5f53\u5730\u5f53\u5c40\u53d1\u5e03\u6709\u5173\u9053\u8def\u5b89\u5168\u53ca\u9053\u8def\u969c\u788d\u7269\u7684\u66f4\u65b0\u4fe1\u606f\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10966-6"
+    },
+    "id": 25
+  },
+  {
+    "source": "A Flash Flood Watch has been issued for Grand Isle, with an additional 3-6 inches of rainfall expected. Take precautions immediately by finding safe shelter and avoiding floodwaters. Do not attempt to walk or drive through any flooded areas. Turn around if you encounter water on the road.",
+    "target": "\u683c\u5170\u5fb7\u827e\u5c14\uff08Grand Isle\uff09\u5df2\u53d1\u5e03\u5c71\u6d2a\u9884\u8b66\uff0c\u9884\u8ba1\u8fd8\u5c06\u67093\u81f36\u82f1\u5bf8\u7684\u964d\u96e8\u3002\u8bf7\u7acb\u5373\u91c7\u53d6\u9632\u8303\u63aa\u65bd\uff0c\u5bfb\u627e\u5b89\u5168\u7684\u907f\u96be\u573a\u6240\u5e76\u907f\u5f00\u6d2a\u6c34\u3002\u5207\u52ff\u5c1d\u8bd5\u6b65\u884c\u6216\u9a7e\u8f66\u7a7f\u8fc7\u4efb\u4f55\u88ab\u6df9\u533a\u57df\u3002\u5982\u679c\u5728\u8def\u4e0a\u9047\u5230\u79ef\u6c34\uff0c\u8bf7\u6389\u5934\u7ed5\u884c\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-4878-4"
+    },
+    "id": 4
+  },
+  {
+    "source": "A Flash Flood Watch has been issued for Grand Isle, with an additional 3-6 inches of rainfall expected. Take precautions immediately by finding safe shelter and avoiding floodwaters. Do not attempt to walk or drive through any flooded areas. Turn around if you encounter water on the road.",
+    "target": "\u5927\u5c9b\uff08Grand Isle\uff09\u5df2\u53d1\u5e03\u66b4\u6d2a\u8b66\u6212\uff0c\u9884\u8ba1\u5c06\u518d\u51fa\u73b03\u81f36\u82f1\u5bf8\u964d\u96e8\u3002\u8bf7\u7acb\u5373\u91c7\u53d6\u9632\u8303\u63aa\u65bd\uff0c\u5bfb\u627e\u5b89\u5168\u907f\u96be\u573a\u6240\u5e76\u8fdc\u79bb\u6d2a\u6c34\u3002\u5207\u52ff\u6b65\u884c\u6216\u9a7e\u8f66\u7a7f\u8fc7\u4efb\u4f55\u79ef\u6c34\u533a\u57df\u3002\u82e5\u5728\u9053\u8def\u4e0a\u9047\u5230\u79ef\u6c34\uff0c\u8bf7\u7acb\u5373\u6389\u5934\u8fd4\u56de\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-4878-4"
+    },
+    "id": 44
+  },
+  {
+    "source": "A Flash Flood Watch has been issued for Grand Isle, with an additional 3-6 inches of rainfall expected. Take precautions immediately by finding safe shelter and avoiding floodwaters. Do not attempt to walk or drive through any flooded areas. Turn around if you encounter water on the road.",
+    "target": "\u5df2\u53d1\u5e03\u4e00\u4e2a\u95ea\u7535\u6d2a\u6c34\u8b66\u62a5,\u9884\u8ba1\u5c06\u67093-6\u82f1\u5bf8\u7684\u964d\u96e8.\u7acb\u5373\u91c7\u53d6\u9884\u9632\u63aa\u65bd,\u5bfb\u627e\u5b89\u5168\u7684\u907f\u96be\u6240,\u907f\u514d\u6d2a\u6c34.\u4e0d\u8981\u8bd5\u56fe\u8d70\u6216\u9a7e\u9a76\u4efb\u4f55\u6df9\u6c34\u5730\u533a.\u5982\u679c\u4f60\u9047\u5230\u8def\u4e0a\u6c34,\u8f6c\u8eab.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-4878-4"
+    },
+    "id": 45
+  },
+  {
+    "source": "At 11.3 feet, low water crossings in Mission Valley will be submerged and closed. Stay clear of impacted roads, including Fashion Valley Road and Avenida Del Rio. If you\u2019re traveling, seek alternative routes and avoid driving unless absolutely necessary.",
+    "target": "\u5f53\u6c34\u4f4d\u8fbe\u5230 11.3 \u82f1\u5c3a\u65f6\uff0c\u7c73\u7533\u8c37\uff08Mission Valley\uff09\u7684\u4f4e\u6d3c\u8fc7\u6c34\u8def\u6bb5\u5c06\u88ab\u6df9\u6ca1\u5e76\u5173\u95ed\u3002\u8bf7\u8fdc\u79bb\u53d7\u5f71\u54cd\u7684\u9053\u8def\uff0c\u5305\u62ec\u65f6\u5c1a\u8c37\u8def\uff08Fashion Valley Road\uff09\u548c\u5fb7\u5c14\u91cc\u5965\u5927\u9053\uff08Avenida Del Rio\uff09\u3002\u5982\u679c\u60a8\u9700\u8981\u51fa\u884c\uff0c\u8bf7\u5bfb\u627e\u66ff\u4ee3\u8def\u7ebf\uff0c\u975e\u7edd\u5bf9\u5fc5\u8981\u8bf7\u907f\u514d\u9a7e\u8f66\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-14437-5"
+    },
+    "id": 16
+  },
+  {
+    "source": "At 11.3 feet, low water crossings in Mission Valley will be submerged and closed. Stay clear of impacted roads, including Fashion Valley Road and Avenida Del Rio. If you\u2019re traveling, seek alternative routes and avoid driving unless absolutely necessary.",
+    "target": "\u5bc6\u897f\u5b89\u8c37\u7684\u4f4e\u6c34\u4ea4\u53c9\u8def\u53e3\u5c06\u88ab\u6df9\u6ca1\u5e76\u5173\u95ed. \u8fdc\u79bb\u53d7\u5f71\u54cd\u7684\u9053\u8def,\u5305\u62ec\u65f6\u5c1a\u8c37\u8def\u548cDel Rio\u5927\u9053. \u5982\u679c\u60a8\u6b63\u5728\u65c5\u884c,\u8bf7\u5bfb\u627e\u66ff\u4ee3\u8def\u7ebf,\u9664\u975e\u7edd\u5bf9\u5fc5\u8981,\u5426\u5219\u907f\u514d\u9a7e\u9a76.",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-14437-5"
+    },
+    "id": 18
+  },
+  {
+    "source": "At 11.3 feet, low water crossings in Mission Valley will be submerged and closed. Stay clear of impacted roads, including Fashion Valley Road and Avenida Del Rio. If you\u2019re traveling, seek alternative routes and avoid driving unless absolutely necessary.",
+    "target": "\u5f53\u6c34\u4f4d\u8fbe\u5230 11.3 \u82f1\u5c3a\u65f6\uff0cMission Valley\uff08\u4f7f\u547d\u8c37\uff09\u7684\u4f4e\u6d3c\u8fc7\u6c34\u8def\u6bb5\u5c06\u88ab\u6df9\u6ca1\u5e76\u5c01\u95ed\u3002\u8bf7\u8fdc\u79bb\u53d7\u5f71\u54cd\u9053\u8def\uff0c\u5305\u62ec Fashion Valley Road \u548c Avenida Del Rio\u3002\u5982\u9700\u51fa\u884c\uff0c\u8bf7\u5bfb\u627e\u66ff\u4ee3\u8def\u7ebf\uff0c\u5e76\u5c3d\u91cf\u907f\u514d\u9a7e\u8f66\uff0c\u9664\u975e\u7edd\u5bf9\u5fc5\u8981\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-14437-5"
+    },
+    "id": 36
+  },
+  {
+    "source": "Attention: A volcanic eruption has occurred, leading to the possibility of a tsunami in the coastal areas. Follow evacuation orders from local authorities without delay. Seek higher ground immediately and avoid areas along the coast. If you are indoors, stay put until you receive further instructions.",
+    "target": "\u6ce8\u610f\uff1a\u5df2\u53d1\u751f\u706b\u5c71\u7206\u53d1\uff0c\u53ef\u80fd\u5bfc\u81f4\u6cbf\u6d77\u5730\u533a\u51fa\u73b0\u6d77\u5578\u3002\u8bf7\u7acb\u5373\u9075\u5faa\u5f53\u5730\u5f53\u5c40\u53d1\u5e03\u7684\u758f\u6563\u6307\u4ee4\u3002\u7acb\u5373\u524d\u5f80\u5730\u52bf\u8f83\u9ad8\u5904\uff0c\u5e76\u907f\u514d\u505c\u7559\u5728\u6cbf\u6d77\u5730\u533a\u3002\u5982\u679c\u60a8\u5728\u5ba4\u5185\uff0c\u8bf7\u7559\u5728\u539f\u5904\uff0c\u76f4\u5230\u6536\u5230\u8fdb\u4e00\u6b65\u6307\u793a\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-12385-0"
+    },
+    "id": 31
+  },
+  {
+    "source": "Attention: A volcanic eruption has occurred, leading to the possibility of a tsunami in the coastal areas. Follow evacuation orders from local authorities without delay. Seek higher ground immediately and avoid areas along the coast. If you are indoors, stay put until you receive further instructions.",
+    "target": "\u6ce8\u610f\uff1a\u53d1\u751f\u4e86\u706b\u5c71\u55b7\u53d1\uff0c\u53ef\u80fd\u5bfc\u81f4\u6cbf\u6d77\u5730\u533a\u51fa\u73b0\u6d77\u5578\u3002\u8bf7\u6beb\u4e0d\u8fdf\u5ef6\u5730\u670d\u4ece\u5f53\u5730\u653f\u5e9c\u7684\u758f\u6563\u547d\u4ee4\u3002\u7acb\u5373\u524d\u5f80\u5730\u52bf\u8f83\u9ad8\u7684\u5730\u65b9\uff0c\u907f\u5f00\u6cbf\u6d77\u533a\u57df\u3002\u5982\u679c\u60a8\u5728\u5ba4\u5185\uff0c\u8bf7\u7559\u5728\u539f\u5730\uff0c\u76f4\u5230\u6536\u5230\u8fdb\u4e00\u6b65\u6307\u793a\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-12385-0"
+    },
+    "id": 35
+  },
+  {
+    "source": "Attention: A volcanic eruption has occurred, leading to the possibility of a tsunami in the coastal areas. Follow evacuation orders from local authorities without delay. Seek higher ground immediately and avoid areas along the coast. If you are indoors, stay put until you receive further instructions.",
+    "target": "\u6ce8\u610f:\u706b\u5c71\u7206\u53d1,\u5bfc\u81f4\u6cbf\u6d77\u5730\u533a\u53ef\u80fd\u53d1\u751f\u6d77. \u7acb\u5373\u9075\u5b88\u5f53\u5730\u5f53\u5c40\u7684\u758f\u6563\u547d\u4ee4.\u7acb\u5373\u5bfb\u627e\u66f4\u9ad8\u7684\u5730\u65b9,\u907f\u514d\u6cbf\u6d77\u533a\u57df. \u5982\u679c\u60a8\u5728\u5ba4\u5185,\u8bf7\u505c\u7559\u5728\u90a3\u91cc,\u76f4\u5230\u60a8\u83b7\u5f97\u8fdb\u4e00\u6b65\u6307\u793a.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-12385-0"
+    },
+    "id": 48
+  },
+  {
+    "source": "Cold wind chills as low as 20 degrees below zero can potentially lead to frostbite on exposed skin in just 30 minutes. Limit exposure and protect your skin by wearing gloves, hats, and scarves when outside. If you notice any signs of frostbite, seek warmth immediately.",
+    "target": "\u4f4e\u81f3\u96f6\u4e0b20\u5ea6\u7684\u5bd2\u51b7\u98ce\u5bd2\u53ef\u80fd\u5728\u77ed\u77ed30\u5206\u949f\u5185\u5bfc\u81f4\u66b4\u9732\u7684\u76ae\u80a4\u51bb\u4f24\u3002\u5916\u51fa\u65f6\u8bf7\u5c3d\u91cf\u51cf\u5c11\u76ae\u80a4\u66b4\u9732\uff0c\u5e76\u4f69\u6234\u624b\u5957\u3001\u5e3d\u5b50\u548c\u56f4\u5dfe\u8fdb\u884c\u9632\u62a4\u3002\u5982\u51fa\u73b0\u51bb\u4f24\u8ff9\u8c61\uff0c\u8bf7\u7acb\u5373\u5bfb\u627e\u6e29\u6696\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-13674-7"
+    },
+    "id": 12
+  },
+  {
+    "source": "Cold wind chills as low as 20 degrees below zero can potentially lead to frostbite on exposed skin in just 30 minutes. Limit exposure and protect your skin by wearing gloves, hats, and scarves when outside. If you notice any signs of frostbite, seek warmth immediately.",
+    "target": "\u4f4e\u81f3\u96f6\u4e0b20\u5ea6\u7684\u4e25\u5bd2\u98ce\u5bd2\u6548\u5e94\u53ef\u80fd\u5728\u77ed\u77ed30\u5206\u949f\u5185\u5bfc\u81f4\u66b4\u9732\u5728\u5916\u7684\u76ae\u80a4\u51bb\u4f24\u3002\u5916\u51fa\u65f6\uff0c\u8bf7\u4f69\u6234\u624b\u5957\u3001\u5e3d\u5b50\u548c\u56f4\u5dfe\uff0c\u5c3d\u91cf\u51cf\u5c11\u66b4\u9732\u5e76\u4fdd\u62a4\u76ae\u80a4\u3002\u5982\u679c\u53d1\u73b0\u4efb\u4f55\u51bb\u4f24\u8ff9\u8c61\uff0c\u8bf7\u7acb\u5373\u5bfb\u6c42\u6e29\u6696\u5904\u53d6\u6696\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-13674-7"
+    },
+    "id": 19
+  },
+  {
+    "source": "Cold wind chills as low as 20 degrees below zero can potentially lead to frostbite on exposed skin in just 30 minutes. Limit exposure and protect your skin by wearing gloves, hats, and scarves when outside. If you notice any signs of frostbite, seek warmth immediately.",
+    "target": "\u5bd2\u51b7\u7684\u98ce\u6e29\u4f4e\u5230\u96f6\u4e0b20\u5ea6,\u53ea\u970030\u5206\u949f\u5c31\u4f1a\u5bfc\u81f4\u66b4\u9732\u7684\u76ae\u80a4\u4e0a\u51fa\u73b0\u4f24.\u5728\u5916\u9762\u4f7f\u7528\u624b\u5957,\u5e3d\u5b50\u548c\u56f4\u5dfe\u6765\u9650\u5236\u66b4\u9732,\u4fdd\u62a4\u76ae\u80a4.\u5982\u679c\u4f60\u6ce8\u610f\u5230\u4efb\u4f55\u4f24\u8ff9\u8c61,\u7acb\u5373\u5bfb\u6c42\u6e29\u6696.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-13674-7"
+    },
+    "id": 43
+  },
+  {
+    "source": "In Roeton, please take precautions by staying indoors during the severe weather. Monitor updates from local authorities for additional guidance.",
+    "target": "\u5728\u7f57\u987f\uff0c\u6076\u52a3\u5929\u6c14\u671f\u95f4\u8bf7\u7559\u5728\u5ba4\u5185\u5e76\u91c7\u53d6\u9884\u9632\u63aa\u65bd\u3002\u8bf7\u5173\u6ce8\u5f53\u5730\u5b98\u65b9\u53d1\u5e03\u7684\u6700\u65b0\u6d88\u606f\u4ee5\u83b7\u53d6\u8fdb\u4e00\u6b65\u6307\u5f15\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-9402-24"
+    },
+    "id": 22
+  },
+  {
+    "source": "In Roeton, please take precautions by staying indoors during the severe weather. Monitor updates from local authorities for additional guidance.",
+    "target": "\u5728\u7f57\u987f\uff08Roeton\uff09\uff0c\u8bf7\u91c7\u53d6\u9884\u9632\u63aa\u65bd\uff0c\u5728\u6076\u52a3\u5929\u6c14\u671f\u95f4\u7559\u5728\u5ba4\u5185\u3002\u8bf7\u7559\u610f\u5f53\u5730\u6709\u5173\u90e8\u95e8\u53d1\u5e03\u7684\u66f4\u65b0\u4fe1\u606f\uff0c\u4ee5\u83b7\u53d6\u66f4\u591a\u6307\u5bfc\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-9402-24"
+    },
+    "id": 29
+  },
+  {
+    "source": "In Roeton, please take precautions by staying indoors during the severe weather. Monitor updates from local authorities for additional guidance.",
+    "target": "\u5728\u7f57\u987f,\u8bf7\u5728\u6076\u52a3\u5929\u6c14\u671f\u95f4\u4fdd\u6301\u5728\u5ba4\u5185. \u968f\u65f6\u5173\u6ce8\u5f53\u5730\u5f53\u5c40\u7684\u6700\u65b0\u4fe1\u606f,\u4ee5\u83b7\u53d6\u66f4\u591a\u6307\u5bfc.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-9402-24"
+    },
+    "id": 41
+  },
+  {
+    "source": "Port Angeles, WA: A tsunami wave height of 0.8 ft (25 cm) has been reported. If you receive evacuation orders, leave right away and head to higher ground. Keep all doors and windows sealed to protect against possible ash fallout. Remember, texting is often more reliable than calling to communicate with others.",
+    "target": "\u534e\u76db\u987f\u5dde\u5b89\u5409\u5229\u65af\u6e2f\uff1a\u5df2\u62a5\u544a\u51fa\u73b00.8\u82f1\u5c3a\uff0825\u5398\u7c73\uff09\u9ad8\u7684\u6d77\u5578\u6d6a\u3002\u5982\u679c\u60a8\u6536\u5230\u758f\u6563\u6307\u4ee4\uff0c\u8bf7\u7acb\u5373\u64a4\u79bb\u5e76\u524d\u5f80\u5730\u52bf\u8f83\u9ad8\u7684\u5730\u65b9\u3002\u8bf7\u4fdd\u6301\u6240\u6709\u95e8\u7a97\u7d27\u95ed\uff0c\u4ee5\u9632\u53ef\u80fd\u7684\u706b\u5c71\u7070\u6216\u7070\u70ec\u6c89\u964d\u3002\u8bf7\u8bb0\u4f4f\uff0c\u5728\u7d27\u6025\u60c5\u51b5\u4e0b\uff0c\u53d1\u9001\u77ed\u4fe1\u901a\u5e38\u6bd4\u62e8\u6253\u7535\u8bdd\u66f4\u53ef\u9760\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-12413-3"
+    },
+    "id": 15
+  },
+  {
+    "source": "Port Angeles, WA: A tsunami wave height of 0.8 ft (25 cm) has been reported. If you receive evacuation orders, leave right away and head to higher ground. Keep all doors and windows sealed to protect against possible ash fallout. Remember, texting is often more reliable than calling to communicate with others.",
+    "target": "\u534e\u76db\u987f\u5dde\u5b89\u5409\u5229\u65af\u6e2f\uff1a\u636e\u62a5\u544a\u6d77\u5578\u6ce2\u9ad8\u4e3a0.8\u82f1\u5c3a\uff0825\u5398\u7c73\uff09\u3002\u5982\u679c\u60a8\u6536\u5230\u758f\u6563\u547d\u4ee4\uff0c\u8bf7\u7acb\u5373\u64a4\u79bb\u5e76\u524d\u5f80\u5730\u52bf\u8f83\u9ad8\u5904\u3002\u8bf7\u7d27\u95ed\u6240\u6709\u95e8\u7a97\uff0c\u4ee5\u9632\u53ef\u80fd\u51fa\u73b0\u7684\u706b\u5c71\u7070\u964d\u843d\u3002\u8bf7\u8bb0\u4f4f\uff0c\u4e0e\u4ed6\u4eba\u6c9f\u901a\u8054\u7edc\u65f6\uff0c\u53d1\u9001\u77ed\u4fe1\u901a\u5e38\u6bd4\u6253\u7535\u8bdd\u66f4\u53ef\u9760\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-12413-3"
+    },
+    "id": 20
+  },
+  {
+    "source": "Port Angeles, WA: A tsunami wave height of 0.8 ft (25 cm) has been reported. If you receive evacuation orders, leave right away and head to higher ground. Keep all doors and windows sealed to protect against possible ash fallout. Remember, texting is often more reliable than calling to communicate with others.",
+    "target": "\u7f8e\u56fd\u6ce2\u7279\u5b89\u5409\u5229\u5dde: \u62a5\u9053\u79f0\u6d77\u6ce2\u9ad8\u5ea6\u4e3a0.8\u82f1\u5c3a (25\u5398\u7c73). \u5982\u679c\u60a8\u6536\u5230\u758f\u6563\u547d\u4ee4,\u8bf7\u7acb\u5373\u79bb\u5f00\u5e76\u524d\u5f80\u66f4\u9ad8\u7684\u5730\u65b9. \u4fdd\u6301\u6240\u6709\u95e8\u7a97\u5c01\u95ed\u4ee5\u9632\u6b62\u53ef\u80fd\u7684\u7070\u5c18\u964d\u843d. \u8bf7\u8bb0\u4f4f,\u77ed\u4fe1\u5f80\u5f80\u6bd4\u4e0e\u4ed6\u4eba\u901a\u4fe1\u66f4\u53ef\u9760.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-12413-3"
+    },
+    "id": 47
+  },
+  {
+    "source": "Residents of Corpus Christi Country Club should find safe shelter indoors and avoid outdoor activities until confirmation that the storm has passed. Follow local news for further updates and instructions.",
+    "target": "\u79d1\u73c0\u65af\u514b\u91cc\u65af\u8482\u4e61\u6751\u4ff1\u4e50\u90e8\uff08Corpus Christi Country Club\uff09\u7684\u5c45\u6c11\u5e94\u5728\u5ba4\u5185\u5bfb\u627e\u5b89\u5168\u907f\u96be\u573a\u6240\uff0c\u5e76\u5728\u786e\u8ba4\u98ce\u66b4\u5df2\u7ecf\u8fc7\u53bb\u4e4b\u524d\u907f\u514d\u6237\u5916\u6d3b\u52a8\u3002\u8bf7\u7559\u610f\u5f53\u5730\u65b0\u95fb\uff0c\u83b7\u53d6\u8fdb\u4e00\u6b65\u7684\u66f4\u65b0\u4fe1\u606f\u548c\u6307\u793a\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17309-24"
+    },
+    "id": 33
+  },
+  {
+    "source": "Residents of Corpus Christi Country Club should find safe shelter indoors and avoid outdoor activities until confirmation that the storm has passed. Follow local news for further updates and instructions.",
+    "target": "\u79d1\u666e\u65af\u514b\u91cc\u65af\u8482\u4e61\u6751\u4ff1\u4e50\u90e8\u7684\u5c45\u6c11\u5e94\u5728\u5ba4\u5185\u5bfb\u627e\u5b89\u5168\u7684\u5e87\u62a4,\u5e76\u907f\u514d\u5728\u66b4\u98ce\u96e8\u8fc7\u53bb\u4e86\u4e4b\u524d\u8fdb\u884c\u6237\u5916\u6d3b\u52a8. \u5173\u6ce8\u5f53\u5730\u65b0\u95fb\u4ee5\u83b7\u53d6\u8fdb\u4e00\u6b65\u7684\u66f4\u65b0\u548c\u6307\u793a.",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17309-24"
+    },
+    "id": 34
+  },
+  {
+    "source": "Residents of Corpus Christi Country Club should find safe shelter indoors and avoid outdoor activities until confirmation that the storm has passed. Follow local news for further updates and instructions.",
+    "target": "\u79d1\u73c0\u65af\u514b\u91cc\u65af\u8482\u4e61\u6751\u4ff1\u4e50\u90e8\uff08Corpus Christi Country Club\uff09\u7684\u5c45\u6c11\u5e94\u5728\u5ba4\u5185\u5bfb\u627e\u5b89\u5168\u5e87\u62a4\u6240\uff0c\u5e76\u907f\u514d\u6237\u5916\u6d3b\u52a8\uff0c\u76f4\u5230\u786e\u8ba4\u98ce\u66b4\u5df2\u7ecf\u8fc7\u5883\u3002\u8bf7\u5173\u6ce8\u5f53\u5730\u65b0\u95fb\u4ee5\u83b7\u53d6\u8fdb\u4e00\u6b65\u7684\u6700\u65b0\u6d88\u606f\u548c\u6307\u793a\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17309-24"
+    },
+    "id": 46
+  },
+  {
+    "source": "Severe thunderstorms are impacting I-10 near the Crockett-Sutton County line. If you are traveling or residing in this area, please stop at a safe location and wait for conditions to improve. Stay informed on weather updates and safety recommendations.",
+    "target": "\u5f3a\u96f7\u66b4\u6b63\u5728\u5f71\u54cd\u514b\u7f57\u514b\u7279\u53bf\u4e0e\u8428\u987f\u53bf\u4ea4\u754c\u5904\u9644\u8fd1\u768410\u53f7\u5dde\u9645\u516c\u8def\uff08I-10\uff09\u3002\u5982\u679c\u60a8\u6b63\u5728\u8be5\u5730\u533a\u51fa\u884c\u6216\u5c45\u4f4f\uff0c\u8bf7\u5728\u5b89\u5168\u5730\u70b9\u505c\u8f66\u907f\u9669\uff0c\u7b49\u5f85\u5929\u6c14\u72b6\u51b5\u597d\u8f6c\u3002\u8bf7\u968f\u65f6\u5173\u6ce8\u6700\u65b0\u7684\u5929\u6c14\u52a8\u6001\u53ca\u5b89\u5168\u5efa\u8bae\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-9360-9"
+    },
+    "id": 7
+  },
+  {
+    "source": "Severe thunderstorms are impacting I-10 near the Crockett-Sutton County line. If you are traveling or residing in this area, please stop at a safe location and wait for conditions to improve. Stay informed on weather updates and safety recommendations.",
+    "target": "\u4e25\u91cd\u96f7\u66b4\u5929\u6c14\u6b63\u5f71\u54cd\u5dde\u964510\u53f7\u516c\u8def\u9760\u8fd1\u514b\u7f57\u514b\u7279\u53bf\u4e0e\u8428\u987f\u53bf\u4ea4\u754c\u5904\u7684\u8def\u6bb5\u3002\u5982\u679c\u60a8\u5728\u8be5\u533a\u57df\u884c\u9a76\u6216\u5c45\u4f4f\uff0c\u8bf7\u524d\u5f80\u5b89\u5168\u5730\u70b9\u505c\u7559\uff0c\u7b49\u5f85\u5929\u6c14\u597d\u8f6c\u3002\u8bf7\u5173\u6ce8\u5929\u6c14\u66f4\u65b0\u548c\u5b89\u5168\u63d0\u793a\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-9360-9"
+    },
+    "id": 13
+  },
+  {
+    "source": "Severe thunderstorms are impacting I-10 near the Crockett-Sutton County line. If you are traveling or residing in this area, please stop at a safe location and wait for conditions to improve. Stay informed on weather updates and safety recommendations.",
+    "target": "\u4e25\u91cd\u7684\u96f7\u96e8\u6b63\u5728\u5f71\u54cd\u514b\u7f57\u514b\u7279-\u8428\u987f\u53bf\u7ebf\u9644\u8fd1\u7684I-10. \u5982\u679c\u60a8\u5728\u8fd9\u4e2a\u5730\u533a\u65c5\u884c\u6216\u5c45\u4f4f,\u8bf7\u5728\u5b89\u5168\u7684\u5730\u65b9\u505c\u8f66,\u7b49\u5f85\u6761\u4ef6\u6539\u5584. \u4fdd\u6301\u5929\u6c14\u66f4\u65b0\u548c\u5b89\u5168\u5efa\u8bae\u7684\u4fe1\u606f.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-9360-9"
+    },
+    "id": 40
+  },
+  {
+    "source": "The river is cresting and is expected to slowly decrease later today. Please stay indoors, away from rising water. If you are in a car caught in floodwaters, remain inside your vehicle and move to the roof if flooding rises. Keep a close eye on advisories and be ready to respond accordingly.",
+    "target": "\u6cb3\u6d41\u6c34\u4f4d\u6b63\u5904\u4e8e\u6d2a\u5cf0\uff0c\u9884\u8ba1\u4eca\u5929\u665a\u4e9b\u65f6\u5019\u5c06\u7f13\u6162\u4e0b\u964d\u3002\u8bf7\u7559\u5728\u5ba4\u5185\uff0c\u8fdc\u79bb\u4e0a\u6da8\u7684\u6c34\u6d41\u3002\u5982\u679c\u60a8\u4e58\u8f66\u88ab\u56f0\u5728\u6d2a\u6c34\u4e2d\uff0c\u8bf7\u7559\u5728\u8f66\u5185\uff1b\u82e5\u6c34\u4f4d\u7ee7\u7eed\u4e0a\u6da8\uff0c\u8bf7\u8f6c\u79fb\u81f3\u8f66\u9876\u3002\u8bf7\u5bc6\u5207\u5173\u6ce8\u9884\u8b66\u4fe1\u606f\uff0c\u5e76\u968f\u65f6\u51c6\u5907\u91c7\u53d6\u76f8\u5e94\u5e94\u5bf9\u63aa\u65bd\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-1102-4"
+    },
+    "id": 8
+  },
+  {
+    "source": "The river is cresting and is expected to slowly decrease later today. Please stay indoors, away from rising water. If you are in a car caught in floodwaters, remain inside your vehicle and move to the roof if flooding rises. Keep a close eye on advisories and be ready to respond accordingly.",
+    "target": "\u6cb3\u6d41\u6b63\u5728\u4e0a\u5347,\u9884\u8ba1\u4eca\u5929\u665a\u4e9b\u65f6\u5019\u5c06\u6162\u6162\u4e0b\u964d. \u8bf7\u4fdd\u6301\u5728\u5ba4\u5185,\u8fdc\u79bb\u4e0a\u5347\u7684\u6c34. \u5982\u679c\u60a8\u5728\u88ab\u6d2a\u6c34\u56f0\u56f0\u7684\u6c7d\u8f66\u4e2d,\u8bf7\u4fdd\u6301\u5728\u8f66\u5185,\u5982\u679c\u6d2a\u6c34\u4e0a\u5347\u7684\u8bdd,\u8bf7\u79fb\u52a8\u5230\u5c4b\u9876\u4e0a. \u5bc6\u5207\u5173\u6ce8\u8b66\u544a\u5e76\u51c6\u5907\u76f8\u5e94\u7684\u53cd\u5e94.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-1102-4"
+    },
+    "id": 10
+  },
+  {
+    "source": "The river is cresting and is expected to slowly decrease later today. Please stay indoors, away from rising water. If you are in a car caught in floodwaters, remain inside your vehicle and move to the roof if flooding rises. Keep a close eye on advisories and be ready to respond accordingly.",
+    "target": "\u6cb3\u6d41\u6c34\u4f4d\u6b63\u5728\u6da8\u81f3\u5cf0\u503c\uff0c\u9884\u8ba1\u4eca\u65e5\u665a\u4e9b\u65f6\u5019\u5c06\u7f13\u6162\u56de\u843d\u3002\u8bf7\u5f85\u5728\u5ba4\u5185\uff0c\u8fdc\u79bb\u4e0a\u6da8\u7684\u6d2a\u6c34\u3002\u5982\u679c\u60a8\u5728\u8f66\u8f86\u4e2d\u88ab\u6d2a\u6c34\u56f4\u56f0\uff0c\u8bf7\u7559\u5728\u8f66\u5185\uff1b\u82e5\u6c34\u4f4d\u7ee7\u7eed\u4e0a\u6da8\uff0c\u8bf7\u8f6c\u79fb\u5230\u8f66\u9876\u3002\u5bc6\u5207\u5173\u6ce8\u9884\u8b66\u4fe1\u606f\uff0c\u5e76\u505a\u597d\u76f8\u5e94\u5e94\u5bf9\u51c6\u5907\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-1102-4"
+    },
+    "id": 11
+  },
+  {
+    "source": "Urgent advisory for the community in **[Location Name]**: A continued risk of shallow landslides is anticipated through Monday. If you see signs of instability, such as cracking ground or shifting debris, move to higher ground immediately. Evacuate low-lying areas and remain informed by local emergency services for the latest instructions.",
+    "target": "**[\u5730\u70b9\u540d\u79f0]**\u793e\u533a\u7d27\u6025\u516c\u544a\uff1a\u9884\u8ba1\u6d45\u5c42\u5c71\u4f53\u6ed1\u5761\u98ce\u9669\u5c06\u6301\u7eed\u81f3\u5468\u4e00\u3002\u5982\u53d1\u73b0\u5730\u9762\u5f00\u88c2\u6216\u677e\u6563\u5806\u79ef\u7269\u79fb\u52a8\u7b49\u4e0d\u7a33\u5b9a\u8ff9\u8c61\uff0c\u8bf7\u7acb\u5373\u8f6c\u79fb\u5230\u8f83\u9ad8\u5904\u3002\u8bf7\u64a4\u79bb\u4f4e\u6d3c\u5730\u533a\uff0c\u5e76\u901a\u8fc7\u5f53\u5730\u5e94\u6025\u670d\u52a1\u90e8\u95e8\u4e86\u89e3\u6700\u65b0\u6307\u4ee4\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-5465-2"
+    },
+    "id": 3
+  },
+  {
+    "source": "Urgent advisory for the community in **[Location Name]**: A continued risk of shallow landslides is anticipated through Monday. If you see signs of instability, such as cracking ground or shifting debris, move to higher ground immediately. Evacuate low-lying areas and remain informed by local emergency services for the latest instructions.",
+    "target": "\u7d27\u6025\u5efa\u8bae**[\u5730\u70b9\u540d\u79f0]**:\u9884\u8ba1\u5c06\u5728\u5468\u4e00\u4e4b\u524d\u7ee7\u7eed\u51fa\u73b0\u6d45\u5c42\u6ed1\u5761\u7684\u98ce\u9669. \u5982\u679c\u60a8\u770b\u5230\u4e0d\u7a33\u5b9a\u7684\u8ff9\u8c61,\u5982\u5730\u9762\u88c2\u6216\u788e\u7247\u79fb\u52a8,\u7acb\u5373\u79fb\u52a8\u5230\u66f4\u9ad8\u7684\u5730\u65b9. \u64a4\u79bb\u4f4e\u5730\u533a,\u5e76\u5411\u5f53\u5730\u7d27\u6025\u670d\u52a1\u90e8\u95e8\u63d0\u4f9b\u6700\u65b0\u6307\u793a.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-5465-2"
+    },
+    "id": 5
+  },
+  {
+    "source": "Urgent advisory for the community in **[Location Name]**: A continued risk of shallow landslides is anticipated through Monday. If you see signs of instability, such as cracking ground or shifting debris, move to higher ground immediately. Evacuate low-lying areas and remain informed by local emergency services for the latest instructions.",
+    "target": "**[Location Name]** \u793e\u533a\u7d27\u6025\u901a\u62a5\uff1a\u9884\u8ba1\u6d45\u5c42\u5c71\u4f53\u6ed1\u5761\u98ce\u9669\u5c06\u6301\u7eed\u81f3\u5468\u4e00\u3002\u5982\u679c\u60a8\u53d1\u73b0\u5730\u9762\u5f00\u88c2\u6216\u788e\u5c51\u79fb\u52a8\u7b49\u4e0d\u7a33\u5b9a\u8ff9\u8c61\uff0c\u8bf7\u7acb\u5373\u8f6c\u79fb\u81f3\u5730\u52bf\u8f83\u9ad8\u5904\u3002\u8bf7\u64a4\u79bb\u4f4e\u6d3c\u5730\u533a\uff0c\u5e76\u53ca\u65f6\u5173\u6ce8\u5f53\u5730\u5e94\u6025\u90e8\u95e8\u53d1\u5e03\u7684\u6700\u65b0\u6307\u793a\u3002",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-5465-2"
+    },
+    "id": 24
+  }
+]
