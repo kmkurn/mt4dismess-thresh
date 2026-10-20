@@ -1,0 +1,434 @@
+[
+  {
+    "source": " - Radar data shows severe storm conditions in the area. Please pay attention to local weather updates for any changes in the situation. If you are outside, seek shelter immediately and avoid touching electrical equipment that could be affected by possible power outages.",
+    "target": "- D\u1eef li\u1ec7u radar cho th\u1ea5y c\u00e1c \u0111i\u1ec1u ki\u1ec7n b\u00e3o nghi\u00eam tr\u1ecdng trong khu v\u1ef1c. Vui l\u00f2ng ch\u00fa \u00fd theo d\u00f5i c\u00e1c b\u1ea3n tin th\u1eddi ti\u1ebft \u0111\u1ecba ph\u01b0\u01a1ng \u0111\u1ec3 n\u1eafm b\u1ea5t k\u1ef3 thay \u0111\u1ed5i n\u00e0o c\u1ee7a t\u00ecnh h\u00ecnh. N\u1ebfu b\u1ea1n \u0111ang \u1edf ngo\u00e0i tr\u1eddi, h\u00e3y t\u00ecm n\u01a1i tr\u00fa \u1ea9n ngay l\u1eadp t\u1ee9c v\u00e0 tr\u00e1nh ch\u1ea1m v\u00e0o c\u00e1c thi\u1ebft b\u1ecb \u0111i\u1ec7n c\u00f3 th\u1ec3 b\u1ecb \u1ea3nh h\u01b0\u1edfng b\u1edfi nguy c\u01a1 m\u1ea5t \u0111i\u1ec7n.",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17177-3"
+    },
+    "id": 27
+  },
+  {
+    "source": " - Radar data shows severe storm conditions in the area. Please pay attention to local weather updates for any changes in the situation. If you are outside, seek shelter immediately and avoid touching electrical equipment that could be affected by possible power outages.",
+    "target": "- D\u1eef li\u1ec7u radar cho th\u1ea5y t\u00ecnh tr\u1ea1ng gi\u00f4ng b\u00e3o nghi\u00eam tr\u1ecdng trong khu v\u1ef1c. Vui l\u00f2ng ch\u00fa \u00fd theo d\u00f5i c\u00e1c b\u1ea3n tin c\u1eadp nh\u1eadt th\u1eddi ti\u1ebft \u0111\u1ecba ph\u01b0\u01a1ng v\u1ec1 b\u1ea5t k\u1ef3 thay \u0111\u1ed5i n\u00e0o c\u1ee7a t\u00ecnh h\u00ecnh. N\u1ebfu b\u1ea1n \u0111ang \u1edf ngo\u00e0i tr\u1eddi, h\u00e3y t\u00ecm n\u01a1i tr\u00fa \u1ea9n ngay l\u1eadp t\u1ee9c v\u00e0 tr\u00e1nh ch\u1ea1m v\u00e0o c\u00e1c thi\u1ebft b\u1ecb \u0111i\u1ec7n c\u00f3 th\u1ec3 b\u1ecb \u1ea3nh h\u01b0\u1edfng do kh\u1ea3 n\u0103ng m\u1ea5t \u0111i\u1ec7n.",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17177-3"
+    },
+    "id": 32
+  },
+  {
+    "source": " - Radar data shows severe storm conditions in the area. Please pay attention to local weather updates for any changes in the situation. If you are outside, seek shelter immediately and avoid touching electrical equipment that could be affected by possible power outages.",
+    "target": "- D\u1eef li\u1ec7u radar cho th\u1ea5y t\u00ecnh tr\u1ea1ng b\u00e3o nghi\u00eam tr\u1ecdng trong khu v\u1ef1c. Xin ch\u00fa \u00fd \u0111\u1ebfn c\u00e1c b\u1ea3n c\u1eadp nh\u1eadt th\u1eddi ti\u1ebft \u0111\u1ecba ph\u01b0\u01a1ng \u0111\u1ec3 bi\u1ebft b\u1ea5t k\u1ef3 thay \u0111\u1ed5i n\u00e0o trong t\u00ecnh h\u00ecnh. N\u1ebfu b\u1ea1n \u1edf ngo\u00e0i tr\u1eddi, h\u00e3y t\u00ecm n\u01a1i tr\u00fa \u1ea9n ngay l\u1eadp t\u1ee9c v\u00e0 tr\u00e1nh ch\u1ea1m v\u00e0o thi\u1ebft b\u1ecb \u0111i\u1ec7n c\u00f3 th\u1ec3 b\u1ecb \u1ea3nh h\u01b0\u1edfng b\u1edfi vi\u1ec7c m\u1ea5t \u0111i\u1ec7n.",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17177-3"
+    },
+    "id": 39
+  },
+  {
+    "source": "**Attention Residents of Carlyle:** A Flood Warning is in effect for the Kaskaskia River due to recent heavy rainfall and more rain expected in the next 48 hours. Please prepare emergency supplies and find safe shelter immediately. Stay tuned for updates from local authorities.",
+    "target": "**Th\u00f4ng b\u00e1o g\u1eedi c\u01b0 d\u00e2n Carlyle:** C\u1ea3nh b\u00e1o L\u0169 l\u1ee5t \u0111ang c\u00f3 hi\u1ec7u l\u1ef1c \u0111\u1ed1i v\u1edbi s\u00f4ng Kaskaskia do m\u01b0a l\u1edbn g\u1ea7n \u0111\u00e2y v\u00e0 d\u1ef1 ki\u1ebfn s\u1ebd c\u00f3 th\u00eam m\u01b0a trong 48 gi\u1edd t\u1edbi. Vui l\u00f2ng chu\u1ea9n b\u1ecb c\u00e1c nhu y\u1ebfu ph\u1ea9m kh\u1ea9n c\u1ea5p v\u00e0 t\u00ecm n\u01a1i tr\u00fa \u1ea9n an to\u00e0n ngay l\u1eadp t\u1ee9c. H\u00e3y ti\u1ebfp t\u1ee5c theo d\u00f5i c\u00e1c th\u00f4ng tin c\u1eadp nh\u1eadt t\u1eeb ch\u00ednh quy\u1ec1n \u0111\u1ecba ph\u01b0\u01a1ng.",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-14420-0"
+    },
+    "id": 23
+  },
+  {
+    "source": "**Attention Residents of Carlyle:** A Flood Warning is in effect for the Kaskaskia River due to recent heavy rainfall and more rain expected in the next 48 hours. Please prepare emergency supplies and find safe shelter immediately. Stay tuned for updates from local authorities.",
+    "target": "**Th\u00f4ng b\u00e1o cho C\u01b0 d\u00e2n Carlyle:** C\u1ea3nh b\u00e1o L\u0169 \u0111ang c\u00f3 hi\u1ec7u l\u1ef1c \u0111\u1ed1i v\u1edbi s\u00f4ng Kaskaskia do l\u01b0\u1ee3ng m\u01b0a l\u1edbn g\u1ea7n \u0111\u00e2y v\u00e0 d\u1ef1 ki\u1ebfn c\u00f3 th\u00eam m\u01b0a trong 48 gi\u1edd t\u1edbi. Vui l\u00f2ng chu\u1ea9n b\u1ecb v\u1eadt d\u1ee5ng kh\u1ea9n c\u1ea5p v\u00e0 t\u00ecm n\u01a1i tr\u00fa \u1ea9n an to\u00e0n ngay l\u1eadp t\u1ee9c. H\u00e3y theo d\u00f5i c\u00e1c th\u00f4ng tin c\u1eadp nh\u1eadt t\u1eeb ch\u00ednh quy\u1ec1n \u0111\u1ecba ph\u01b0\u01a1ng.",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-14420-0"
+    },
+    "id": 30
+  },
+  {
+    "source": "**Attention Residents of Carlyle:** A Flood Warning is in effect for the Kaskaskia River due to recent heavy rainfall and more rain expected in the next 48 hours. Please prepare emergency supplies and find safe shelter immediately. Stay tuned for updates from local authorities.",
+    "target": "** Ch\u00fa \u00fd c\u01b0 d\u00e2n Carlyle:** C\u1ea3nh b\u00e1o l\u0169 l\u1ee5t \u0111ang c\u00f3 hi\u1ec7u l\u1ef1c cho s\u00f4ng Kaskaskia do m\u01b0a l\u1edbn g\u1ea7n \u0111\u00e2y v\u00e0 m\u01b0a nhi\u1ec1u h\u01a1n d\u1ef1 ki\u1ebfn trong 48 gi\u1edd t\u1edbi. Xin h\u00e3y chu\u1ea9n b\u1ecb c\u00e1c ngu\u1ed3n cung c\u1ea5p kh\u1ea9n c\u1ea5p v\u00e0 t\u00ecm n\u01a1i tr\u00fa \u1ea9n an to\u00e0n ngay l\u1eadp t\u1ee9c. H\u00e3y theo d\u00f5i c\u00e1c c\u1eadp nh\u1eadt t\u1eeb ch\u00ednh quy\u1ec1n \u0111\u1ecba ph\u01b0\u01a1ng.",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-14420-0"
+    },
+    "id": 42
+  },
+  {
+    "source": "**Cold Weather Caution:** Cold wind chills in Sierra Madre and Snowy Range Mountains could reach as low as 20 below zero. Exposed skin is at risk of frostbite within just 30 minutes. For your safety, wear adequate layers if you need to be outdoors.  ",
+    "target": "**C\u1ea3nh b\u00e1o th\u1eddi ti\u1ebft l\u1ea1nh:** Nhi\u1ec7t \u0111\u1ed9 c\u1ea3m gi\u00e1c do gi\u00f3 l\u1ea1nh \u1edf d\u00e3y Sierra Madre v\u00e0 d\u00e3y Snowy Range c\u00f3 th\u1ec3 gi\u1ea3m xu\u1ed1ng m\u1ee9c th\u1ea5p nh\u1ea5t l\u00e0 \u00e2m 20 \u0111\u1ed9. Da ti\u1ebfp x\u00fac c\u00f3 nguy c\u01a1 b\u1ecb b\u1ecfng l\u1ea1nh ch\u1ec9 trong 30 ph\u00fat. V\u00ec s\u1ef1 an to\u00e0n c\u1ee7a b\u1ea1n, h\u00e3y m\u1eb7c \u0111\u1ee7 nhi\u1ec1u l\u1edbp qu\u1ea7n \u00e1o n\u1ebfu b\u1ea1n c\u1ea7n \u1edf ngo\u00e0i tr\u1eddi.",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-15911-4"
+    },
+    "id": 21
+  },
+  {
+    "source": "**Cold Weather Caution:** Cold wind chills in Sierra Madre and Snowy Range Mountains could reach as low as 20 below zero. Exposed skin is at risk of frostbite within just 30 minutes. For your safety, wear adequate layers if you need to be outdoors.  ",
+    "target": "** Ch\u00fa \u00fd th\u1eddi ti\u1ebft l\u1ea1nh:** Gi\u00f3 l\u1ea1nh \u1edf Sierra Madre v\u00e0 Snowy Range Mountain c\u00f3 th\u1ec3 xu\u1ed1ng \u0111\u1ebfn 20 \u0111\u1ed9 d\u01b0\u1edbi kh\u00f4ng. Da ti\u1ebfp x\u00fac c\u00f3 nguy c\u01a1 b\u1ecb \u0111\u00f4ng l\u1ea1nh ch\u1ec9 trong v\u00f2ng 30 ph\u00fat. \u0110\u1ec3 an to\u00e0n, h\u00e3y m\u1eb7c c\u00e1c l\u1edbp ph\u00f9 h\u1ee3p n\u1ebfu b\u1ea1n c\u1ea7n ra ngo\u00e0i tr\u1eddi. ",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-15911-4"
+    },
+    "id": 26
+  },
+  {
+    "source": "**Cold Weather Caution:** Cold wind chills in Sierra Madre and Snowy Range Mountains could reach as low as 20 below zero. Exposed skin is at risk of frostbite within just 30 minutes. For your safety, wear adequate layers if you need to be outdoors.  ",
+    "target": "**C\u1ea3nh b\u00e1o Th\u1eddi ti\u1ebft L\u1ea1nh:** C\u1ea3m gi\u00e1c r\u00e9t bu\u1ed1t do gi\u00f3 l\u1ea1nh \u1edf v\u00f9ng D\u00e3y n\u00fai Sierra Madre v\u00e0 Snowy Range c\u00f3 th\u1ec3 xu\u1ed1ng th\u1ea5p t\u1edbi \u00e2m 20 \u0111\u1ed9. V\u00f9ng da h\u1edf c\u00f3 nguy c\u01a1 b\u1ecb b\u1ecfng l\u1ea1nh ch\u1ec9 trong v\u00f2ng 30 ph\u00fat. \u0110\u1ec3 \u0111\u1ea3m b\u1ea3o an to\u00e0n, h\u00e3y m\u1eb7c \u0111\u1ee7 c\u00e1c l\u1edbp qu\u1ea7n \u00e1o \u1ea5m n\u1ebfu b\u1ea1n c\u1ea7n ph\u1ea3i ra ngo\u00e0i tr\u1eddi.",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-15911-4"
+    },
+    "id": 37
+  },
+  {
+    "source": "**Impacting Locations**: Areas including Haleyville, Lynn, Arley, Double Springs, Addison, and Nauvoo are currently facing severe weather conditions. Please avoid unnecessary travel and stay indoors until the storm passes. Keep an eye on local forecasts and alerts.",
+    "target": "**C\u00e1c khu v\u1ef1c b\u1ecb \u1ea3nh h\u01b0\u1edfng**: C\u00e1c khu v\u1ef1c bao g\u1ed3m Haleyville, Lynn, Arley, Double Springs, Addison v\u00e0 Nauvoo hi\u1ec7n \u0111ang \u0111\u1ed1i m\u1eb7t v\u1edbi t\u00ecnh h\u00ecnh th\u1eddi ti\u1ebft kh\u1eafc nghi\u1ec7t. Vui l\u00f2ng tr\u00e1nh \u0111i l\u1ea1i n\u1ebfu kh\u00f4ng c\u1ea7n thi\u1ebft v\u00e0 \u1edf trong nh\u00e0 cho \u0111\u1ebfn khi c\u01a1n b\u00e3o qua \u0111i. H\u00e3y theo d\u00f5i c\u00e1c d\u1ef1 b\u00e1o v\u00e0 c\u1ea3nh b\u00e1o t\u1ea1i \u0111\u1ecba ph\u01b0\u01a1ng.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10681-3"
+    },
+    "id": 14
+  },
+  {
+    "source": "**Impacting Locations**: Areas including Haleyville, Lynn, Arley, Double Springs, Addison, and Nauvoo are currently facing severe weather conditions. Please avoid unnecessary travel and stay indoors until the storm passes. Keep an eye on local forecasts and alerts.",
+    "target": "** C\u00e1c \u0111\u1ecba \u0111i\u1ec3m \u1ea3nh h\u01b0\u1edfng **: C\u00e1c khu v\u1ef1c bao g\u1ed3m Haleyville, Lynn, Arley, Double Springs, Addison v\u00e0 Nauvoo hi\u1ec7n \u0111ang ph\u1ea3i \u0111\u1ed1i m\u1eb7t v\u1edbi \u0111i\u1ec1u ki\u1ec7n th\u1eddi ti\u1ebft kh\u1eafc nghi\u1ec7t. Xin tr\u00e1nh \u0111i l\u1ea1i kh\u00f4ng c\u1ea7n thi\u1ebft v\u00e0 \u1edf trong nh\u00e0 cho \u0111\u1ebfn khi c\u01a1n b\u00e3o qua \u0111i. H\u00e3y theo d\u00f5i d\u1ef1 b\u00e1o v\u00e0 c\u1ea3nh b\u00e1o \u0111\u1ecba ph\u01b0\u01a1ng.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10681-3"
+    },
+    "id": 17
+  },
+  {
+    "source": "**Impacting Locations**: Areas including Haleyville, Lynn, Arley, Double Springs, Addison, and Nauvoo are currently facing severe weather conditions. Please avoid unnecessary travel and stay indoors until the storm passes. Keep an eye on local forecasts and alerts.",
+    "target": "**C\u00e1c khu v\u1ef1c b\u1ecb \u1ea3nh h\u01b0\u1edfng**: C\u00e1c khu v\u1ef1c bao g\u1ed3m Haleyville, Lynn, Arley, Double Springs, Addison v\u00e0 Nauvoo hi\u1ec7n \u0111ang ph\u1ea3i \u0111\u1ed1i m\u1eb7t v\u1edbi \u0111i\u1ec1u ki\u1ec7n th\u1eddi ti\u1ebft kh\u1eafc nghi\u1ec7t. Vui l\u00f2ng tr\u00e1nh \u0111i l\u1ea1i kh\u00f4ng c\u1ea7n thi\u1ebft v\u00e0 \u1edf trong nh\u00e0 cho \u0111\u1ebfn khi b\u00e3o tan. H\u00e3y theo d\u00f5i c\u00e1c d\u1ef1 b\u00e1o v\u00e0 c\u1ea3nh b\u00e1o th\u1eddi ti\u1ebft \u0111\u1ecba ph\u01b0\u01a1ng.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10681-3"
+    },
+    "id": 38
+  },
+  {
+    "source": "**Keep Safe:** As conditions develop in Lake Alan Henry and surrounding areas, your safety is paramount. Stay indoors, monitor updates from local authorities, and prepare for potential long-term sheltering if necessary. Follow all safety recommendations to protect yourself and others.",
+    "target": "**Gi\u1eef an to\u00e0n:** Khi t\u00ecnh h\u00ecnh di\u1ec5n bi\u1ebfn t\u1ea1i H\u1ed3 Alan Henry v\u00e0 c\u00e1c khu v\u1ef1c l\u00e2n c\u1eadn, s\u1ef1 an to\u00e0n c\u1ee7a b\u1ea1n l\u00e0 \u0111i\u1ec1u t\u1ed1i quan tr\u1ecdng. H\u00e3y \u1edf trong nh\u00e0, theo d\u00f5i c\u00e1c th\u00f4ng tin c\u1eadp nh\u1eadt t\u1eeb ch\u00ednh quy\u1ec1n \u0111\u1ecba ph\u01b0\u01a1ng v\u00e0 chu\u1ea9n b\u1ecb cho kh\u1ea3 n\u0103ng ph\u1ea3i tr\u00fa \u1ea9n d\u00e0i h\u1ea1n n\u1ebfu c\u1ea7n thi\u1ebft. Tu\u00e2n th\u1ee7 m\u1ecdi khuy\u1ebfn ngh\u1ecb an to\u00e0n \u0111\u1ec3 b\u1ea3o v\u1ec7 b\u1ea3n th\u00e2n v\u00e0 nh\u1eefng ng\u01b0\u1eddi kh\u00e1c.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-12235-9"
+    },
+    "id": 1
+  },
+  {
+    "source": "**Keep Safe:** As conditions develop in Lake Alan Henry and surrounding areas, your safety is paramount. Stay indoors, monitor updates from local authorities, and prepare for potential long-term sheltering if necessary. Follow all safety recommendations to protect yourself and others.",
+    "target": "**Gi\u1eef An To\u00e0n:** Khi t\u00ecnh h\u00ecnh bi\u1ebfn \u0111\u1ed9ng t\u1ea1i H\u1ed3 Alan Henry v\u00e0 c\u00e1c khu v\u1ef1c l\u00e2n c\u1eadn, s\u1ef1 an to\u00e0n c\u1ee7a b\u1ea1n l\u00e0 \u01b0u ti\u00ean h\u00e0ng \u0111\u1ea7u. H\u00e3y \u1edf trong nh\u00e0, theo d\u00f5i c\u00e1c c\u1eadp nh\u1eadt t\u1eeb ch\u00ednh quy\u1ec1n \u0111\u1ecba ph\u01b0\u01a1ng v\u00e0 chu\u1ea9n b\u1ecb cho kh\u1ea3 n\u0103ng ph\u1ea3i tr\u00fa \u1ea9n l\u00e2u d\u00e0i n\u1ebfu c\u1ea7n. H\u00e3y tu\u00e2n th\u1ee7 m\u1ecdi khuy\u1ebfn ngh\u1ecb an to\u00e0n \u0111\u1ec3 b\u1ea3o v\u1ec7 b\u1ea3n th\u00e2n v\u00e0 nh\u1eefng ng\u01b0\u1eddi xung quanh.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-12235-9"
+    },
+    "id": 2
+  },
+  {
+    "source": "**Keep Safe:** As conditions develop in Lake Alan Henry and surrounding areas, your safety is paramount. Stay indoors, monitor updates from local authorities, and prepare for potential long-term sheltering if necessary. Follow all safety recommendations to protect yourself and others.",
+    "target": "**Ch\u0103m s\u00f3c an to\u00e0n:** Khi \u0111i\u1ec1u ki\u1ec7n ph\u00e1t tri\u1ec3n \u1edf h\u1ed3 Alan Henry v\u00e0 c\u00e1c khu v\u1ef1c xung quanh, an to\u00e0n c\u1ee7a b\u1ea1n l\u00e0 \u0111i\u1ec1u quan tr\u1ecdng nh\u1ea5t. H\u00e3y \u1edf trong nh\u00e0, theo d\u00f5i c\u00e1c th\u00f4ng tin c\u1eadp nh\u1eadt t\u1eeb ch\u00ednh quy\u1ec1n \u0111\u1ecba ph\u01b0\u01a1ng v\u00e0 chu\u1ea9n b\u1ecb cho vi\u1ec7c tr\u00fa \u1ea9n l\u00e2u d\u00e0i n\u1ebfu c\u1ea7n thi\u1ebft. Th\u1ef1c hi\u1ec7n t\u1ea5t c\u1ea3 c\u00e1c khuy\u1ebfn ngh\u1ecb an to\u00e0n \u0111\u1ec3 b\u1ea3o v\u1ec7 b\u1ea3n th\u00e2n v\u00e0 ng\u01b0\u1eddi kh\u00e1c.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-12235-9"
+    },
+    "id": 28
+  },
+  {
+    "source": "**Tree Damage Alert:** This storm may cause significant tree damage. Be cautious of falling trees and limbs. Stay indoors and monitor local authorities for updates regarding road safety and any obstructed pathways.",
+    "target": "** C\u1ea3nh b\u00e1o v\u1ec1 thi\u1ec7t h\u1ea1i c\u00e2y:** B\u00e3o n\u00e0y c\u00f3 th\u1ec3 g\u00e2y ra thi\u1ec7t h\u1ea1i l\u1edbn cho c\u00e2y. H\u00e3y c\u1ea9n th\u1eadn v\u1edbi c\u00e2y v\u00e0 c\u00e0nh c\u00e2y r\u01a1i xu\u1ed1ng. H\u00e3y \u1edf trong nh\u00e0 v\u00e0 theo d\u00f5i c\u00e1c c\u01a1 quan \u0111\u1ecba ph\u01b0\u01a1ng \u0111\u1ec3 c\u1eadp nh\u1eadt v\u1ec1 an to\u00e0n \u0111\u01b0\u1eddng b\u1ed9 v\u00e0 b\u1ea5t k\u1ef3 con \u0111\u01b0\u1eddng b\u1ecb c\u1ea3n tr\u1edf n\u00e0o.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10966-6"
+    },
+    "id": 6
+  },
+  {
+    "source": "**Tree Damage Alert:** This storm may cause significant tree damage. Be cautious of falling trees and limbs. Stay indoors and monitor local authorities for updates regarding road safety and any obstructed pathways.",
+    "target": "**C\u1ea3nh b\u00e1o Thi\u1ec7t h\u1ea1i v\u1ec1 C\u00e2y c\u1ed1i:** C\u01a1n b\u00e3o n\u00e0y c\u00f3 th\u1ec3 g\u00e2y thi\u1ec7t h\u1ea1i \u0111\u00e1ng k\u1ec3 \u0111\u1ed1i v\u1edbi c\u00e2y c\u1ed1i. H\u00e3y c\u1ea9n th\u1eadn v\u1edbi c\u00e2y v\u00e0 c\u00e0nh c\u00e2y g\u00e3y \u0111\u1ed5. H\u00e3y \u1edf trong nh\u00e0 v\u00e0 theo d\u00f5i ch\u00ednh quy\u1ec1n \u0111\u1ecba ph\u01b0\u01a1ng \u0111\u1ec3 c\u1eadp nh\u1eadt th\u00f4ng tin v\u1ec1 an to\u00e0n giao th\u00f4ng \u0111\u01b0\u1eddng b\u1ed9 v\u00e0 c\u00e1c l\u1ed1i \u0111i b\u1ecb t\u1eafc ngh\u1ebdn.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10966-6"
+    },
+    "id": 9
+  },
+  {
+    "source": "**Tree Damage Alert:** This storm may cause significant tree damage. Be cautious of falling trees and limbs. Stay indoors and monitor local authorities for updates regarding road safety and any obstructed pathways.",
+    "target": "**C\u1ea3nh b\u00e1o thi\u1ec7t h\u1ea1i c\u00e2y xanh:** C\u01a1n b\u00e3o n\u00e0y c\u00f3 th\u1ec3 g\u00e2y thi\u1ec7t h\u1ea1i \u0111\u00e1ng k\u1ec3 cho c\u00e2y xanh. H\u00e3y th\u1eadn tr\u1ecdng v\u1edbi c\u00e2y v\u00e0 c\u00e0nh r\u01a1i. \u1ede trong nh\u00e0 v\u00e0 theo d\u00f5i th\u00f4ng tin t\u1eeb ch\u00ednh quy\u1ec1n \u0111\u1ecba ph\u01b0\u01a1ng \u0111\u1ec3 c\u1eadp nh\u1eadt v\u1ec1 an to\u00e0n \u0111\u01b0\u1eddng s\u00e1 v\u00e0 c\u00e1c l\u1ed1i \u0111i b\u1ecb c\u1ea3n tr\u1edf.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-10966-6"
+    },
+    "id": 25
+  },
+  {
+    "source": "A Flash Flood Watch has been issued for Grand Isle, with an additional 3-6 inches of rainfall expected. Take precautions immediately by finding safe shelter and avoiding floodwaters. Do not attempt to walk or drive through any flooded areas. Turn around if you encounter water on the road.",
+    "target": "C\u1ea3nh b\u00e1o theo d\u00f5i l\u0169 qu\u00e9t \u0111\u00e3 \u0111\u01b0\u1ee3c ban h\u00e0nh cho Grand Isle, v\u1edbi l\u01b0\u1ee3ng m\u01b0a d\u1ef1 ki\u1ebfn s\u1ebd t\u0103ng th\u00eam t\u1eeb 3-6 inch. H\u00e3y th\u1ef1c hi\u1ec7n ngay c\u00e1c bi\u1ec7n ph\u00e1p ph\u00f2ng ng\u1eeba b\u1eb1ng c\u00e1ch t\u00ecm n\u01a1i tr\u00fa \u1ea9n an to\u00e0n v\u00e0 tr\u00e1nh xa v\u00f9ng n\u01b0\u1edbc l\u0169. Kh\u00f4ng c\u1ed1 g\u1eafng \u0111i b\u1ed9 ho\u1eb7c l\u00e1i xe qua b\u1ea5t k\u1ef3 khu v\u1ef1c ng\u1eadp l\u1ee5t n\u00e0o. H\u00e3y quay \u0111\u1ea7u l\u1ea1i n\u1ebfu b\u1ea1n g\u1eb7p n\u01b0\u1edbc tr\u00ean \u0111\u01b0\u1eddng.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-4878-4"
+    },
+    "id": 4
+  },
+  {
+    "source": "A Flash Flood Watch has been issued for Grand Isle, with an additional 3-6 inches of rainfall expected. Take precautions immediately by finding safe shelter and avoiding floodwaters. Do not attempt to walk or drive through any flooded areas. Turn around if you encounter water on the road.",
+    "target": "M\u1ed9t B\u1ea3n tin Theo d\u00f5i Nguy c\u01a1 Ng\u1eadp l\u1ee5t \u0110\u1ed9t ng\u1ed9t \u0111\u00e3 \u0111\u01b0\u1ee3c ban b\u1ed1 cho Grand Isle, v\u1edbi d\u1ef1 b\u00e1o l\u01b0\u1ee3ng m\u01b0a c\u00f3 th\u1ec3 t\u0103ng th\u00eam 3-6 inch. H\u00e3y l\u1eadp t\u1ee9c th\u1ef1c hi\u1ec7n c\u00e1c bi\u1ec7n ph\u00e1p ph\u00f2ng ng\u1eeba b\u1eb1ng c\u00e1ch t\u00ecm n\u01a1i tr\u00fa \u1ea9n an to\u00e0n v\u00e0 tr\u00e1nh xa v\u00f9ng n\u01b0\u1edbc ng\u1eadp. Kh\u00f4ng c\u1ed1 g\u1eafng \u0111i b\u1ed9 ho\u1eb7c l\u00e1i xe qua b\u1ea5t k\u1ef3 khu v\u1ef1c n\u00e0o \u0111ang b\u1ecb ng\u1eadp. H\u00e3y quay \u0111\u1ea7u n\u1ebfu b\u1ea1n g\u1eb7p n\u01b0\u1edbc tr\u00ean \u0111\u01b0\u1eddng.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-4878-4"
+    },
+    "id": 44
+  },
+  {
+    "source": "A Flash Flood Watch has been issued for Grand Isle, with an additional 3-6 inches of rainfall expected. Take precautions immediately by finding safe shelter and avoiding floodwaters. Do not attempt to walk or drive through any flooded areas. Turn around if you encounter water on the road.",
+    "target": "M\u1ed9t c\u1ea3nh b\u00e1o l\u0169 l\u1ee5t \u0111\u00e3 \u0111\u01b0\u1ee3c ban h\u00e0nh cho Grand Isle, v\u1edbi th\u00eam 3-6 inch m\u01b0a d\u1ef1 ki\u1ebfn. H\u00e3y ph\u00f2ng ng\u1eeba ngay l\u1eadp t\u1ee9c b\u1eb1ng c\u00e1ch t\u00ecm n\u01a1i tr\u00fa \u1ea9n an to\u00e0n v\u00e0 tr\u00e1nh n\u01b0\u1edbc l\u0169. \u0110\u1eebng c\u1ed1 g\u1eafng \u0111i b\u1ed9 ho\u1eb7c l\u00e1i xe qua b\u1ea5t k\u1ef3 khu v\u1ef1c b\u1ecb ng\u1eadp l\u1ee5ta n\u00e0o. Quay l\u1ea1i n\u1ebfu b\u1ea1n g\u1eb7p n\u01b0\u1edbc tr\u00ean \u0111\u01b0\u1eddng.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-4878-4"
+    },
+    "id": 45
+  },
+  {
+    "source": "At 11.3 feet, low water crossings in Mission Valley will be submerged and closed. Stay clear of impacted roads, including Fashion Valley Road and Avenida Del Rio. If you\u2019re traveling, seek alternative routes and avoid driving unless absolutely necessary.",
+    "target": "\u1ede m\u1ee9c 11,3 feet, c\u00e1c \u0111\u01b0\u1eddng tr\u00e0n v\u00f9ng tr\u0169ng t\u1ea1i Mission Valley s\u1ebd b\u1ecb ng\u1eadp v\u00e0 \u0111\u00f3ng l\u1ea1i. H\u00e3y tr\u00e1nh xa c\u00e1c tuy\u1ebfn \u0111\u01b0\u1eddng b\u1ecb \u1ea3nh h\u01b0\u1edfng, bao g\u1ed3m Fashion Valley Road v\u00e0 Avenida Del Rio. N\u1ebfu b\u1ea1n \u0111ang di chuy\u1ec3n, h\u00e3y t\u00ecm c\u00e1c l\u1ed9 tr\u00ecnh thay th\u1ebf v\u00e0 tr\u00e1nh l\u00e1i xe tr\u1eeb khi th\u1ef1c s\u1ef1 c\u1ea7n thi\u1ebft.",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-14437-5"
+    },
+    "id": 16
+  },
+  {
+    "source": "At 11.3 feet, low water crossings in Mission Valley will be submerged and closed. Stay clear of impacted roads, including Fashion Valley Road and Avenida Del Rio. If you\u2019re traveling, seek alternative routes and avoid driving unless absolutely necessary.",
+    "target": "\u1ede \u0111\u1ed9 cao 11,3 feet, c\u00e1c \u0111\u01b0\u1eddng b\u0103ng n\u01b0\u1edbc th\u1ea5p \u1edf Mission Valley s\u1ebd b\u1ecb ng\u1eadp v\u00e0 \u0111\u00f3ng c\u1eeda. H\u00e3y tr\u00e1nh xa nh\u1eefng con \u0111\u01b0\u1eddng b\u1ecb \u1ea3nh h\u01b0\u1edfng, bao g\u1ed3m c\u1ea3 Fashion Valley Road v\u00e0 Avenida Del Rio. N\u1ebfu b\u1ea1n \u0111ang \u0111i du l\u1ecbch, h\u00e3y t\u00ecm c\u00e1c tuy\u1ebfn \u0111\u01b0\u1eddng thay th\u1ebf v\u00e0 tr\u00e1nh l\u00e1i xe tr\u1eeb khi ho\u00e0n to\u00e0n c\u1ea7n thi\u1ebft.",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-14437-5"
+    },
+    "id": 18
+  },
+  {
+    "source": "At 11.3 feet, low water crossings in Mission Valley will be submerged and closed. Stay clear of impacted roads, including Fashion Valley Road and Avenida Del Rio. If you\u2019re traveling, seek alternative routes and avoid driving unless absolutely necessary.",
+    "target": "\u1ede m\u1ef1c n\u01b0\u1edbc 11,3 feet, c\u00e1c \u0111i\u1ec3m tr\u00e0n n\u01b0\u1edbc th\u1ea5p t\u1ea1i Mission Valley s\u1ebd b\u1ecb ng\u1eadp v\u00e0 \u0111\u00f3ng c\u1eeda. H\u00e3y tr\u00e1nh xa c\u00e1c tuy\u1ebfn \u0111\u01b0\u1eddng b\u1ecb \u1ea3nh h\u01b0\u1edfng, bao g\u1ed3m \u0111\u01b0\u1eddng Fashion Valley Road v\u00e0 Avenida Del Rio. N\u1ebfu b\u1ea1n \u0111ang di chuy\u1ec3n, h\u00e3y t\u00ecm tuy\u1ebfn \u0111\u01b0\u1eddng thay th\u1ebf v\u00e0 kh\u00f4ng l\u00e1i xe tr\u1eeb khi th\u1eadt s\u1ef1 c\u1ea7n thi\u1ebft.",
+    "edits": [],
+    "metadata": {
+      "event_id": "dev-14437-5"
+    },
+    "id": 36
+  },
+  {
+    "source": "Attention: A volcanic eruption has occurred, leading to the possibility of a tsunami in the coastal areas. Follow evacuation orders from local authorities without delay. Seek higher ground immediately and avoid areas along the coast. If you are indoors, stay put until you receive further instructions.",
+    "target": "L\u01b0u \u00fd: M\u1ed9t v\u1ee5 phun tr\u00e0o n\u00fai l\u1eeda \u0111\u00e3 x\u1ea3y ra, d\u1eabn \u0111\u1ebfn nguy c\u01a1 s\u00f3ng th\u1ea7n \u1edf c\u00e1c khu v\u1ef1c ven bi\u1ec3n. H\u00e3y tu\u00e2n theo c\u00e1c l\u1ec7nh s\u01a1 t\u00e1n c\u1ee7a ch\u00ednh quy\u1ec1n \u0111\u1ecba ph\u01b0\u01a1ng m\u00e0 kh\u00f4ng tr\u00ec ho\u00e3n. H\u00e3y t\u00ecm \u0111\u1ebfn v\u00f9ng \u0111\u1ea5t cao h\u01a1n ngay l\u1eadp t\u1ee9c v\u00e0 tr\u00e1nh c\u00e1c khu v\u1ef1c d\u1ecdc theo b\u1edd bi\u1ec3n. N\u1ebfu b\u1ea1n \u0111ang \u1edf trong nh\u00e0, h\u00e3y \u1edf nguy\u00ean t\u1ea1i ch\u1ed7 cho \u0111\u1ebfn khi nh\u1eadn \u0111\u01b0\u1ee3c h\u01b0\u1edbng d\u1eabn ti\u1ebfp theo.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-12385-0"
+    },
+    "id": 31
+  },
+  {
+    "source": "Attention: A volcanic eruption has occurred, leading to the possibility of a tsunami in the coastal areas. Follow evacuation orders from local authorities without delay. Seek higher ground immediately and avoid areas along the coast. If you are indoors, stay put until you receive further instructions.",
+    "target": "Ch\u00fa \u00fd: \u0110\u00e3 x\u1ea3y ra m\u1ed9t v\u1ee5 phun tr\u00e0o n\u00fai l\u1eeda, d\u1eabn \u0111\u1ebfn kh\u1ea3 n\u0103ng xu\u1ea5t hi\u1ec7n s\u00f3ng th\u1ea7n t\u1ea1i c\u00e1c khu v\u1ef1c ven bi\u1ec3n. H\u00e3y tu\u00e2n theo l\u1ec7nh s\u01a1 t\u00e1n c\u1ee7a ch\u00ednh quy\u1ec1n \u0111\u1ecba ph\u01b0\u01a1ng kh\u00f4ng \u0111\u01b0\u1ee3c ch\u1eadm tr\u1ec5. H\u00e3y l\u1eadp t\u1ee9c di chuy\u1ec3n \u0111\u1ebfn n\u01a1i cao r\u00e1o h\u01a1n v\u00e0 tr\u00e1nh xa c\u00e1c khu v\u1ef1c d\u1ecdc b\u1edd bi\u1ec3n. N\u1ebfu b\u1ea1n \u0111ang \u1edf trong nh\u00e0, h\u00e3y \u1edf y\u00ean t\u1ea1i ch\u1ed7 cho \u0111\u1ebfn khi nh\u1eadn \u0111\u01b0\u1ee3c h\u01b0\u1edbng d\u1eabn ti\u1ebfp theo.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-12385-0"
+    },
+    "id": 35
+  },
+  {
+    "source": "Attention: A volcanic eruption has occurred, leading to the possibility of a tsunami in the coastal areas. Follow evacuation orders from local authorities without delay. Seek higher ground immediately and avoid areas along the coast. If you are indoors, stay put until you receive further instructions.",
+    "target": "Ch\u00fa \u00fd: M\u1ed9t v\u1ee5 phun tr\u00e0o n\u00fai l\u1eeda \u0111\u00e3 x\u1ea3y ra, d\u1eabn \u0111\u1ebfn kh\u1ea3 n\u0103ng x\u1ea3y ra s\u00f3ng th\u1ea7n \u1edf c\u00e1c khu v\u1ef1c ven bi\u1ec3n. L\u01b0u \u00fd tu\u00e2n theo l\u1ec7nh s\u01a1 t\u00e1n t\u1eeb c\u00e1c nh\u00e0 ch\u1ee9c tr\u00e1ch \u0111\u1ecba ph\u01b0\u01a1ng ngay l\u1eadp t\u1ee9c. T\u00ecm ki\u1ebfm \u0111\u1ecba \u0111i\u1ec3m cao h\u01a1n ngay l\u1eadp tr\u01b0\u1eddng v\u00e0 tr\u00e1nh c\u00e1c khu ph\u1ed1 d\u1ecdc theo b\u1edd bi\u1ec3n. N\u1ebfu b\u1ea1n \u1edf trong nh\u00e0, h\u00e3y \u1edf y\u00ean cho \u0111\u1ebfn khi b\u1ea1n nh\u1eadn \u0111\u01b0\u1ee3c h\u01b0\u1edbng d\u1eabn th\u00eam.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-12385-0"
+    },
+    "id": 48
+  },
+  {
+    "source": "Cold wind chills as low as 20 degrees below zero can potentially lead to frostbite on exposed skin in just 30 minutes. Limit exposure and protect your skin by wearing gloves, hats, and scarves when outside. If you notice any signs of frostbite, seek warmth immediately.",
+    "target": "Gi\u00f3 l\u1ea1nh v\u1edbi c\u1ea3m gi\u00e1c nhi\u1ec7t \u0111\u1ed9 th\u1ea5p t\u1edbi -20 \u0111\u1ed9 c\u00f3 th\u1ec3 g\u00e2y b\u1ecfng l\u1ea1nh cho v\u00f9ng da h\u1edf ch\u1ec9 trong v\u00f2ng 30 ph\u00fat. H\u00e3y h\u1ea1n ch\u1ebf ti\u1ebfp x\u00fac v\u00e0 b\u1ea3o v\u1ec7 da b\u1eb1ng c\u00e1ch \u0111eo g\u0103ng tay, \u0111\u1ed9i m\u0169 v\u00e0 qu\u00e0ng kh\u0103n khi ra ngo\u00e0i. N\u1ebfu b\u1ea1n nh\u1eadn th\u1ea5y b\u1ea5t k\u1ef3 d\u1ea5u hi\u1ec7u n\u00e0o c\u1ee7a b\u1ecfng l\u1ea1nh, h\u00e3y t\u00ecm \u0111\u1ebfn n\u01a1i \u1ea5m \u00e1p ngay l\u1eadp t\u1ee9c.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-13674-7"
+    },
+    "id": 12
+  },
+  {
+    "source": "Cold wind chills as low as 20 degrees below zero can potentially lead to frostbite on exposed skin in just 30 minutes. Limit exposure and protect your skin by wearing gloves, hats, and scarves when outside. If you notice any signs of frostbite, seek warmth immediately.",
+    "target": "Gi\u00f3 l\u1ea1nh bu\u1ed1t c\u00f3 th\u1ec3 xu\u1ed1ng th\u1ea5p t\u1edbi \u00e2m 20 \u0111\u1ed9 c\u00f3 kh\u1ea3 n\u0103ng d\u1eabn \u0111\u1ebfn b\u1ecfng l\u1ea1nh tr\u00ean v\u00f9ng da h\u1edf ch\u1ec9 trong 30 ph\u00fat. H\u00e3y h\u1ea1n ch\u1ebf ti\u1ebfp x\u00fac v\u00e0 b\u1ea3o v\u1ec7 l\u00e0n da c\u1ee7a b\u1ea1n b\u1eb1ng c\u00e1ch \u0111eo g\u0103ng tay, \u0111\u1ed9i m\u0169 v\u00e0 qu\u00e0ng kh\u0103n khi ra ngo\u00e0i tr\u1eddi. N\u1ebfu b\u1ea1n nh\u1eadn th\u1ea5y b\u1ea5t k\u1ef3 d\u1ea5u hi\u1ec7u b\u1ecfng l\u1ea1nh n\u00e0o, h\u00e3y t\u00ecm n\u01a1i \u1ea5m \u00e1p ngay l\u1eadp t\u1ee9c.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-13674-7"
+    },
+    "id": 19
+  },
+  {
+    "source": "Cold wind chills as low as 20 degrees below zero can potentially lead to frostbite on exposed skin in just 30 minutes. Limit exposure and protect your skin by wearing gloves, hats, and scarves when outside. If you notice any signs of frostbite, seek warmth immediately.",
+    "target": "Gi\u00f3 l\u1ea1nh \u1edf m\u1ee9c 20 \u0111\u1ed9 d\u01b0\u1edbi kh\u00f4ng c\u00f3 kh\u1ea3 n\u0103ng d\u1eabn \u0111\u1ebfn b\u1ecb \u0111\u00f4ng l\u1ea1nh tr\u00ean da ch\u1ec9 trong 30 ph\u00fat. H\u1ea1n ch\u1ebf ti\u1ebfp x\u00fac v\u00e0 b\u1ea3o v\u1ec7 da b\u1eb1ng c\u00e1ch \u0111eo g\u0103ng tay, m\u0169 v\u00e0 kh\u0103n khi ra ngo\u00e0i. N\u1ebfu b\u1ea1n nh\u1eadn th\u1ea5y b\u1ea5t k\u1ef3 d\u1ea5u hi\u1ec7u b\u1ecb \u0111\u00f4ng c\u1ee9ng n\u00e0o, h\u00e3y t\u00ecm \u1ea5m ngay l\u1eadp t\u1ee9c.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-13674-7"
+    },
+    "id": 43
+  },
+  {
+    "source": "In Roeton, please take precautions by staying indoors during the severe weather. Monitor updates from local authorities for additional guidance.",
+    "target": "T\u1ea1i Roeton, xin vui l\u00f2ng th\u1ef1c hi\u1ec7n c\u00e1c bi\u1ec7n ph\u00e1p ph\u00f2ng ng\u1eeba b\u1eb1ng c\u00e1ch \u1edf trong nh\u00e0 khi th\u1eddi ti\u1ebft kh\u1eafc nghi\u1ec7t. H\u00e3y theo d\u00f5i c\u00e1c c\u1eadp nh\u1eadt t\u1eeb ch\u00ednh quy\u1ec1n \u0111\u1ecba ph\u01b0\u01a1ng \u0111\u1ec3 bi\u1ebft th\u00eam h\u01b0\u1edbng d\u1eabn.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-9402-24"
+    },
+    "id": 22
+  },
+  {
+    "source": "In Roeton, please take precautions by staying indoors during the severe weather. Monitor updates from local authorities for additional guidance.",
+    "target": "T\u1ea1i Roeton, vui l\u00f2ng th\u1ef1c hi\u1ec7n c\u00e1c bi\u1ec7n ph\u00e1p ph\u00f2ng ng\u1eeba b\u1eb1ng c\u00e1ch \u1edf trong nh\u00e0 trong th\u1eddi ti\u1ebft kh\u1eafc nghi\u1ec7t. Theo d\u00f5i c\u00e1c th\u00f4ng tin c\u1eadp nh\u1eadt t\u1eeb ch\u00ednh quy\u1ec1n \u0111\u1ecba ph\u01b0\u01a1ng \u0111\u1ec3 \u0111\u01b0\u1ee3c h\u01b0\u1edbng d\u1eabn th\u00eam.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-9402-24"
+    },
+    "id": 29
+  },
+  {
+    "source": "In Roeton, please take precautions by staying indoors during the severe weather. Monitor updates from local authorities for additional guidance.",
+    "target": "T\u1ea1i Roeton, xin h\u00e3y th\u1eadn tr\u1ecdng b\u1eb1ng c\u00e1ch \u1edf trong nh\u00e0 trong th\u1eddi ti\u1ebft kh\u1eafc nghi\u1ec7t. Theo d\u00f5i c\u00e1c c\u1eadp nh\u1eadt t\u1eeb ch\u00ednh quy\u1ec1n \u0111\u1ecba ph\u01b0\u01a1ng \u0111\u1ec3 c\u00f3 h\u01b0\u1edbng d\u1eabn b\u1ed5 sung.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-9402-24"
+    },
+    "id": 41
+  },
+  {
+    "source": "Port Angeles, WA: A tsunami wave height of 0.8 ft (25 cm) has been reported. If you receive evacuation orders, leave right away and head to higher ground. Keep all doors and windows sealed to protect against possible ash fallout. Remember, texting is often more reliable than calling to communicate with others.",
+    "target": "Port Angeles, bang Washington: \u0110\u00e3 ghi nh\u1eadn s\u00f3ng th\u1ea7n cao 0,8 ft (25 cm). N\u1ebfu b\u1ea1n nh\u1eadn \u0111\u01b0\u1ee3c l\u1ec7nh s\u01a1 t\u00e1n, h\u00e3y r\u1eddi \u0111i ngay v\u00e0 di chuy\u1ec3n \u0111\u1ebfn v\u00f9ng \u0111\u1ea5t cao h\u01a1n. H\u00e3y \u0111\u00f3ng k\u00edn t\u1ea5t c\u1ea3 c\u1eeda ra v\u00e0o v\u00e0 c\u1eeda s\u1ed5 \u0111\u1ec3 b\u1ea3o v\u1ec7 tr\u01b0\u1edbc kh\u1ea3 n\u0103ng tro b\u1ee5i r\u01a1i xu\u1ed1ng. Xin nh\u1edb r\u1eb1ng nh\u1eafn tin th\u01b0\u1eddng \u0111\u00e1ng tin c\u1eady h\u01a1n g\u1ecdi \u0111i\u1ec7n khi li\u00ean l\u1ea1c v\u1edbi ng\u01b0\u1eddi kh\u00e1c.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-12413-3"
+    },
+    "id": 15
+  },
+  {
+    "source": "Port Angeles, WA: A tsunami wave height of 0.8 ft (25 cm) has been reported. If you receive evacuation orders, leave right away and head to higher ground. Keep all doors and windows sealed to protect against possible ash fallout. Remember, texting is often more reliable than calling to communicate with others.",
+    "target": "Port Angeles, WA: \u0110\u00e3 ghi nh\u1eadn chi\u1ec1u cao s\u00f3ng th\u1ea7n l\u00e0 0,8 ft (25 cm). N\u1ebfu b\u1ea1n nh\u1eadn \u0111\u01b0\u1ee3c l\u1ec7nh s\u01a1 t\u00e1n, h\u00e3y r\u1eddi \u0111i ngay l\u1eadp t\u1ee9c v\u00e0 di chuy\u1ec3n \u0111\u1ebfn v\u00f9ng \u0111\u1ea5t cao h\u01a1n. \u0110\u00f3ng k\u00edn t\u1ea5t c\u1ea3 c\u00e1c c\u1eeda ra v\u00e0o v\u00e0 c\u1eeda s\u1ed5 \u0111\u1ec3 b\u1ea3o v\u1ec7 tr\u01b0\u1edbc nguy c\u01a1 tro b\u1ee5i r\u01a1i xu\u1ed1ng. H\u00e3y nh\u1edb r\u1eb1ng, nh\u1eafn tin th\u01b0\u1eddng \u0111\u00e1ng tin c\u1eady h\u01a1n g\u1ecdi \u0111i\u1ec7n \u0111\u1ec3 li\u00ean l\u1ea1c v\u1edbi ng\u01b0\u1eddi kh\u00e1c.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-12413-3"
+    },
+    "id": 20
+  },
+  {
+    "source": "Port Angeles, WA: A tsunami wave height of 0.8 ft (25 cm) has been reported. If you receive evacuation orders, leave right away and head to higher ground. Keep all doors and windows sealed to protect against possible ash fallout. Remember, texting is often more reliable than calling to communicate with others.",
+    "target": "Port Angeles, WA: M\u1ed9t s\u00f3ng s\u00f3ng s\u00f3ng th\u1ea7n cao 25 cm \u0111\u00e3 \u0111\u01b0\u1ee3c b\u00e1o c\u00e1o. N\u1ebfu b\u1ea1n nh\u1eadn \u0111\u01b0\u1ee3c l\u1ec7nh s\u01a1 t\u00e1n, h\u00e3y r\u1eddi kh\u1ecfi ngay l\u1eadp t\u1ee9c v\u00e0 \u0111i \u0111\u1ebfn v\u00f9ng cao h\u01a1n. Gi\u1eef t\u1ea5t c\u1ea3 c\u1eeda s\u1ed5 v\u00e0 c\u1eeda s\u1ed5 b\u1ecb ni\u00eam phong \u0111\u1ec3 b\u1ea3o v\u1ec7 ch\u1ed1ng l\u1ea1i s\u1ef1 r\u01a1i tro tro. H\u00e3y nh\u1edb, nh\u1eafn tin th\u01b0\u1eddng \u0111\u00e1ng tin c\u1eady h\u01a1n l\u00e0 g\u1ecdi \u0111i\u1ec7n \u0111\u1ec3 giao ti\u1ebfp v\u1edbi ng\u01b0\u1eddi kh\u00e1c.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-12413-3"
+    },
+    "id": 47
+  },
+  {
+    "source": "Residents of Corpus Christi Country Club should find safe shelter indoors and avoid outdoor activities until confirmation that the storm has passed. Follow local news for further updates and instructions.",
+    "target": "C\u01b0 d\u00e2n c\u1ee7a Corpus Christi Country Club n\u00ean t\u00ecm n\u01a1i tr\u00fa \u1ea9n an to\u00e0n trong nh\u00e0 v\u00e0 tr\u00e1nh c\u00e1c ho\u1ea1t \u0111\u1ed9ng ngo\u00e0i tr\u1eddi cho \u0111\u1ebfn khi c\u00f3 x\u00e1c nh\u1eadn c\u01a1n b\u00e3o \u0111\u00e3 qua. H\u00e3y theo d\u00f5i tin t\u1ee9c \u0111\u1ecba ph\u01b0\u01a1ng \u0111\u1ec3 c\u1eadp nh\u1eadt th\u00eam v\u00e0 nh\u1eadn h\u01b0\u1edbng d\u1eabn.",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17309-24"
+    },
+    "id": 33
+  },
+  {
+    "source": "Residents of Corpus Christi Country Club should find safe shelter indoors and avoid outdoor activities until confirmation that the storm has passed. Follow local news for further updates and instructions.",
+    "target": "Ng\u01b0\u1eddi d\u00e2n t\u1ea1i C\u00e2u l\u1ea1c b\u1ed9 Ch\u01a1i Ch\u01a1i Corpus Christi n\u00ean t\u00ecm n\u01a1i tr\u00fa \u1ea9n an to\u00e0n trong nh\u00e0 v\u00e0 tr\u00e1nh c\u00e1c ho\u1ea1t \u0111\u1ed9ng ngo\u00e0i tr\u1eddi cho \u0111\u1ebfn khi x\u00e1c nh\u1eadn c\u01a1n b\u00e3o \u0111\u00e3 qua.",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17309-24"
+    },
+    "id": 34
+  },
+  {
+    "source": "Residents of Corpus Christi Country Club should find safe shelter indoors and avoid outdoor activities until confirmation that the storm has passed. Follow local news for further updates and instructions.",
+    "target": "C\u01b0 d\u00e2n t\u1ea1i Corpus Christi Country Club n\u00ean t\u00ecm n\u01a1i tr\u00fa \u1ea9n an to\u00e0n trong nh\u00e0 v\u00e0 tr\u00e1nh c\u00e1c ho\u1ea1t \u0111\u1ed9ng ngo\u00e0i tr\u1eddi cho \u0111\u1ebfn khi c\u00f3 x\u00e1c nh\u1eadn r\u1eb1ng c\u01a1n b\u00e3o \u0111\u00e3 qua. H\u00e3y theo d\u00f5i tin t\u1ee9c \u0111\u1ecba ph\u01b0\u01a1ng \u0111\u1ec3 c\u1eadp nh\u1eadt th\u00eam th\u00f4ng tin v\u00e0 h\u01b0\u1edbng d\u1eabn.",
+    "edits": [],
+    "metadata": {
+      "event_id": "test-17309-24"
+    },
+    "id": 46
+  },
+  {
+    "source": "Severe thunderstorms are impacting I-10 near the Crockett-Sutton County line. If you are traveling or residing in this area, please stop at a safe location and wait for conditions to improve. Stay informed on weather updates and safety recommendations.",
+    "target": "C\u00e1c c\u01a1n d\u00f4ng b\u00e3o d\u1eef d\u1ed9i \u0111ang \u1ea3nh h\u01b0\u1edfng \u0111\u1ebfn \u0111\u01b0\u1eddng I-10 g\u1ea7n ranh gi\u1edbi qu\u1eadn Crockett-Sutton. N\u1ebfu b\u1ea1n \u0111ang di chuy\u1ec3n ho\u1eb7c sinh s\u1ed1ng trong khu v\u1ef1c n\u00e0y, vui l\u00f2ng d\u1eebng l\u1ea1i \u1edf m\u1ed9t \u0111\u1ecba \u0111i\u1ec3m an to\u00e0n v\u00e0 ch\u1edd cho \u0111i\u1ec1u ki\u1ec7n th\u1eddi ti\u1ebft c\u1ea3i thi\u1ec7n. H\u00e3y li\u00ean t\u1ee5c c\u1eadp nh\u1eadt th\u00f4ng tin th\u1eddi ti\u1ebft v\u00e0 c\u00e1c khuy\u1ebfn ngh\u1ecb an to\u00e0n.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-9360-9"
+    },
+    "id": 7
+  },
+  {
+    "source": "Severe thunderstorms are impacting I-10 near the Crockett-Sutton County line. If you are traveling or residing in this area, please stop at a safe location and wait for conditions to improve. Stay informed on weather updates and safety recommendations.",
+    "target": "Nh\u1eefng c\u01a1n gi\u00f4ng b\u00e3o d\u1eef d\u1ed9i \u0111ang \u1ea3nh h\u01b0\u1edfng \u0111\u1ebfn tuy\u1ebfn I-10 g\u1ea7n ranh gi\u1edbi gi\u1eefa hai qu\u1eadn Crockett v\u00e0 Sutton. N\u1ebfu b\u1ea1n \u0111ang di chuy\u1ec3n ho\u1eb7c sinh s\u1ed1ng trong khu v\u1ef1c n\u00e0y, vui l\u00f2ng d\u1eebng l\u1ea1i \u1edf m\u1ed9t \u0111\u1ecba \u0111i\u1ec3m an to\u00e0n v\u00e0 ch\u1edd cho \u0111\u1ebfn khi \u0111i\u1ec1u ki\u1ec7n th\u1eddi ti\u1ebft \u0111\u01b0\u1ee3c c\u1ea3i thi\u1ec7n. H\u00e3y theo d\u00f5i c\u00e1c b\u1ea3n tin th\u1eddi ti\u1ebft v\u00e0 khuy\u1ebfn ngh\u1ecb an to\u00e0n.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-9360-9"
+    },
+    "id": 13
+  },
+  {
+    "source": "Severe thunderstorms are impacting I-10 near the Crockett-Sutton County line. If you are traveling or residing in this area, please stop at a safe location and wait for conditions to improve. Stay informed on weather updates and safety recommendations.",
+    "target": "B\u00e3o s\u00e9t m\u1ea1nh \u0111ang \u1ea3nh h\u01b0\u1edfng \u0111\u1ebfn I-10 g\u1ea7n \u0111\u01b0\u1eddng bi\u00ean gi\u1edbi Qu\u1eadn Crockett-Sutton. N\u1ebfu b\u1ea1n \u0111ang \u0111i du l\u1ecbch ho\u1eb7c c\u01b0 tr\u00fa trong khu v\u1ef1c n\u00e0y, vui l\u00f2ng d\u1eebng l\u1ea1i t\u1ea1i m\u1ed9t \u0111\u1ecba \u0111i\u1ec3m an to\u00e0n v\u00e0 ch\u1edd \u0111\u1ee3i \u0111i\u1ec1u ki\u1ec7n c\u1ea3i thi\u1ec7n. H\u00e3y lu\u00f4n \u0111\u01b0\u1ee3c th\u00f4ng b\u00e1o v\u1ec1 c\u1eadp nh\u1eadt th\u1eddi ti\u1ebft v\u00e0 khuy\u1ebfn ngh\u1ecb an to\u00e0n.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-9360-9"
+    },
+    "id": 40
+  },
+  {
+    "source": "The river is cresting and is expected to slowly decrease later today. Please stay indoors, away from rising water. If you are in a car caught in floodwaters, remain inside your vehicle and move to the roof if flooding rises. Keep a close eye on advisories and be ready to respond accordingly.",
+    "target": "M\u1ef1c n\u01b0\u1edbc s\u00f4ng \u0111ang \u0111\u1ea1t \u0111\u1ec9nh v\u00e0 d\u1ef1 ki\u1ebfn s\u1ebd gi\u1ea3m d\u1ea7n v\u00e0o cu\u1ed1i ng\u00e0y h\u00f4m nay. Xin vui l\u00f2ng \u1edf trong nh\u00e0, tr\u00e1nh xa v\u00f9ng n\u01b0\u1edbc \u0111ang d\u00e2ng cao. N\u1ebfu b\u1ea1n \u0111ang \u1edf trong xe \u00f4 t\u00f4 b\u1ecb m\u1eafc k\u1eb9t gi\u1eefa d\u00f2ng n\u01b0\u1edbc l\u0169, h\u00e3y \u1edf y\u00ean b\u00ean trong xe v\u00e0 tr\u00e8o l\u00ean n\u00f3c xe n\u1ebfu n\u01b0\u1edbc l\u0169 d\u00e2ng cao h\u01a1n. H\u00e3y theo d\u00f5i s\u00e1t sao c\u00e1c th\u00f4ng b\u00e1o c\u1ea3nh b\u00e1o v\u00e0 s\u1eb5n s\u00e0ng \u1ee9ng ph\u00f3 ph\u00f9 h\u1ee3p.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-1102-4"
+    },
+    "id": 8
+  },
+  {
+    "source": "The river is cresting and is expected to slowly decrease later today. Please stay indoors, away from rising water. If you are in a car caught in floodwaters, remain inside your vehicle and move to the roof if flooding rises. Keep a close eye on advisories and be ready to respond accordingly.",
+    "target": "S\u00f4ng \u0111ang t\u0103ng cao v\u00e0 d\u1ef1 ki\u1ebfn s\u1ebd gi\u1ea3m d\u1ea7n sau n\u00e0y. Xin h\u00e3y \u1edf trong nh\u00e0, tr\u00e1nh xa n\u01b0\u1edbc t\u0103ng. N\u1ebfu b\u1ea1n \u0111ang \u1edf trong m\u1ed9t chi\u1ebfc xe b\u1ecb cu\u1ed1n trong n\u01b0\u1edbc l\u0169, h\u00e3y \u1edf b\u00ean trong xe c\u1ee7a b\u1ea1n v\u00e0 di chuy\u1ec3n l\u00ean m\u00e1i n\u1ebfu l\u0169 t\u0103ng. H\u00e3y theo d\u00f5i ch\u1eb7t ch\u1ebd c\u00e1c l\u1eddi khuy\u00ean v\u00e0 s\u1eb5n s\u00e0ng ph\u1ea3n \u1ee9ng ph\u00f9 h\u1ee3p.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-1102-4"
+    },
+    "id": 10
+  },
+  {
+    "source": "The river is cresting and is expected to slowly decrease later today. Please stay indoors, away from rising water. If you are in a car caught in floodwaters, remain inside your vehicle and move to the roof if flooding rises. Keep a close eye on advisories and be ready to respond accordingly.",
+    "target": "Con s\u00f4ng \u0111ang \u0111\u1ea1t \u0111\u1ec9nh v\u00e0 d\u1ef1 ki\u1ebfn s\u1ebd gi\u1ea3m d\u1ea7n v\u00e0o cu\u1ed1i ng\u00e0y h\u00f4m nay. Vui l\u00f2ng \u1edf trong nh\u00e0 v\u00e0 tr\u00e1nh xa n\u01b0\u1edbc d\u00e2ng cao. N\u1ebfu b\u1ea1n \u0111ang \u1edf trong \u00f4 t\u00f4 b\u1ecb m\u1eafc k\u1eb9t trong n\u01b0\u1edbc l\u0169, h\u00e3y \u1edf l\u1ea1i trong xe v\u00e0 di chuy\u1ec3n l\u00ean n\u00f3c xe n\u1ebfu n\u01b0\u1edbc ti\u1ebfp t\u1ee5c d\u00e2ng cao. H\u00e3y theo d\u00f5i ch\u1eb7t ch\u1ebd c\u00e1c th\u00f4ng tin c\u1ea3nh b\u00e1o v\u00e0 s\u1eb5n s\u00e0ng \u1ee9ng ph\u00f3 ph\u00f9 h\u1ee3p.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-1102-4"
+    },
+    "id": 11
+  },
+  {
+    "source": "Urgent advisory for the community in **[Location Name]**: A continued risk of shallow landslides is anticipated through Monday. If you see signs of instability, such as cracking ground or shifting debris, move to higher ground immediately. Evacuate low-lying areas and remain informed by local emergency services for the latest instructions.",
+    "target": "Th\u00f4ng b\u00e1o kh\u1ea9n c\u1ea5p d\u00e0nh cho c\u1ed9ng \u0111\u1ed3ng t\u1ea1i **[T\u00ean \u0110\u1ecba \u0111i\u1ec3m]**: Nguy c\u01a1 s\u1ea1t l\u1edf \u0111\u1ea5t n\u00f4ng ti\u1ebfp t\u1ee5c \u0111\u01b0\u1ee3c d\u1ef1 b\u00e1o \u0111\u1ebfn th\u1ee9 Hai. N\u1ebfu b\u1ea1n nh\u00ecn th\u1ea5y c\u00e1c d\u1ea5u hi\u1ec7u b\u1ea5t \u1ed5n, ch\u1eb3ng h\u1ea1n nh\u01b0 m\u1eb7t \u0111\u1ea5t n\u1ee9t ho\u1eb7c \u0111\u1ea5t \u0111\u00e1 d\u1ecbch chuy\u1ec3n, h\u00e3y di chuy\u1ec3n ngay \u0111\u1ebfn v\u00f9ng \u0111\u1ea5t cao h\u01a1n. H\u00e3y s\u01a1 t\u00e1n kh\u1ecfi c\u00e1c khu v\u1ef1c tr\u0169ng th\u1ea5p v\u00e0 th\u01b0\u1eddng xuy\u00ean c\u1eadp nh\u1eadt th\u00f4ng tin t\u1eeb c\u01a1 quan d\u1ecbch v\u1ee5 kh\u1ea9n c\u1ea5p \u0111\u1ecba ph\u01b0\u01a1ng \u0111\u1ec3 nh\u1eadn c\u00e1c h\u01b0\u1edbng d\u1eabn m\u1edbi nh\u1ea5t.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-5465-2"
+    },
+    "id": 3
+  },
+  {
+    "source": "Urgent advisory for the community in **[Location Name]**: A continued risk of shallow landslides is anticipated through Monday. If you see signs of instability, such as cracking ground or shifting debris, move to higher ground immediately. Evacuate low-lying areas and remain informed by local emergency services for the latest instructions.",
+    "target": "Th\u00f4ng b\u00e1o kh\u1ea9n c\u1ea5p cho c\u1ed9ng \u0111\u1ed3ng \u1edf **[T\u00ean \u0111\u1ecba \u0111i\u1ec3m]**: M\u1ed9t nguy c\u01a1 ti\u1ebfp t\u1ee5c l\u1edf \u0111\u1ea5t n\u00f4ng \u0111\u01b0\u1ee3c d\u1ef1 \u0111o\u00e1n cho \u0111\u1ebfn th\u1ee9 Hai. N\u1ebfu b\u1ea1n th\u1ea5y d\u1ea5u hi\u1ec7u b\u1ea5t \u1ed5n, ch\u1eb3ng h\u1ea1n nh\u01b0 n\u1ee9t \u0111\u1ea5t ho\u1eb7c di chuy\u1ec3n \u0111\u1ed1ng \u0111\u1ed5 n\u00e1t, h\u00e3y di chuy\u1ec3n \u0111\u1ebfn v\u00f9ng cao h\u01a1n ngay l\u1eadp t\u1ee9c. Di t\u1ea3n c\u00e1c khu v\u1ef1c th\u1ea5p v\u00e0 \u0111\u01b0\u1ee3c th\u00f4ng b\u00e1o b\u1edfi c\u00e1c d\u1ecbch v\u1ee5 kh\u1ea9n c\u1ea5p \u0111\u1ecba ph\u01b0\u01a1ng cho c\u00e1c h\u01b0\u1edbng d\u1eabn m\u1edbi nh\u1ea5t.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-5465-2"
+    },
+    "id": 5
+  },
+  {
+    "source": "Urgent advisory for the community in **[Location Name]**: A continued risk of shallow landslides is anticipated through Monday. If you see signs of instability, such as cracking ground or shifting debris, move to higher ground immediately. Evacuate low-lying areas and remain informed by local emergency services for the latest instructions.",
+    "target": "Th\u00f4ng b\u00e1o kh\u1ea9n c\u1ea5p d\u00e0nh cho c\u1ed9ng \u0111\u1ed3ng t\u1ea1i **[Location Name]**: Nguy c\u01a1 s\u1ea1t l\u1edf \u0111\u1ea5t n\u00f4ng \u0111\u01b0\u1ee3c d\u1ef1 b\u00e1o s\u1ebd ti\u1ebfp di\u1ec5n \u0111\u1ebfn h\u1ebft th\u1ee9 Hai. N\u1ebfu nh\u1eadn th\u1ea5y c\u00e1c d\u1ea5u hi\u1ec7u m\u1ea5t an to\u00e0n, ch\u1eb3ng h\u1ea1n nh\u01b0 n\u1ee9t \u0111\u1ea5t ho\u1eb7c \u0111\u1ea5t \u0111\u00e1 d\u1ecbch chuy\u1ec3n, h\u00e3y di chuy\u1ec3n ngay l\u1eadp t\u1ee9c \u0111\u1ebfn v\u00f9ng \u0111\u1ea5t cao h\u01a1n. H\u00e3y s\u01a1 t\u00e1n kh\u1ecfi c\u00e1c khu v\u1ef1c tr\u0169ng th\u1ea5p v\u00e0 li\u00ean t\u1ee5c c\u1eadp nh\u1eadt th\u00f4ng tin t\u1eeb c\u00e1c l\u1ef1c l\u01b0\u1ee3ng c\u1ee9u h\u1ed9 \u0111\u1ecba ph\u01b0\u01a1ng \u0111\u1ec3 nh\u1eadn ch\u1ec9 d\u1eabn m\u1edbi nh\u1ea5t.",
+    "edits": [],
+    "metadata": {
+      "event_id": "train-5465-2"
+    },
+    "id": 24
+  }
+]
